@@ -6,7 +6,7 @@ permalink: /teaching/2017-summer-teaching-2
 venue: "Brown University, Summer at Brown Program"
 date: 2017-07-01
 location: "Providence, RI"
-excerpt: 'AP Statistics and Introductory Econometrics for high school juniors and seniors '
+excerpt: 'AP Statistics and Introductory Econometrics for high school juniors and seniors. '
 ---
 
 We are exposed to economic data and statistical analysis wherever we go: at the supermarket through prices and quantities of goods, at school through relative performance and GPAs, and in advertising through comparisons between the new iPhone 6 and a competitor’s model. Understanding the message is not an issue, but being a critical user of that information requires a deeper understanding of statistical methods.

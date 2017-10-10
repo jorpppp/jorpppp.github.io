@@ -17,13 +17,13 @@ Working papers
 {% for post in site.research reversed %}
 	{% if post.type == 'working_paper' %}
 		{% include archive-single.html %}
-	[% endif%}
+	{% endif%}
 {% endfor %}
 
 Publications
 -------
 
-{% for post in site.publications reversed %}	
+{% for post in site.research reversed %}	
 	{% include archive-single.html %}
 {% endfor %}
 

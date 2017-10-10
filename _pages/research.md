@@ -24,7 +24,9 @@ Publications
 -------
 
 {% for post in site.research reversed %}	
-	{% include archive-single.html %}
+	{% if post.type == 'publication' %}
+		{% include archive-single.html %}
+	{% endif%}
 {% endfor %}
 
 

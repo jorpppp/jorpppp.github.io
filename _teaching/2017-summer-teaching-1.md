@@ -9,10 +9,10 @@ location: "Bogotá, Colombia"
 excerpt: 'Introductory microeconomics course for economics and finance students'
 ---
 
-Consumer theory, producer theory, competitive markets, monopoly.
+Microeconomics I offers the necessary tools to analyze invididual behavior, firm behavior and their market interactions in extreme cases like competitive markets and monopolies.
 
-Primary instructor for an introductory microeconomics course for economics and finance students. Taught in Spanish.
+The course gives students basic concepts of neoclassical consumption and production theory. Students use mathematical tools to understand how markets determine prices.
 
-
+Primary instructor. Course taught in Spanish.
 
 [Class website](https://sites.google.com/site/jorpppp/teaching/micro-i-2017-intersemestral)

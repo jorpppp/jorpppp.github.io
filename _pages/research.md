@@ -17,18 +17,11 @@ Working papers
 ======
 
 {% for post in site.research reversed %}
-	{% if post.collection == 'working_paper' %}
-		{% include archive-single.html %}
-	{%endif %}
+	{% include archive-single.html %}
 {% endfor %}
 
 Publications
 ======
 
-{% for post in site.research reversed %}
-	{% if post.collection == 'publications' %}
-		{% include archive-single.html %}
-	{%endif %}
-{% endfor %}
 
 

@@ -206,34 +206,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _working_papers
-  - scope:
-      path: ""
-      type: working_papers
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-    # _portfolio
+  # _portfolio
   #- scope:
   #    path: ""
   #    type: portfolio

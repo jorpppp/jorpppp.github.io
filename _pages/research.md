@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -25,7 +23,7 @@ Working papers
 Publications
 -------
 
-{% for post in site.research reversed %}	
+{% for post in site.publications reversed %}	
 	{% include archive-single.html %}
 {% endfor %}
 

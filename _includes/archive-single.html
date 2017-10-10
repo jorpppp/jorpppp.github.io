@@ -42,7 +42,11 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'research' %}
 			{% if post.type =='working_paper'%}
+				{% if post.venue %}
+				<p>Listed in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+				{% else %}
 				<p>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+				{% endif %}
 			{% elsif post.type =='publication' %}
 				<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 			{% endif %}

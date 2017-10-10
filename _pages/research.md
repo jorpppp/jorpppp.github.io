@@ -16,14 +16,14 @@ author_profile: true
 Working papers
 -------
 
-{% for post in site.research.categories.working_papers reversed %}
+{% for post in site.categories.working_papers reversed %}
 	{% include archive-single.html %}
 {% endfor %}
 
 Publications
 -------
 
-{% for post in site.research.categories.publications reversed %}
+{% for post in site.categories.publications reversed %}
 	{% include archive-single.html %}
 {% endfor %}
 

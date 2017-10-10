@@ -8,13 +8,11 @@ date: 2017-07-01
 location: "Bogotá, Colombia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Consumer theory, producer theory, competitive markets, monopoly.
 
-Heading 1
+Microeconomics I
 ======
 
-Heading 2
-======
+Primary instructor for an introductory microeconomics course for economics and finance students. Covered consumer theory, producer theory, competitive markets, monopoly. Taught in Spanish.
 
-Heading 3
-======
+[Class website](https://sites.google.com/site/jorpppp/teaching/micro-i-2017-intersemestral)

@@ -26,7 +26,7 @@ Publications
 ======
 
 {% for post in site.research reversed %}
-{% if post.collection = 'publication' %}
+	{% if post.collection = 'publication' %}
 		{% include archive-single.html %}
 	{%endif %}
 {% endfor %}

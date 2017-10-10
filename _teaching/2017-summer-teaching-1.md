@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-summer-teaching-1
 venue: "Universidad del Rosario, Department of Economics"
-date: 2017-07-01
+date: 2017-06-01
 location: "Bogotá, Colombia"
 excerpt: 'Introductory microeconomics course for economics and finance students'
 ---

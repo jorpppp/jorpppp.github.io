@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at [Brown University](https://www.brown.edu/academics/economics/). My research uses elements from urban and labor economics to study the effects of minimum wages and other place-based policies. On my job market paper, I analyze the effects of city minimum wages on commuting and migration.
+I am a Ph.D. candidate in Economics at [Brown University](https://www.brown.edu/academics/economics/). My research uses elements from urban and labor economics to study the effects of minimum wages and other place-based policies. On my job market paper, I analyze how city minimum wages reshape commuting and migration.
 
 I am on the job market and available for interviews at the 2018 ASSA Meetings in Philadelphia.
 

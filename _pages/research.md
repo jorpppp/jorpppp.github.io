@@ -16,15 +16,19 @@ author_profile: true
 Working papers
 ======
 
-{% for post in site.research.working_papers reversed %}
-  {% include archive-single.html %}
+{% for post in site.research reversed %}
+	{% if post.collection = 'working_paper' %}
+		{% include archive-single.html %}
+	{%endif %}
 {% endfor %}
 
 Publications
 ======
 
-{% for post in site.research.publications reversed %}
-  {% include archive-single.html %}
+{% for post in site.research reversed %}
+{% if post.collection = 'publication' %}
+		{% include archive-single.html %}
+	{%endif %}
 {% endfor %}
 
 

@@ -38,7 +38,7 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'research' and page.type =='working_paper' %}
 			{% if page.venue %}
-			<p>Listed in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+			<p>Listed in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
 			{% else %}
 			<p>{{ page.date | default: "1900-01-01" | date: "%Y" }} </p>        	
 			{% endif %}

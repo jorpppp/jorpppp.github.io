@@ -1,7 +1,7 @@
 ---
-title: "ECON2320: Economics of Labor and Population"
+title: "ECON 2320: Economics of Labor and Population"
 collection: teaching
-type: "Teaching Assistant"
+type: TA
 permalink: /teaching/2014-fall-ta-1
 venue: "Brown University, Department of Economics"
 date: 2014-09-01

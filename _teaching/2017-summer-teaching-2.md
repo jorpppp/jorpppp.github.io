@@ -16,3 +16,5 @@ Econometrics: Statistical Tools to Understand Economic Data is a two-week core c
 Primary instructor.
 
 [Class website](https://www.brown.edu/academics/pre-college/catalog/course.php?course_code=CEEC0925)
+
+[Teaching evaluations](/files/CEEC0925-2017-evaluation.pdf)

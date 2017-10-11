@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Working papers
+***Working papers***
 -------
 
 {% for post in site.research reversed %}
@@ -20,7 +20,17 @@ Working papers
 	{% endif%}
 {% endfor %}
 
-Publications
+***Work in progress***
+-------
+
+{% for post in site.research reversed %}
+	{% if post.type == 'work_in_progress' %}
+		{% include archive-single.html %}
+	{% endif%}
+{% endfor %}
+
+
+***Publications***
 -------
 
 {% for post in site.research reversed %}	

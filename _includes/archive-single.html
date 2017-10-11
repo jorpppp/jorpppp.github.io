@@ -65,8 +65,10 @@
 		<p>Download <a style='color: #6CBAD0;' href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
+	{% elsif post.paperurl==''  %}
+      <p>Download coming soon</p>	
     {% elsif post.paperurl  %}
-      <p>Download <a  style='color: #6CBAD0;' href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Download <a  style='color: #6CBAD0;' href=" {{ post.paperurl }} "><u>here</u></a></p>	
     {% endif %}
 
   </article>

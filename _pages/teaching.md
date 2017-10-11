@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Primary instructor
+***Primary instructor***
 -------
 
 {% for post in site.teaching reversed %}
@@ -16,7 +16,7 @@ Primary instructor
 	{% endif %}
 {% endfor %}
 
-Teaching Assistant
+***Teaching Assistant***
 -------
 
 {% for post in site.teaching reversed %}

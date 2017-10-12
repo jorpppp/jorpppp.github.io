@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-***Primary instructor***
+***Primary Instructor***
 -------
 
 {% for post in site.teaching reversed %}

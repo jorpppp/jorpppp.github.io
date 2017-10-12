@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-***Working papers***
+***Working Papers***
 -------
 
 {% for post in site.research reversed %}
@@ -20,7 +20,7 @@ author_profile: true
 	{% endif%}
 {% endfor %}
 
-***Work in progress***
+***Work in Progress***
 -------
 
 {% for post in site.research reversed %}

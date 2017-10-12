@@ -3,7 +3,7 @@ title: "The efficacy of hiring credits in distressed areas"
 collection: research
 type: work_in_progress
 permalink: /research/2017-4-17-nc-hiring-credits
-excerpt: 'We analyze the efficacy of hiring tax credits, particularly in distressed labor markets. Our estimates show positive effects on employment and sizable reductions on the unemployment rate'
+excerpt: 'We analyze the efficacy of hiring tax credits, particularly in distressed labor markets. Our estimates show positive effects on employment and sizable reductions on the unemployment rate.'
 date: 2017-4-17
 venue: 
 paperurl: ''

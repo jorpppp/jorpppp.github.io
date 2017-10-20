@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Jorge Perez Perez - Ph.D. Candidate in Economics -  Brown University"
+excerpt: "Jorge Pérez Pérez - Ph.D. Candidate in Economics -  Brown University"
 author_profile: true
 redirect_from: 
   - /about/

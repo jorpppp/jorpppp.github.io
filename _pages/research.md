@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+urlcolor: 
 ---
 
 {% if author.googlescholar %}
@@ -11,10 +12,10 @@ author_profile: true
 
 {% include base_path %}
 
+<a href="/files/rs.pdf">Research Statement</a>
+
 ***Working Papers***
 -------
-
-[Research Statement](/files/rs.pdf)
 
 {% for post in site.research reversed %}
 	{% if post.type == 'working_paper' %}

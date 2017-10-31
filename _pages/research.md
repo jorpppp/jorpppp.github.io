@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+[Research Statement](files/rs.pdf)
+
 ***Working Papers***
 -------
 

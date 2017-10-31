@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-[Teaching Evaluations](files/te.pdf)
-
 ***Primary Instructor***
 -------
 

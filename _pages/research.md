@@ -11,10 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-[Research Statement](/files/rs.pdf)
-
 ***Working Papers***
 -------
+
+[Research Statement](/files/rs.pdf)
 
 {% for post in site.research reversed %}
 	{% if post.type == 'working_paper' %}

@@ -1,5 +1,5 @@
 ---
-title: "The efficacy of hiring credits in distressed areas"
+title: "The Efficacy of Hiring Credits in Distressed Areas"
 collection: research
 type: work_in_progress
 permalink: /research/2017-4-17-nc-hiring-credits

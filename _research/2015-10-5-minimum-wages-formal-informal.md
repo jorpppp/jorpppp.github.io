@@ -1,5 +1,5 @@
 ---
-title: "Minimum wages in formal and informal sectors: Evidence from the Colombian crisis"
+title: "Minimum Wages in Formal and Informal Sectors: Evidence from the Colombian Crisis"
 collection: research
 type: working_paper
 permalink: /research/2015-10-5-minimum-wages-formal-informal

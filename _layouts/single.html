@@ -48,18 +48,24 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
-             
-        {% if page.citation and page.paperurl %}
-         <p>Recommended citation: {{ page.citation }}</p>
-		<p>Download <a href=" {{ page.paperurl }} "><u>here</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
-		{% elsif page.paperurl==''  %}
-		<p>Download coming soon</p>	
-        {% elsif page.url and page.title !='About' and page.collection !='teaching' %}
-		<p>Download <a href=" {{ page.paperurl }} "><u>here</u></a></p>	
+        
+		{% if page.citation %}
+			<p>Recommended citation: {{ page.citation }}</p>
 		{% endif %}
-    
+		
+		{% if page.paperurl!='' and page.title !='About' and page.collection !='teaching' and page.collection !='posts'  %}
+			<p><a style='color: #6CBAD0;' href=" {{ page.paperurl }} ">Download latest version</a></p>
+		{% endif %}
+		
+		{% if page.venuepaperurl %}
+		<p><a style='color: #6CBAD0;' href=" {{ page.venuepaperurl }} ">Download <i>{{ page.venue }}</i> version</a></p>
+		{% endif %}
+		
+		{% if page.paperurl=='' %}
+			<p>Download coming soon</p>	
+		{% endif %}
+		
+		
         </header>
       {% endunless %}
 

@@ -43,7 +43,7 @@
         {% elsif post.collection == 'research' %}
 			{% if post.type =='working_paper'%}
 				{% if post.venue %}
-				<p>Listed in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+				<p>Listed in <i>{{ post.venue }}</i></p>
 				{% else %}
 				<p>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 				{% endif %}
@@ -60,16 +60,21 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
+    {% if post.citation %}
 		<p>Recommended citation: {{ post.citation }}</p>
-		<p>Download <a style='color: #6CBAD0;' href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-	{% elsif post.paperurl==''  %}
-      <p>Download coming soon</p>	
-    {% elsif post.paperurl  %}
-      <p>Download <a  style='color: #6CBAD0;' href=" {{ post.paperurl }} "><u>here</u></a></p>	
-    {% endif %}
-
+	{% endif %}
+	
+	{% if post.collection == 'research' %}
+		{% if post.paperurl!='' %}		
+			<p><a style='color: #6CBAD0;' href=" {{ post.paperurl }} ">Download latest version</a></p>
+		{% elsif post.paperurl==''  %}
+		  <p>Download coming soon</p>	
+		{% endif %}
+	{% endif %}
+	
+	{% if post.venuepaperurl %}
+		<p><a style='color: #6CBAD0;' href=" {{ post.venuepaperurl }} ">Download <i>{{ post.venue }}</i> version</a></p>
+	{% endif %}
+	
   </article>
 </div>

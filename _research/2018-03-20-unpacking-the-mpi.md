@@ -2,11 +2,12 @@
 title: "Unpacking the MPI : A Decomposition Approach of Changes in Multidimensional Poverty Headcounts"
 collection: research
 type: working_paper
-permalink: /research/2015-12-14-unpacking-the-mpi
+permalink: /research/2018-03-20-unpacking-the-mpi
 excerpt: 'Multidimensional measures of poverty have become standard as complementary indicators of poverty in many countries. This paper proposes an application of existing methodologies that decompose welfare aggregates -based on counterfactual simulations- to break up the changes of the multidimensional poverty headcount into the variation attributed to each of its dimensions.'
-date: 2015-12-14
+date: 2018-03-20
 venue: World Bank Policy Research Working Paper Series
-paperurl: 'http://documents.worldbank.org/curated/en/748421467991999230/Unpacking-the-MPI-a-decomposition-approach-of-changes-in-multidimensional-poverty-headcounts'
+venuepaperurl: 'http://documents.worldbank.org/curated/en/748421467991999230/Unpacking-the-MPI-a-decomposition-approach-of-changes-in-multidimensional-poverty-headcounts'
+paperurl: /files/Jorge_Perez_MPI.pdf
 citation: 'Pérez Pérez, Jorge Eduardo; Rodriguez Castelan, Carlos; Trujillo, Jose Daniel; Valderrama, Daniel. 2015. Unpacking the MPI : a decomposition approach of changes in multidimensional poverty headcounts. Policy Research working paper; no. WPS 7514. Washington, D.C. : World Bank Group.'
 ---
 

@@ -48,6 +48,18 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
+		{% if page.comment %}
+			<p><a style='color: #6CBAD0;' href=" {{ page.commenturl }} ">{{page.comment}}</a></p>
+		{% endif %}
+		
+		{% if page.coverage1 %}
+		<p>Coverage: <a style='color: #6CBAD0;' href=" {{ page.coverage1url }} ">{{page.coverage1}}</a></p>
+		{% endif %}
+		
+		{% if page.blog %}
+		<p><a style='color: #6CBAD0;' href=" {{ page.blog }} ">Blog post</a></p>
+		{% endif %}
+
         
 		{% if page.citation %}
 			<p>Recommended citation: {{ page.citation }}</p>

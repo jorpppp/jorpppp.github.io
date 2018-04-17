@@ -38,29 +38,39 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'research' %}
-			{% if post.type =='working_paper'%}
-				{% if post.venue %}
+	{% if post.collection == 'teaching' %}
+		<p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+	{% elsif post.collection == 'research' %}
+		{% if post.type =='working_paper'%}
+			{% if post.venue %}
 				<p>Listed in <i>{{ post.venue }}</i></p>
-				{% else %}
+			{% else %}
 				<p>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 			{% endif %}
-			{% if post.comment %}
-				<p><a style='color: #6CBAD0;' href=" {{post.commenturl}} ">{{ post.comment }}</a> </p>
-			{% endif}
 		{% elsif post.type =='publication' %}
 			<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 		{% endif %}
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
+	{% elsif post.date %}
+		<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+	{% endif %}
+	
+	{% if post.comment %}
+		<p><a style='color: #6CBAD0;' href=" {{ post.commenturl }} ">{{post.comment}}</a></p>
+	{% endif %}
+	
+	{% if post.coverage1 %}
+		<p>Coverage: <a style='color: #6CBAD0;' href=" {{ post.coverage1url }} ">{{post.coverage1}}</a></p>
+	{% endif %}
+	
+	{% if post.blog %}
+		<p><a style='color: #6CBAD0;' href=" {{ post.blog }} ">Blog post</a></p>
+	{% endif %}
+	
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+		<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+		<p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
     {% if post.citation %}

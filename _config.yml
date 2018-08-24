@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jorge Pérez Pérez"
 title_separator          : "-"
 name                     : &name "Jorge Pérez Pérez "
-description              : &description "Academic website"
+description              : &description "Research website"
 url                      : https://jorpppp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of  your site, e.g. "/blog"
 repository               : "jorpppp/jorpppp.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Jorge Pérez Pérez"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate - <a style='color: black;' href='https://www.brown.edu/academics/economics/'>Department of Economics - Brown University</a> "
-  location         : "Providence, RI"
+  bio              : "Economist - <a style='color: black;' href='http://www.banxico.org.mx'>Banco de México</a> "
+  location         : "Mexico City, Mexico"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=XcyQ8SIAAAAJ&hl=en"
-  email            : "jorge_perez@brown.edu"
+  email            : "jorgepp@banxico.org.mx"
   uri              : 
   bitbucket        :
   codepen          :

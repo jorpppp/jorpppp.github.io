@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<u><a href="/files/rs.pdf">Research Statement</a></u>
+[comment]: <> To include rs use (<u><a href="/files/rs.pdf">Research Statement</a></u>)
 
 ***Working Papers***
 -------

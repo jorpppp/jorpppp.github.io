@@ -8,8 +8,6 @@ date: 2018-10-12
 venue: 
 paperurl: /files/Jorge_Perez_Minimum_wage_informal_Colombia.pdf
 citation: 
-comment: Submitted
-commenturl: 
 ---
 Abstract: I estimate the effect of the minimum wage on formal wages, informal wages, and employment. I exploit an unexpected increase in the real minimum wage during 1999 in Colombia. My analysis combines unconditional quantile regressions with a differences-in-differences design. I find evidence of wage responses for wages close to the minimum wage. The increases are present in both sectors and are larger in the formal one. Wages around the minimum increase by 4 percent in the formal sector for a 10 percentage points larger minimum wage incidence. I find negative employment effects on the informal sector, but not on the formal sector. The effects in the informal sector are not driven by the minimum wage incidence in the formal one. My results suggest the minimum wage has a direct impact on the informal labor markets.
 

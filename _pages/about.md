@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: " "
 excerpt: "Jorge Pérez Pérez -Economist - Banco de México"
 author_profile: true
 redirect_from: 

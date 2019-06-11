@@ -6,7 +6,7 @@ permalink: /research/2019-5-3-nc-hiring-credits
 excerpt: 'We analyze the efficacy of hiring tax credits, particularly in distressed labor markets. Our estimates show positive effects on employment and sizable reductions on the unemployment rate.'
 date: 2019-5-3
 venue: 
-paperurl: /files/Perez_Suher_NC_hiring_credits.pdf
+paperurl: /files/Perez_Suher_NC_Hiring_Credits.pdf
 citation: 
 ---
 With [Michael Suher](https://www.federalreserve.gov/econres/michael-suher.htm)

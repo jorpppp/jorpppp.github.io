@@ -13,9 +13,9 @@ In this course we introduce the main questions and tools of urban economics. We 
 
 Primary instructor. Course taught in Spanish.
 
-[Syllabus](/files/syllabus_urbana.pdf)
-
 ## Contenido
+
+[Syllabus](/files/syllabus_urbana.pdf)
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 

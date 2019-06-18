@@ -13,6 +13,11 @@ In this course we introduce the main questions and tools of urban economics. We 
 
 Primary instructor. Course taught in Spanish.
 
+## Noticias
+
+* Los nuevos salones asignados son: Lunes, Martes y Jueves, Salón 413. Miércoles, Sala de Seminarios.
+* El 4 de Julio la clase inicia a las 8pm por evento de la OCDE.
+
 ## Contenido
 
 [Syllabus](/files/syllabus_urbana.pdf)
@@ -21,9 +26,16 @@ Primary instructor. Course taught in Spanish.
 
 * Notas de clase
 
-#### Referencias
+#### Referencias principales
 
-* Brueckner, Jan K (1987), “The structure of urban equilibria: A unified treatment of the muth-mills model.” *Handbook of Regional and Urban economics*, 2, 821–845.
-* Daude, Christian, Gustavo Fajardo, Pablo Brassiolo, Ricardo Estrada, Cynthia Goytia, Pablo Sanguinetti, Fernando Álvarez, y Juan Vargas (2017) *RED 2017. Crecimiento urbano y acceso a oportunidades: un desafío para América Latina.* CAF.
-* Duranton,  Gilles  y  Diego  Puga  (2015),  “Urban  land  use.”  In *Handbook  of  regional  and  Urban Economics*, volume 5, 467–560, Elsevier.
-* Fujita, Masahisa (1989) *Urban Economic Theory: Land Use and City Size.* Cambridge University Press.
+* Brueckner, Jan K (1987), “[The structure of urban equilibria: A unified treatment of the muth-mills model](http://www.socsci.uci.edu/~jkbrueck/course%20readings/handbook%20chapter.pdf).” *Handbook of Regional and Urban economics*, 2, 821–845.
+* Daude, Christian, Fajardo, Gustavo, Brassiolo, Pablo, Estrada, Ricardo, Goytia, Cinthia, Sanguinetti, Pablo, Álvarez, Fernando y Vargas, Juan (2017) *[RED 2017. Crecimiento urbano y acceso a oportunidades: un desafío para América Latina.](http://scioteca.caf.com/handle/123456789/1090)* CAF.
+* Duranton,  Gilles  y  Puga, Diego  (2015),  “[Urban  land  use](http://real.wharton.upenn.edu/~duranton/Duranton_Papers/Handbook/Urban_land_use.pdf).”  In *Handbook  of  regional  and  Urban Economics*, volume 5, 467–560, Elsevier.
+* Fujita, Masahisa (1989) *[Urban Economic Theory: Land Use and City Size.](https://www.cambridge.org/core/books/urban-economic-theory/1787328AC538E75129273E8B54A161FC)* Cambridge University Press.
+
+#### Referencias adicionales
+
+* Chauvin, Juan Pablo, Glaeser, Edward, Ma, Yueran y Tobio, Kristina. (2017) "[What is different about urbanization in rich and poor countries? Cities in Brazil, China, India and the United States](https://www.sciencedirect.com/science/article/pii/S0094119016300067)". *Journal of Urban Economics* 98, 17-49.
+
+* Michaels, Guy y Ferdinand Rauch. (2018), [Resetting the Urban Network: 117–2012](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12424). *The Economic Journal*, 128: 378-412.
+

@@ -35,7 +35,12 @@ Primary instructor. Course taught in Spanish.
 
 #### Referencias adicionales
 
+* Baum-Snow, Nathaniel. (2007). [Did highways cause suburbanization?](https://academic.oup.com/qje/article-abstract/122/2/775/1942140). *The Quarterly Journal of Economics*, 122(2), 775-805.
+
 * Chauvin, Juan Pablo, Glaeser, Edward, Ma, Yueran y Tobio, Kristina. (2017) "[What is different about urbanization in rich and poor countries? Cities in Brazil, China, India and the United States](https://www.sciencedirect.com/science/article/pii/S0094119016300067)". *Journal of Urban Economics* 98, 17-49.
+
+* Liu, C. H., Rosenthal, S. S., & Strange, W. C. (2018). [The vertical city: Rent gradients, spatial structure, and agglomeration economies.](https://www.albany.edu/economics/research/seminar/files/VerticalCities_3_27_2016.pdf) *Journal of Urban Economics*, 106, 101-122.
 
 * Michaels, Guy y Ferdinand Rauch. (2018), [Resetting the Urban Network: 117–2012](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12424). *The Economic Journal*, 128: 378-412.
 
+* 

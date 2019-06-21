@@ -43,4 +43,4 @@ Primary instructor. Course taught in Spanish.
 
 * Michaels, Guy y Ferdinand Rauch. (2018), [Resetting the Urban Network: 117–2012](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12424). *The Economic Journal*, 128: 378-412.
 
-* 
+

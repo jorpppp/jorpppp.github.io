@@ -33,6 +33,9 @@ Primary instructor. Course taught in Spanish.
 * Duranton,  Gilles  y  Puga, Diego  (2015),  “[Urban  land  use](http://real.wharton.upenn.edu/~duranton/Duranton_Papers/Handbook/Urban_land_use.pdf).”  In *Handbook  of  regional  and  Urban Economics*, volume 5, 467–560, Elsevier.
 * Fujita, Masahisa (1989) *[Urban Economic Theory: Land Use and City Size.](https://www.cambridge.org/core/books/urban-economic-theory/1787328AC538E75129273E8B54A161FC)* Cambridge University Press.
 
+* LeRoy, S. F., & Sonstelie, J. (1983). [Paradise lost and regained: Transportation innovation, income, and residential location.](http://econ.ucsb.edu/~jon/Publications/ParadiseLost.pdf) *Journal of Urban Economics*, 13(1), 67-89.
+
+
 #### Referencias adicionales
 
 * Baum-Snow, Nathaniel. (2007). [Did highways cause suburbanization?](https://academic.oup.com/qje/article-abstract/122/2/775/1942140). *The Quarterly Journal of Economics*, 122(2), 775-805.

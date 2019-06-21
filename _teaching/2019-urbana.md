@@ -15,7 +15,7 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
-* Los nuevos salones asignados son: Lunes, Martes y Jueves, Salón 413. Miércoles, Sala de Seminarios.
+* La clase se ha movido a **RIO HONDO**. El salón de clase asignado es el **B1**
 * El 4 de Julio la clase inicia a las 8pm por evento de la OCDE.
 
 ## Contenido

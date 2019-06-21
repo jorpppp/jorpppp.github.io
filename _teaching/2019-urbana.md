@@ -24,7 +24,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 
-* Notas de clase
+* [Notas de clase](/files/urbana_intro_c1.pdf)
 
 #### Referencias principales
 

@@ -26,6 +26,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Calendario de presentaciones
 
+* Julio 8. Maité García. Allen et al. (2019)
 * Julio 15. Ricardo Gómez. Dingel et al. (2019)
 * Julio 18. Rafael Guerra. Baum-Snow et al. (2019)
 

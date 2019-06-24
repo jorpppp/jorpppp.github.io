@@ -26,7 +26,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Calendario de presentaciones
 
-* 
+* Julio 15. Ricardo Gómez. Dingel et al. (2019)
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 

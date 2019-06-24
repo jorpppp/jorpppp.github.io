@@ -24,6 +24,10 @@ Primary instructor. Course taught in Spanish.
 
 [Syllabus](/files/syllabus_urbana.pdf)
 
+### Calendario de presentaciones
+
+* 
+
 ### Capítulo 1. Motivación y el modelo monocéntrico
 
 * [Notas de clase](/files/urbana_intro_c1.pdf)
@@ -47,5 +51,20 @@ Primary instructor. Course taught in Spanish.
 * Liu, C. H., Rosenthal, S. S., & Strange, W. C. (2018). [The vertical city: Rent gradients, spatial structure, and agglomeration economies.](https://www.albany.edu/economics/research/seminar/files/VerticalCities_3_27_2016.pdf) *Journal of Urban Economics*, 106, 101-122.
 
 * Michaels, Guy y Ferdinand Rauch. (2018), [Resetting the Urban Network: 117–2012](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12424). *The Economic Journal*, 128: 378-412.
+
+### Capítulo 2. El modelo multicéntrico.
+
+* Notas de clase
+
+#### Referencias principales
+
+* Fujita, M., & Ogawa, H. (1982). [Multiple equilibria and structural transition of non-monocentric urban configurations](http://www.brown.edu/Departments/Economics/Faculty/Matthew_Turner/ec2410/readings/Fujita_Ogawa_RSUE_1982.pdf). *Regional science and urban economics*, 12(2), 161-196.
+
+#### Referencias adicionales
+
+* Lucas, R. E., & Rossi–Hansberg, E. (2002). [On the internal structure of cities](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-0262.00338). *Econometrica*, 70(4), 1445-1476.
+
+
+
 
 

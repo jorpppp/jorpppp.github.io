@@ -37,6 +37,8 @@ Primary instructor. Course taught in Spanish.
 * Julio 18. Rafael Guerra. Baum-Snow et al. (2019)
 * Julio 18. Gustavo Hernández. Diamond y McQuade (2019)
 
+#### [Consejos para presentaciones](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
+
 ### Capítulo 1. Motivación y el modelo monocéntrico
 
 * [Notas de clase](/files/urbana_intro_c1.pdf)

@@ -26,9 +26,16 @@ Primary instructor. Course taught in Spanish.
 
 ### Calendario de presentaciones
 
+* Junio 27. Ángel Espinoza. Liu et al. (2015)
+* Junio 27. Filix Gómez. Bilal y Rossi-Hansberg (2018)
+* Julio 3. Arístides Martínez. Ahlfeldt y Pietrostefani (2019)
+* Julio 3. Daniel Loredo. Dauth et al. (2018)
+* Julio 8. Rogelio de la Peña. Tsivanidis (2018)
 * Julio 8. Maité García. Allen et al. (2019)
+* Julio 15. Arturo Boisseauneau. Owens et al. (2017)
 * Julio 15. Ricardo Gómez. Dingel et al. (2019)
 * Julio 18. Rafael Guerra. Baum-Snow et al. (2019)
+* Julio 18. Gustavo Hernández. Diamond y McQuade (2019)
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 

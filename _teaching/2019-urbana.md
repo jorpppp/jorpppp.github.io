@@ -74,6 +74,8 @@ Primary instructor. Course taught in Spanish.
 #### Referencias adicionales
 
 * Lucas, R. E., & Rossi–Hansberg, E. (2002). [On the internal structure of cities](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-0262.00338). *Econometrica*, 70(4), 1445-1476.
+* Dauth, Wolfgang & Haller, Peter. [Loss Aversion in the Trade-off Between Wages and Commuting Distances](https://drive.google.com/open?id=0B0XwUjKN7IMIVGlCVmEwWkpHS0k) (2019). Mimeo.
+
 
 
 

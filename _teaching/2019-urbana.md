@@ -70,7 +70,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 2. El modelo multicéntrico.
 
-* Notas de clase
+* [Notas de clase](/files/urbana_c2.pdf)
 
 #### Referencias principales
 
@@ -83,6 +83,8 @@ Primary instructor. Course taught in Spanish.
 * Harari, M. (2016). [Cities in bad shape: Urban geometry in India](https://economics.stanford.edu/sites/g/files/sbiybj9386/f/cityshape26dec2016.pdf). Processed, Wharton School of the University of Pennsylvania.
 
 ### Capítulo 3. Aglomeración y estrategias empíricas.
+
+* Notas de clase
 
 #### Referencias principales
 

@@ -54,7 +54,6 @@ Primary instructor. Course taught in Spanish.
 * Daude, Christian, Fajardo, Gustavo, Brassiolo, Pablo, Estrada, Ricardo, Goytia, Cinthia, Sanguinetti, Pablo, Álvarez, Fernando y Vargas, Juan (2017) *[RED 2017. Crecimiento urbano y acceso a oportunidades: un desafío para América Latina.](http://scioteca.caf.com/handle/123456789/1090)* CAF.
 * Duranton,  Gilles  y  Puga, Diego  (2015),  “[Urban  land  use](http://real.wharton.upenn.edu/~duranton/Duranton_Papers/Handbook/Urban_land_use.pdf).”  In *Handbook  of  regional  and  Urban Economics*, volume 5, 467–560, Elsevier.
 * Fujita, Masahisa (1989) *[Urban Economic Theory: Land Use and City Size.](https://www.cambridge.org/core/books/urban-economic-theory/1787328AC538E75129273E8B54A161FC)* Cambridge University Press.
-
 * LeRoy, S. F., & Sonstelie, J. (1983). [Paradise lost and regained: Transportation innovation, income, and residential location.](http://econ.ucsb.edu/~jon/Publications/ParadiseLost.pdf) *Journal of Urban Economics*, 13(1), 67-89.
 
 
@@ -78,10 +77,10 @@ Primary instructor. Course taught in Spanish.
 
 #### Referencias adicionales
 
-* Lucas, R. E., & Rossi–Hansberg, E. (2002). [On the internal structure of cities](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-0262.00338). *Econometrica*, 70(4), 1445-1476.
+* Agrawal, D. R., & Hoyt, W. H. (2018). [Commuting and taxes: theory, empirics and welfare implications](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12550). *The Economic Journal*, 128(616), 2969-3007.
 * Dauth, Wolfgang & Haller, Peter. [Loss Aversion in the Trade-off Between Wages and Commuting Distances](https://drive.google.com/open?id=0B0XwUjKN7IMIVGlCVmEwWkpHS0k) (2019). Mimeo.
 * Harari, M. (2016). [Cities in bad shape: Urban geometry in India](https://economics.stanford.edu/sites/g/files/sbiybj9386/f/cityshape26dec2016.pdf). Processed, Wharton School of the University of Pennsylvania.
-* Agrawal, D. R., & Hoyt, W. H. (2018). [Commuting and taxes: theory, empirics and welfare implications](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12550). *The Economic Journal*, 128(616), 2969-3007.
+* Lucas, R. E., & Rossi–Hansberg, E. (2002). [On the internal structure of cities](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-0262.00338). *Econometrica*, 70(4), 1445-1476.
 
 ### Capítulo 3. Aglomeración y estrategias empíricas.
 
@@ -95,8 +94,24 @@ Primary instructor. Course taught in Spanish.
 
 #### Referencias adicionales
 
-* Duranton, G., & Puga, D. (2000). [Diversity and specialisation in cities: why, where and when does it matter?](http://eprints.lse.ac.uk/20212/1/Diversity_and_Specialisation_in_Cities_Why,_Where_and_When_does_it_Matter.pdf). *Urban studies*, 37(3), 533-555.
 * Arzaghi, M., & Henderson, J. V. (2008). [Networking off madison avenue](https://academic.oup.com/restud/article-pdf/75/4/1011/18346803/75-4-1011.pdf). *The Review of Economic Studies*, 75(4), 1011-1038.
+* Duranton, G., & Puga, D. (2000). [Diversity and specialisation in cities: why, where and when does it matter?](http://eprints.lse.ac.uk/20212/1/Diversity_and_Specialisation_in_Cities_Why,_Where_and_When_does_it_Matter.pdf). *Urban studies*, 37(3), 533-555.
+
+### Capítulo 4. Modelos cuantitativos de economía espacial.
+
+* Notas de Clase
+
+#### Referencias principales
+
+* Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876). *Econometrica*, 83(6), 2127-2189.
+
+* Holmes, T. J., & Sieg, H. (2015). [Structural estimation in urban economics](https://www.sas.upenn.edu/~holgers/papers/hs_hb_f.pdf). In Handbook of regional and urban economics (Vol. 5, pp. 69-114). Elsevier.
+
+* Redding, S. J., & Rossi-Hansberg, E. (2017). [Quantitative spatial economics](http://www.princeton.edu/~reddings/pubpapers/ARQSM-2017.pdf). *Annual Review of Economics*, 9, 21-58.
+
+#### Referencias adicionales
+
+* Monte, F., Redding, S. J., & Rossi-Hansberg, E. (2018). [Commuting, migration, and local employment elasticities](https://www.nber.org/papers/w21706.pdf). *American Economic Review*, 108(12), 3855-90.
 
 
 

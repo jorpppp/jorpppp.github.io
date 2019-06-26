@@ -111,6 +111,8 @@ Primary instructor. Course taught in Spanish.
 
 #### Referencias adicionales
 
+* Eaton, J., & Kortum, S. (2012). [Putting Ricardo to work](http://pubs.aeaweb.org/doi/pdf/10.1257%2Fjep.26.2.65). *Journal of Economic Perspectives*, 26(2), 65-90.
+
 * Monte, F., Redding, S. J., & Rossi-Hansberg, E. (2018). [Commuting, migration, and local employment elasticities](https://www.nber.org/papers/w21706.pdf). *American Economic Review*, 108(12), 3855-90.
 
 

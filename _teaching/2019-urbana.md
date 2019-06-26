@@ -80,6 +80,24 @@ Primary instructor. Course taught in Spanish.
 
 * Lucas, R. E., & Rossi–Hansberg, E. (2002). [On the internal structure of cities](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-0262.00338). *Econometrica*, 70(4), 1445-1476.
 * Dauth, Wolfgang & Haller, Peter. [Loss Aversion in the Trade-off Between Wages and Commuting Distances](https://drive.google.com/open?id=0B0XwUjKN7IMIVGlCVmEwWkpHS0k) (2019). Mimeo.
+* Harari, M. (2016). [Cities in bad shape: Urban geometry in India](https://economics.stanford.edu/sites/g/files/sbiybj9386/f/cityshape26dec2016.pdf). Processed, Wharton School of the University of Pennsylvania.
+
+### Capítulo 3. Aglomeración y estrategias empíricas.
+
+#### Referencias principales
+
+* Baum-Snow, N., & Ferreira, F. (2015). [Causal inference in urban and regional economics](https://www.nber.org/papers/w20535.pdf). In Handbook of regional and urban economics (Vol. 5, pp. 3-68). Elsevier.
+* Ciccone, A., & Hall, R. E. (1996). [Productivity and the Density of Economic Activity](http://www.antoniociccone.eu/wp-content/uploads/2007/07/proddensity.pdf). *The American Economic Review*, 86(1), 54-70.
+* Greenstone, M., Hornbeck, R., & Moretti, E. (2010). [Identifying agglomeration spillovers: Evidence from winners and losers of large plant openings](https://www.journals.uchicago.edu/doi/pdf/10.1086/653714). *Journal of Political Economy*, 118(3), 536-598.
+
+#### Referencias adicionales
+
+* Duranton, G., & Puga, D. (2000). [Diversity and specialisation in cities: why, where and when does it matter?](http://eprints.lse.ac.uk/20212/1/Diversity_and_Specialisation_in_Cities_Why,_Where_and_When_does_it_Matter.pdf). *Urban studies*, 37(3), 533-555.
+* Arzaghi, M., & Henderson, J. V. (2008). [Networking off madison avenue](https://academic.oup.com/restud/article-pdf/75/4/1011/18346803/75-4-1011.pdf). *The Review of Economic Studies*, 75(4), 1011-1038.
+
+
+
+
 
 
 

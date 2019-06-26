@@ -81,6 +81,7 @@ Primary instructor. Course taught in Spanish.
 * Lucas, R. E., & Rossi–Hansberg, E. (2002). [On the internal structure of cities](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-0262.00338). *Econometrica*, 70(4), 1445-1476.
 * Dauth, Wolfgang & Haller, Peter. [Loss Aversion in the Trade-off Between Wages and Commuting Distances](https://drive.google.com/open?id=0B0XwUjKN7IMIVGlCVmEwWkpHS0k) (2019). Mimeo.
 * Harari, M. (2016). [Cities in bad shape: Urban geometry in India](https://economics.stanford.edu/sites/g/files/sbiybj9386/f/cityshape26dec2016.pdf). Processed, Wharton School of the University of Pennsylvania.
+* Agrawal, D. R., & Hoyt, W. H. (2018). [Commuting and taxes: theory, empirics and welfare implications](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12550). *The Economic Journal*, 128(616), 2969-3007.
 
 ### Capítulo 3. Aglomeración y estrategias empíricas.
 

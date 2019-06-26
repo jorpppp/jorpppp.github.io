@@ -39,6 +39,10 @@ Primary instructor. Course taught in Spanish.
 
 #### [Consejos para presentaciones](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
 
+### Propuesta de investigación
+
+* [Lineamientos para entrega de propuesta de investigación](/files/LineamientosPropuesta.pdf)
+
 ### Capítulo 1. Motivación y el modelo monocéntrico
 
 * [Notas de clase](/files/urbana_intro_c1.pdf)

@@ -94,6 +94,8 @@ Primary instructor. Course taught in Spanish.
 
 #### Referencias adicionales
 
+* Ahlfeldt, G. M. & Pietrostefani, Elisabetta. [The economic effects of density: a synthesis](https://www.sciencedirect.com/science/article/pii/S0094119019300282?via%3Dihub#sec0017). *Journal of Urban Economics*, 111, 93-107.
+
 * Arzaghi, M., & Henderson, J. V. (2008). [Networking off madison avenue](https://academic.oup.com/restud/article-pdf/75/4/1011/18346803/75-4-1011.pdf). *The Review of Economic Studies*, 75(4), 1011-1038.
 * Duranton, G., & Puga, D. (2000). [Diversity and specialisation in cities: why, where and when does it matter?](http://eprints.lse.ac.uk/20212/1/Diversity_and_Specialisation_in_Cities_Why,_Where_and_When_does_it_Matter.pdf). *Urban studies*, 37(3), 533-555.
 

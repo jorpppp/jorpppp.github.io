@@ -42,6 +42,7 @@ Primary instructor. Course taught in Spanish.
 ### Propuesta de investigación
 
 * [Lineamientos para entrega de propuesta de investigación](/files/LineamientosPropuesta.pdf)
+* [Ejemplo de entrega inicial de propuesta](/files/idea1.pdf)
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 

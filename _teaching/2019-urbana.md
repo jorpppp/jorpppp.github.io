@@ -15,8 +15,8 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* Las notas de clase de los capítulos 1 a 2 están disponibles.
 * La lista de artículos para presentaciones en clase y las indicaciones para las presentaciones están disponibles [aquí](/files/papers.pdf). Escriba al profesor para escoger un artículo para presentar. Las solicitudes serán asignadas en el orden en que sean recibidas. 
-* Las notas de clase del capítulo 1 están disponibles.
 * La clase se ha movido a **RIO HONDO**. El salón de clase asignado es el **B1**
 * El 4 de Julio la clase inicia a las 8pm por evento de la OCDE.
 

@@ -26,7 +26,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Calendario de presentaciones
 
-* Junio 27. Ángel Espinoza. Liu et al. (2015)
+* Junio 27. Ángel Espinoza. [Liu et al. (2018)](/files/VC.pdf)
 * Junio 27. Filix Gómez. [Bilal y Rossi-Hansberg (2018)](/files/LA.pdf)
 * Julio 3. Arístides Martínez. Ahlfeldt y Pietrostefani (2019)
 * Julio 3. Daniel Loredo. Dauth et al. (2018)

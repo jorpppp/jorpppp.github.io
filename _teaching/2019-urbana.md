@@ -84,7 +84,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 3. Aglomeración y estrategias empíricas.
 
-* Notas de clase
+* [Notas de clase](/files/urbana_c3.pdf)
 
 #### Referencias principales
 

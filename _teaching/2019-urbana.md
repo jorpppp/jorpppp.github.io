@@ -15,10 +15,11 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
-* Las presentaciones del 28 de Junio están disponibles.
-* Las notas de clase de los capítulos 1 a 2 están disponibles.
-* La lista de artículos para presentaciones en clase y las indicaciones para las presentaciones están disponibles [aquí](/files/papers.pdf). Escriba al profesor para escoger un artículo para presentar. Las solicitudes serán asignadas en el orden en que sean recibidas. 
 * El 4 de Julio la clase inicia a las 8pm por evento de la OCDE.
+* Las notas de clase de los capítulos 1 a 3 están disponibles.
+* Las presentaciones del 28 de Junio están disponibles.
+* La lista de artículos para presentaciones en clase y las indicaciones para las presentaciones están disponibles [aquí](/files/papers.pdf). Escriba al profesor para escoger un artículo para presentar. Las solicitudes serán asignadas en el orden en que sean recibidas. 
+
 
 ## Contenido
 

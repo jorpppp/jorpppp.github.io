@@ -15,9 +15,9 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
-* El 4 de Julio la clase inicia a las 8pm por evento de la OCDE.
-* Las notas de clase de los capítulos 1 a 3 están disponibles.
-* Las presentaciones del 27 de Junio están disponibles.
+* La primera entrega de la propuesta de investigación debe ser enviada por correo electrónico el miércoles 10 de Julio, a más tardar a las 23:59 hora de la Ciudad de México.
+* Las notas de clase de los capítulos 1 a 4 están disponibles.
+* Las presentaciones del 27 de Junio al 3 de Julio están disponibles.
 * La lista de artículos para presentaciones en clase y las indicaciones para las presentaciones están disponibles [aquí](/files/papers.pdf). Escriba al profesor para escoger un artículo para presentar. Las solicitudes serán asignadas en el orden en que sean recibidas. 
 
 
@@ -29,8 +29,8 @@ Primary instructor. Course taught in Spanish.
 
 * Junio 27. Ángel Espinoza. [Liu et al. (2018)](/files/VC.pdf)
 * Junio 27. Filix Gómez. [Bilal y Rossi-Hansberg (2018)](/files/LA.pdf)
-* Julio 3. Arístides Martínez. Ahlfeldt y Pietrostefani (2019)
-* Julio 3. Daniel Loredo. Dauth et al. (2018)
+* Julio 3. Arístides Martínez. [Ahlfeldt y Pietrostefani (2019)](/files/ED.pdf)
+* Julio 3. Daniel Loredo. [Dauth et al. (2018)](/files/MC.pdf)
 * Julio 8. Rogelio de la Peña. Tsivanidis (2018)
 * Julio 8. Maité García. Allen et al. (2019)
 * Julio 15. Arturo Boisseauneau. Owens et al. (2017)
@@ -100,13 +100,15 @@ Primary instructor. Course taught in Spanish.
 * Arzaghi, M., & Henderson, J. V. (2008). [Networking off madison avenue](https://academic.oup.com/restud/article-pdf/75/4/1011/18346803/75-4-1011.pdf). *The Review of Economic Studies*, 75(4), 1011-1038.
 * Duranton, G., & Puga, D. (2000). [Diversity and specialisation in cities: why, where and when does it matter?](http://eprints.lse.ac.uk/20212/1/Diversity_and_Specialisation_in_Cities_Why,_Where_and_When_does_it_Matter.pdf). *Urban studies*, 37(3), 533-555.
 
-### Capítulo 4. Modelos cuantitativos de economía espacial.
+### Capítulo 4. Modelos cuantitativos de economía espacial
 
-* Notas de Clase
+* [Notas de clase](/files/urbana_c4.pdf)
 
 #### Referencias principales
 
 * Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876). *Econometrica*, 83(6), 2127-2189.
+
+* Hayashi (2000). [*Econometrics*](https://press.princeton.edu/titles/6946.html). Princeton University Press.
 
 * Holmes, T. J., & Sieg, H. (2015). [Structural estimation in urban economics](https://www.sas.upenn.edu/~holgers/papers/hs_hb_f.pdf). In Handbook of regional and urban economics (Vol. 5, pp. 69-114). Elsevier.
 
@@ -114,16 +116,41 @@ Primary instructor. Course taught in Spanish.
 
 #### Referencias adicionales
 
+* Eaton, J., & Kortum, S. (2002). [Technology, geography, and trade](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-0262.00352). *Econometrica*, 70(5), 1741-1779.
+
 * Eaton, J., & Kortum, S. (2012). [Putting Ricardo to work](http://pubs.aeaweb.org/doi/pdf/10.1257%2Fjep.26.2.65). *Journal of Economic Perspectives*, 26(2), 65-90.
 
 * Monte, F., Redding, S. J., & Rossi-Hansberg, E. (2018). [Commuting, migration, and local employment elasticities](https://www.nber.org/papers/w21706.pdf). *American Economic Review*, 108(12), 3855-90.
 
+* Pérez-Cervantes, F. (2016). [Insurance Against Local Productivity Shocks: Evidence from Commuters in Mexico](http://www.banxico.org.mx/publicaciones-y-discursos/publicaciones/documentos-de-investigacion/banxico/%7B7D5A77A0-F36C-516E-2227-18FEF554C021%7D.pdf). Working paper No. 2016-19. Banco de México.
 
+* Pérez Pérez, Jorge (2017) [City Minimum Wages](https://jorgeperezperez.com/research/2017-10-10-city-minimum-wages). Unpublished manuscript.
 
+* Severen, Christopher (2019). [Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/20190130_Severen_LAMetro_New.pdf). Unpublished manuscript. 
 
+* Tsivanidis, N. (2018). [The Aggregate and Distributional Effects of Urban Transit Infrastructure: Evidence from Bogotá’s TransMilenio](https://economics.stanford.edu/sites/g/files/sbiybj9386/f/tsivanidis_jmp.pdf). Unpublished manuscript.
 
+### Capítulo 5. Geografía Económica
 
+* Notas de Clase
 
+#### Referencias principales
+
+* Krugman, Paul (1991). [Increasing returns and economic geography](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/261763). *Journal of political economy*, 99(3), 483-499.
+
+#### Referencias adicionales
+
+### Capítulo 6. Equilibrio Espacial y Sistemas de Ciudades
+
+* Notas de Clase
+
+#### Referencias principales
+
+* Diamond, Rebecca (2016). [The determinants and welfare implications of US workers' diverging location choices by skill: 1980-2000](https://www.jstor.org/stable/pdf/43821462.pdf). *American Economic Review*, 106(3), 479-524.
+
+* Roback, Jennifer (1982). [Wages, rents, and the quality of life](https://www.jstor.org/stable/pdf/1830947.pdf). *Journal of political Economy*, 90(6), 1257-1278.
+
+#### Referencias adicionales
 
 
 

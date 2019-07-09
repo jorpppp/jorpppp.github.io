@@ -15,9 +15,9 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* Las presentaciones del 27 de Junio al 8 de Julio están disponibles.
 * La primera entrega de la propuesta de investigación debe ser enviada por correo electrónico el miércoles 10 de Julio, a más tardar a las 23:59 hora de la Ciudad de México. Recuerde que la propuesta debe estar en inglés.
 * Las notas de clase de los capítulos 1 a 4 están disponibles.
-* Las presentaciones del 27 de Junio al 3 de Julio están disponibles.
 * La lista de artículos para presentaciones en clase y las indicaciones para las presentaciones están disponibles [aquí](/files/papers.pdf). Escriba al profesor para escoger un artículo para presentar. Las solicitudes serán asignadas en el orden en que sean recibidas. 
 
 
@@ -31,8 +31,8 @@ Primary instructor. Course taught in Spanish.
 * Junio 27. Filix Gómez. [Bilal y Rossi-Hansberg (2018)](/files/LA.pdf)
 * Julio 3. Arístides Martínez. [Ahlfeldt y Pietrostefani (2019)](/files/ED.pdf)
 * Julio 3. Daniel Loredo. [Dauth et al. (2018)](/files/MC.pdf)
-* Julio 8. Rogelio de la Peña. Tsivanidis (2018)
-* Julio 8. Maité García. Allen et al. (2019)
+* Julio 8. Rogelio de la Peña. [Tsivanidis (2018)](/files/PPT_RogelioDeLaPeña_1.pdf)
+* Julio 9. Maité García. Allen et al. (2019)
 * Julio 15. Arturo Boisseauneau. Owens et al. (2017)
 * Julio 15. Ricardo Gómez. Dingel et al. (2019)
 * Julio 18. Rafael Guerra. Baum-Snow et al. (2019)

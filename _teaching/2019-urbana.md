@@ -155,5 +155,13 @@ Primary instructor. Course taught in Spanish.
 
 * Desmet, K., & Rossi-Hansberg, E. (2013). [Urban accounting and welfare](https://scholar.google.com.mx/scholar?output=instlink&q=info:H5ABdWJv01UJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=10682386906200153702&oi=lle). *American Economic Review*, 103(6), 2296-2327.
 
+### Capítulo 7. Efectos del vecindario.
+
+* Notas de Clase
+
+#### Referencias principales
+
+* Kling, J. R., Liebman, J. B., & Katz, L. F. (2007). [Experimental analysis of neighborhood effects](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0262.2007.00733.x). Econometrica, 75(1), 83-119.
+
 
 

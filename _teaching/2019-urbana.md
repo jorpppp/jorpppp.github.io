@@ -15,11 +15,10 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* Las notas de clase de los capítulos 1 a 6 están disponibles.
 * Las presentaciones del 27 de Junio al 9 de Julio están disponibles.
 * La primera entrega de la propuesta de investigación debe ser enviada por correo electrónico el miércoles 10 de Julio, a más tardar a las 23:59 hora de la Ciudad de México. Recuerde que la propuesta debe estar en inglés.
-* Las notas de clase de los capítulos 1 a 4 están disponibles.
 * La lista de artículos para presentaciones en clase y las indicaciones para las presentaciones están disponibles [aquí](/files/papers.pdf). Escriba al profesor para escoger un artículo para presentar. Las solicitudes serán asignadas en el orden en que sean recibidas. 
-
 
 ## Contenido
 
@@ -132,7 +131,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 5. Geografía Económica
 
-* Notas de Clase
+* [Notas de Clase](/files/Economia_Urbana_ITAM_c5.pdf)
 
 #### Referencias principales
 
@@ -142,7 +141,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 6. Equilibrio Espacial y Sistemas de Ciudades
 
-* Notas de Clase
+* [Notas de Clase](/files/Economia_Urbana_ITAM_c6.pdf)
 
 #### Referencias principales
 

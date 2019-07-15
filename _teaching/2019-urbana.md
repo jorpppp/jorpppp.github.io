@@ -137,8 +137,6 @@ Primary instructor. Course taught in Spanish.
 
 * Krugman, Paul (1991). [Increasing returns and economic geography](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/261763). *Journal of political economy*, 99(3), 483-499.
 
-#### Referencias adicionales
-
 ### Capítulo 6. Equilibrio Espacial y Sistemas de Ciudades
 
 * [Notas de Clase](/files/Economia_Urbana_ITAM_c6.pdf)
@@ -150,6 +148,12 @@ Primary instructor. Course taught in Spanish.
 * Roback, Jennifer (1982). [Wages, rents, and the quality of life](https://www.jstor.org/stable/pdf/1830947.pdf). *Journal of political Economy*, 90(6), 1257-1278.
 
 #### Referencias adicionales
+
+* Albouy, D. (2016). [What are cities worth? Land rents, local productivity, and the total value of amenities](https://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00550). *Review of Economics and Statistics*, 98(3), 477-487.
+
+* Henderson, J. V. (1974). [The sizes and types of cities](https://www.jstor.org/stable/pdf/1813316.pdf). *The American Economic Review*, 64(4), 640-656.
+
+* Desmet, K., & Rossi-Hansberg, E. (2013). [Urban accounting and welfare](https://scholar.google.com.mx/scholar?output=instlink&q=info:H5ABdWJv01UJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=10682386906200153702&oi=lle). *American Economic Review*, 103(6), 2296-2327.
 
 
 

@@ -164,5 +164,9 @@ Primary instructor. Course taught in Spanish.
 
 * Kling, J. R., Liebman, J. B., & Katz, L. F. (2007). [Experimental analysis of neighborhood effects](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0262.2007.00733.x). Econometrica, 75(1), 83-119.
 
+#### Referencias adicionales
+
+* Tincani, M. (2017). [Heterogeneous peer effects and rank concerns: Theory and evidence.](https://www.econstor.eu/bitstream/10419/155573/1/cesifo1_wp6331.pdf)
+
 
 

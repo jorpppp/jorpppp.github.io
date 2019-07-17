@@ -15,6 +15,7 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* El examen final será el **Sábado 27 de Julio** de **10 a 12** en el Salón **B1 de Río Hondo**.
 * Las presentaciones del 27 de Junio al 15 de Julio están disponibles.
 * Las notas de clase de los capítulos 1 a 6 están disponibles.
 <!--- * La primera entrega de la propuesta de investigación debe ser enviada por correo electrónico el miércoles 10 de Julio, a más tardar a las 23:59 hora de la Ciudad de México. Recuerde que la propuesta debe estar en inglés.

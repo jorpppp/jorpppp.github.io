@@ -163,10 +163,20 @@ Primary instructor. Course taught in Spanish.
 #### Referencias principales
 
 * Kling, J. R., Liebman, J. B., & Katz, L. F. (2007). [Experimental analysis of neighborhood effects](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0262.2007.00733.x). Econometrica, 75(1), 83-119.
+* Chetty, R., Hendren, N., & Katz, L. F. (2016). [The effects of exposure to better neighborhoods on children: New evidence from the Moving to Opportunity experiment](https://www.aeaweb.org/articles?id=10.1257/aer.20150572). *American Economic Review*, 106(4), 855-902.
+* Chyn, E. (2018). [Moved to opportunity: The long-run effects of public housing demolition on children.](https://www.aeaweb.org/articles?id=10.1257/aer.20161352) *American Economic Review*, 108(10), 3028-56.
+* Davis, M. A., Gregory, J., Hartley, D. A., & Tan, K. (2017). [Neighborhood choices, neighborhood effects and housing vouchers.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2905589)
 
 #### Referencias adicionales
 
+* Angrist, J. D., & Pischke, J. S. (2008). Mostly harmless econometrics: An empiricist's companion. Princeton university press.
 * Tincani, M. (2017). [Heterogeneous peer effects and rank concerns: Theory and evidence.](https://www.econstor.eu/bitstream/10419/155573/1/cesifo1_wp6331.pdf)
+
+### Capítulo 8. Políticas basadas en lugar.
+
+#### Referencias principales
+
+* Busso, M., Gregory, J., & Kline, P. (2013). [Assessing the incidence and efficiency of a prominent place based policy](https://www.aeaweb.org/articles?id=10.1257/aer.103.2.897). *American Economic Review*, 103(2), 897-947.
 
 
 

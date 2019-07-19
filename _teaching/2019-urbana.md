@@ -15,8 +15,8 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* Las presentaciones del 27 de Junio al 18 de Julio están disponibles.
 * El examen final será el **Sábado 27 de Julio** de **10 a 12** en el Salón **B1 de Río Hondo**.
-* Las presentaciones del 27 de Junio al 15 de Julio están disponibles.
 * Las notas de clase de los capítulos 1 a 6 están disponibles.
 <!--- * La primera entrega de la propuesta de investigación debe ser enviada por correo electrónico el miércoles 10 de Julio, a más tardar a las 23:59 hora de la Ciudad de México. Recuerde que la propuesta debe estar en inglés.
 <> * La lista de artículos para presentaciones en clase y las indicaciones para las presentaciones están disponibles [aquí](/files/papers.pdf). Escriba al profesor para escoger un artículo para presentar. Las solicitudes serán asignadas en el orden en que sean recibidas. -->
@@ -35,8 +35,8 @@ Primary instructor. Course taught in Spanish.
 * Julio 9. Maité García. [Allen et al. (2019)](/files/BorderWalls_final.pdf)
 * Julio 15. Arturo Boisseauneau. [Owens et al. (2017)](/files/RD.pdf)
 * Julio 15. Ricardo Gómez. [Dingel et al. (2019)](/files/CLSDE.pdf)
-* Julio 18. Rafael Guerra. Baum-Snow et al. (2019)
-* Julio 18. Gustavo Hernández. Diamond y McQuade (2019)
+* Julio 18. Rafael Guerra. [Baum-Snow et al. (2019)](/files/NBR.pdf)
+* Julio 18. Gustavo Hernández. [Diamond y McQuade (2019)](/files/LIHTC.pdf)
 
 #### [Consejos para presentaciones](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
 

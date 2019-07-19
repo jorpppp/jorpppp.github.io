@@ -177,6 +177,11 @@ Primary instructor. Course taught in Spanish.
 #### Referencias principales
 
 * Busso, M., Gregory, J., & Kline, P. (2013). [Assessing the incidence and efficiency of a prominent place based policy](https://www.aeaweb.org/articles?id=10.1257/aer.103.2.897). *American Economic Review*, 103(2), 897-947.
+* Neumark, D., & Simpson, H. (2015). [Place-based policies](https://www.nber.org/papers/w20049.pdf). In Handbook of regional and urban economics (Vol. 5, pp. 1197-1287). Elsevier.
+
+#### Referencias adicionales
+
+* Chetty, R. (2009). [Sufficient statistics for welfare analysis: A bridge between structural and reduced-form methods](https://www.annualreviews.org/doi/full/10.1146/annurev.economics.050708.142910). Annu. Rev. Econ., 1(1), 451-488.
 
 
 

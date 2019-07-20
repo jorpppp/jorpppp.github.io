@@ -15,6 +15,7 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* El examen final de práctica está disponible.
 * Las presentaciones del 27 de Junio al 18 de Julio están disponibles.
 * El examen final será el **Sábado 27 de Julio** de **10 a 12** en el Salón **B1 de Río Hondo**.
 * Las notas de clase de los capítulos 1 a 6 están disponibles.
@@ -44,6 +45,8 @@ Primary instructor. Course taught in Spanish.
 
 * [Lineamientos para entrega de propuesta de investigación](/files/LineamientosPropuesta.pdf)
 * [Ejemplo de entrega inicial de propuesta](/files/idea1.pdf)
+
+#### [Examen de Práctica](/files/Examen_Urbana.pdf)
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 

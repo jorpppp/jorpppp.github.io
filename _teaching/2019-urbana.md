@@ -15,10 +15,10 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* Las notas de clase de los capítulos 1 a 6 están disponibles. Las notas del capítulo 6 han sido actualizadas.
 * El examen final de práctica está disponible.
 * Las presentaciones del 27 de Junio al 18 de Julio están disponibles.
 * El examen final será el **Sábado 27 de Julio** de **10 a 12** en el Salón **B1 de Río Hondo**.
-* Las notas de clase de los capítulos 1 a 6 están disponibles.
 <!--- * La primera entrega de la propuesta de investigación debe ser enviada por correo electrónico el miércoles 10 de Julio, a más tardar a las 23:59 hora de la Ciudad de México. Recuerde que la propuesta debe estar en inglés.
 <> * La lista de artículos para presentaciones en clase y las indicaciones para las presentaciones están disponibles [aquí](/files/papers.pdf). Escriba al profesor para escoger un artículo para presentar. Las solicitudes serán asignadas en el orden en que sean recibidas. -->
 

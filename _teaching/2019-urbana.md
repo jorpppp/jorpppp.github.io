@@ -175,7 +175,9 @@ Primary instructor. Course taught in Spanish.
 * Angrist, J. D., & Pischke, J. S. (2008). Mostly harmless econometrics: An empiricist's companion. Princeton university press.
 * Tincani, M. (2017). [Heterogeneous peer effects and rank concerns: Theory and evidence.](https://www.econstor.eu/bitstream/10419/155573/1/cesifo1_wp6331.pdf)
 
-### Capítulo 8. Políticas basadas en lugar.
+### Capítulo 8. Políticas basadas en el lugar.
+
+* Notas de clase
 
 #### Referencias principales
 
@@ -185,6 +187,17 @@ Primary instructor. Course taught in Spanish.
 #### Referencias adicionales
 
 * Chetty, R. (2009). [Sufficient statistics for welfare analysis: A bridge between structural and reduced-form methods](https://www.annualreviews.org/doi/full/10.1146/annurev.economics.050708.142910). Annu. Rev. Econ., 1(1), 451-488.
+* Kline, P., & Moretti, E. (2013). [Local economic development, agglomeration economies, and the big push: 100 years of evidence from the Tennessee Valley Authority](https://academic.oup.com/qje/article/129/1/275/1899702). *The Quarterly Journal of Economics*, 129(1), 275-331.
+* Kline, P., & Moretti, E. (2013). [Place based policies with unemployment.](https://www.nber.org/papers/w18758.pdf) *American Economic Review*, 103(3), 238-43.
+* Kline, P., & Moretti, E. (2014). [People, places, and public policy: Some simple welfare economics of local economic development programs.](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080213-041024) *Annual Review of Economics* 6:1, 629-662 
+
+### Capítulo 9. Mercados inmobiliarios.
+
+* Notas de Clase
+
+#### Referencias principales
+
+* Bayer, P., Ferreira, F., & McMillan, R. (2007). [A unified framework for measuring preferences for schools and neighborhoods.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/522381) *Journal of political economy*, 115(4), 588-638.
 
 
 

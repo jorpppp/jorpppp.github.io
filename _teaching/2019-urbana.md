@@ -191,13 +191,16 @@ Primary instructor. Course taught in Spanish.
 * Kline, P., & Moretti, E. (2013). [Place based policies with unemployment.](https://www.nber.org/papers/w18758.pdf) *American Economic Review*, 103(3), 238-43.
 * Kline, P., & Moretti, E. (2014). [People, places, and public policy: Some simple welfare economics of local economic development programs.](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080213-041024) *Annual Review of Economics* 6:1, 629-662 
 
-### Capítulo 9. Mercados inmobiliarios.
+### Capítulo 9. Mercados inmobiliarios y precios hedónicos.
 
 * Notas de Clase
 
 #### Referencias principales
 
 * Bayer, P., Ferreira, F., & McMillan, R. (2007). [A unified framework for measuring preferences for schools and neighborhoods.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/522381) *Journal of political economy*, 115(4), 588-638.
+* Chay, K. Y., & Greenstone, M. (2005). [Does air quality matter? Evidence from the housing market.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/427462) *Journal of political Economy*, 113(2), 376-424.
+* Rosen, S. (1986). [The theory of equalizing differences.](https://www.sciencedirect.com/science/article/pii/S1573446386010155) In: Handbook of labor economics, 1, 641-692.
+
 
 
 

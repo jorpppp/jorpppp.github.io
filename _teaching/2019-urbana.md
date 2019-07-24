@@ -15,7 +15,7 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
-* Las notas de clase de los capítulos 1 a 6 están disponibles. Las notas del capítulo 6 han sido actualizadas.
+* Las notas de clase de los capítulos 1 a 7 están disponibles.
 * El examen final de práctica está disponible.
 * Las presentaciones del 27 de Junio al 18 de Julio están disponibles.
 * El examen final será el **Sábado 27 de Julio** de **10 a 12** en el Salón **B1 de Río Hondo**.
@@ -161,7 +161,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 7. Efectos del vecindario.
 
-* Notas de Clase
+* [Notas de Clase](/files/urbana_c7.pdf)
 
 #### Referencias principales
 

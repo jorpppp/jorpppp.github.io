@@ -202,6 +202,10 @@ Primary instructor. Course taught in Spanish.
 * Chay, K. Y., & Greenstone, M. (2005). [Does air quality matter? Evidence from the housing market.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/427462) *Journal of political Economy*, 113(2), 376-424.
 * Rosen, S. (1986). [The theory of equalizing differences.](https://www.sciencedirect.com/science/article/pii/S1573446386010155) In: Handbook of labor economics, 1, 641-692.
 
+#### Referencias adicionales
+
+* Bajari, P., & Kahn, M. E. (2005). [Estimating housing demand with an application to explaining racial segregation in cities.](https://www.tandfonline.com/doi/abs/10.1198/073500104000000334) *Journal of business & economic statistics*, 23(1), 20-33.
+* Bayer, P., McMillan, R., Murphy, A., & Timmins, C. (2016). [A dynamic model of demand for houses and neighborhoods.](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA10170) *Econometrica*, 84(3), 893-942.
 
 
 

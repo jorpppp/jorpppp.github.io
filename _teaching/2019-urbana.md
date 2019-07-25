@@ -15,6 +15,7 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* En la clase del 25 de Julio habrá una breve sesión de preguntas al final de la clase.
 * Las notas de clase de los capítulos 1 a 8 están disponibles. Para el capítulo 9, pueden usar los vínculos a las notas de otros autores. Todas las notas han sido actualizadas para corregir algunos errores. Gracias a todos los que han contribuido a mejorar las notas.
 * El examen final de práctica está disponible.
 * Las presentaciones del 27 de Junio al 18 de Julio están disponibles.

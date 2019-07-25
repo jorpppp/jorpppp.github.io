@@ -208,5 +208,22 @@ Primary instructor. Course taught in Spanish.
 * Bajari, P., & Kahn, M. E. (2005). [Estimating housing demand with an application to explaining racial segregation in cities.](https://www.tandfonline.com/doi/abs/10.1198/073500104000000334) *Journal of business & economic statistics*, 23(1), 20-33.
 * Bayer, P., McMillan, R., Murphy, A., & Timmins, C. (2016). [A dynamic model of demand for houses and neighborhoods.](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA10170) *Econometrica*, 84(3), 893-942.
 
+### Capítulo 10. Transporte
+
+* Notas de clase.
+
+#### Referencias principales
+
+* Small, K. A., Winston, C., & Yan, J. (2005). [Uncovering the distribution of motorists' preferences for travel time and reliability.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2005.00619.x) *Econometrica*, 73(4), 1367-1382.
+* Small, K. A., Winston, C., Yan, J., Baum-Snow, N., & Gómez-Ibáñez, J. A. (2006). [Differentiated road pricing, express lanes, and carpools: Exploiting heterogeneous preferences in policy design.](https://www.jstor.org/stable/25067428) *Brookings-Wharton Papers on Urban Affairs*, 53-96.
+
+#### Referencias adicionales
+
+* Train, K. E. (2009). Discrete choice methods with simulation. Cambridge university press.
+
+
+
+
+
 
 

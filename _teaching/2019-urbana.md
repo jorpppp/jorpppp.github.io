@@ -210,7 +210,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 10. Transporte
 
-* Notas de clase.
+* [Notas de clase preliminares](/files/urbana_c10_amano.pdf)
 
 #### Referencias principales
 

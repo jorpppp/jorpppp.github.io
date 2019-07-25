@@ -15,7 +15,7 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
-* Las notas de clase de los capítulos 1 a 7 están disponibles.
+* Las notas de clase de los capítulos 1 a 8 están disponibles. Para el capítulo 9, pueden usar los vínculos a las notas de otros autores. Todas las notas han sido actualizadas para corregir algunos errores. Gracias a todos los que han contribuido a mejorar las notas.
 * El examen final de práctica está disponible.
 * Las presentaciones del 27 de Junio al 18 de Julio están disponibles.
 * El examen final será el **Sábado 27 de Julio** de **10 a 12** en el Salón **B1 de Río Hondo**.
@@ -50,7 +50,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 
-* [Notas de clase](/files/urbana_intro_c1.pdf)
+* [Notas de clase](/files/urbana_c1.pdf)
 
 #### Referencias principales
 
@@ -135,7 +135,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 5. Geografía Económica
 
-* [Notas de Clase](/files/Economia_Urbana_ITAM_c5.pdf)
+* [Notas de Clase](/files/urbana_c5.pdf)
 
 #### Referencias principales
 
@@ -143,7 +143,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 6. Equilibrio Espacial y Sistemas de Ciudades
 
-* [Notas de Clase](/files/Economia_Urbana_ITAM_c6.pdf)
+* [Notas de Clase](/files/urbana_c6.pdf)
 
 #### Referencias principales
 
@@ -177,7 +177,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 8. Políticas basadas en el lugar.
 
-* Notas de clase
+* [Notas de clase](/files/urbana_c8.pdf)
 
 #### Referencias principales
 

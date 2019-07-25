@@ -194,6 +194,7 @@ Primary instructor. Course taught in Spanish.
 ### Capítulo 9. Mercados inmobiliarios y precios hedónicos.
 
 * Notas de Clase
+* [Notas de Nathan Schiff sobre Bayer, Ferreira y McMillan](https://www.nathanschiff.com/webdocs/grad_urban/grad_urban_2017/neighborhood_sorting_lecture_HANDOUT_2017.pdf)
 
 #### Referencias principales
 

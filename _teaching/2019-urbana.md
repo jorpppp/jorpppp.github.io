@@ -15,9 +15,9 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
-* En la clase del 25 de Julio habrá una breve sesión de preguntas al final de la clase.
-* Las notas de clase de los capítulos 1 a 8 están disponibles. Para el capítulo 9, pueden usar los vínculos a las notas de otros autores. Todas las notas han sido actualizadas para corregir algunos errores. Gracias a todos los que han contribuido a mejorar las notas.
+* La segunda entrega de la propuesta de investigación debe ser enviada por correo electrónico a más tardar el **Miércoles 31 de Julio** a las 06:00 hora de la Ciudad de México. Recuerde que la propuesta debe estar en inglés.
 * El examen final de práctica está disponible.
+* Las notas de clase de los capítulos 1 a 10 están disponibles. Para el capítulo 9, pueden usar los vínculos a las notas de otros autores. Todas las notas han sido actualizadas para corregir algunos errores. Gracias a todos los que han contribuido a mejorar las notas.
 * Las presentaciones del 27 de Junio al 18 de Julio están disponibles.
 * El examen final será el **Sábado 27 de Julio** de **10 a 12** en el Salón **B1 de Río Hondo**.
 <!--- * La primera entrega de la propuesta de investigación debe ser enviada por correo electrónico el miércoles 10 de Julio, a más tardar a las 23:59 hora de la Ciudad de México. Recuerde que la propuesta debe estar en inglés.

@@ -50,8 +50,8 @@ Primary instructor. Course taught in Spanish.
 ### Exámenes
 
 * [Examen de Práctica](/files/Examen_Urbana.pdf) - [Solución](https://www.journals.uchicago.edu/doi/abs/10.1086/702650)
-* Examen Final 1 - Solución
-* Examen Final 2 - Solución
+* [Examen Final 1](/files/examen1.pdf) - [Solución](https://www.sciencedirect.com/science/article/pii/S0169721811024129)
+* [Examen Final 2](/files/examen2.pdf) - [Solución](https://www.sciencedirect.com/science/article/pii/S0094119019300634?dgcid=rss_sd_all)
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 

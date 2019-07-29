@@ -47,7 +47,11 @@ Primary instructor. Course taught in Spanish.
 * [Lineamientos para entrega de propuesta de investigación](/files/LineamientosPropuesta.pdf)
 * [Ejemplo de entrega inicial de propuesta](/files/idea1.pdf)
 
-#### [Examen de Práctica](/files/Examen_Urbana.pdf)
+### Exámenes
+
+* [Examen de Práctica](/files/Examen_Urbana.pdf) - [Solución](https://www.journals.uchicago.edu/doi/abs/10.1086/702650)
+* Examen Final 1 - Solución
+* Examen Final 2 - Solución
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 

@@ -53,7 +53,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Calificaciones
 
-* [Calificaciones presentación y entrega inicial de propuesta](/files/ITAMnotasSN.pdf)
+* [Calificaciones presentación, entrega inicial de propuesta y examen](/files/ITAMnotasSN.pdf)
 
 ### Capítulo 1. Motivación y el modelo monocéntrico
 

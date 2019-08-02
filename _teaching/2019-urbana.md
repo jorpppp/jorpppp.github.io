@@ -15,6 +15,7 @@ Primary instructor. Course taught in Spanish.
 
 ## Noticias
 
+* Las calificaciones finales están disponibles.
 * Los exámenes finales y los artículos en los que se encuentra la solución están disponibles.
 * La segunda entrega de la propuesta de investigación debe ser enviada por correo electrónico a más tardar el **Miércoles 31 de Julio** a las 06:00 hora de la Ciudad de México. Recuerde que la propuesta debe estar en inglés.
 * Las notas de clase de los capítulos 1 a 10 están disponibles. Para el capítulo 9, pueden usar los vínculos a las notas de otros autores. Todas las notas han sido actualizadas para corregir algunos errores. Gracias a todos los que han contribuido a mejorar las notas.

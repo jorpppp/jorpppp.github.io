@@ -5,7 +5,7 @@ type: working_paper
 permalink: /research/2019-04-15-minimum-wages-formal-informal
 excerpt: 'I estimate the effect of the minimum wage on formal wages, informal wages, and employment in Colombia. I exploit an unexpected increase in the real minimum wage during the 1999 Colombian economic crisis to estimate short- term effects of the minimum wage along the distribution of wages in both sectors. I find evidence of wage responses, with a stronger incidence in the formal sector. '
 date: 2019-05-24
-venue: Banco de Mexico working paper series
+venue: Banco de Mexico Research Papers
 venuepaperurl: 'http://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7B344E41EF-5105-C5FF-74D6-8FA5D7D089AC%7D.pdf'
 paperurl: /files/Jorge_Perez_Minimum_wage_informal_Colombia.pdf
 citation: 'Pérez Pérez, Jorge. 2019. The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflation Shock in Colombia. Banco de México Research Papers 2019-13. Banco de Mexico.'

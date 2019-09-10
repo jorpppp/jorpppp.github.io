@@ -12,7 +12,7 @@ I am an Economist in the Economics Research Division at [Banco de México](http:
 
 I am currently working on:
 
-* How changes in local infrastructure change labor market power in Mexico.
+* How changes in local infrastructure change labor market power in Mexico
 * The effects of minimum wages in Mexico
 * The impacts of household shocks on consumption in Colombia
 * The estimation of policy effects in panel event studies

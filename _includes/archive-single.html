@@ -73,8 +73,6 @@
 		<p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-<!–– {% if post.citation %} <p>Recommended citation: {{ post.citation }}</p> {% endif %} ––>
-	
 	{% if post.collection == 'research' %}
 		{% if post.paperurl!='' %}		
 			<p><a style='color: #6CBAD0;' href=" {{ post.paperurl }} ">Download latest version</a></p>

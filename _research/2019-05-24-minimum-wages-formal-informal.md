@@ -1,5 +1,5 @@
 ---
-title: "The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflation Shock in Colombia (Under Review)"
+title: "The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflation Shock in Colombia (R&R, *World Development*)"
 collection: research
 type: working_paper
 permalink: /research/2019-04-15-minimum-wages-formal-informal

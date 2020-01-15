@@ -9,6 +9,10 @@ venue: Banco de Mexico Research Papers
 venuepaperurl: 'http://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7B344E41EF-5105-C5FF-74D6-8FA5D7D089AC%7D.pdf'
 paperurl: /files/Jorge_Perez_Minimum_wage_informal_Colombia.pdf
 citation: 'Pérez Pérez, Jorge. 2019. The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflation Shock in Colombia. Banco de México Research Papers 2019-13. Banco de Mexico.'
+coverage1: HKUST-IEMS 
+coverage1url: https://iems.ust.hk/assets/publications/newsletters/hkust-iems-newsletter-spring-2017-web.pdf
+coverage2: La Silla Vacía
+coverage2url: https://lasillavacia.com/silla-academica/no-hay-certeza-de-que-subir-el-minimo-aumente-el-desempleo-63934
 ---
 Abstract: I estimate the effect of a real minimum wage increase on formal and informal wages, and on employment in Colombia. For identification, I take advantage of an unexpected increase in the real minimum wage during 1999, arising from lower-than-expected inflation. I compare cities and industries with different incidence of the minimum wage increase. I measure incidence as the percentage of workers whose real minimum wage is between the old and the new real minimum wage before the increase. I find evidence of positive wage responses for wages close to the minimum wage. The results show that wages increase more in the formal than in the informal sector. I do not find that informal wages react to the minimum wage indirectly, through the linkages between the formal and the informal market. I show that employers in both sectors use the minimum as a reference, although they set some wages below it. These results may not be generalizable to other countries or contexts, or to larger minimum wage increases.
 

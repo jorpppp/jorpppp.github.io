@@ -59,7 +59,11 @@
 	{% endif %}
 	
 	{% if post.coverage1 %}
-		<p>Coverage: <a style='color: #6CBAD0;' href=" {{ post.coverage1url }} ">{{post.coverage1}}</a></p>
+		<p>Coverage: <a style='color: #6CBAD0;' href=" {{ post.coverage1url }} ">{{post.coverage1}}</a>
+	  	{% if post.coverage2 %}
+			<p> ,<a style='color: #6CBAD0;' href=" {{ post.coverage2url }} ">{{post.coverage2}}</a>
+		{% endif %}		
+	  	</p>
 	{% endif %}
 	
 	{% if post.blog %}

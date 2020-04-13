@@ -1,5 +1,5 @@
 ---
-title: "The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflation Shock in Colombia (Accepted, *World Development*)"
+title: "The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflation Shock (Accepted, *World Development*)"
 collection: research
 type: working_paper
 permalink: /research/2019-04-15-minimum-wages-formal-informal
@@ -8,7 +8,6 @@ date: 2019-05-24
 venue: Banco de Mexico Research Papers
 venuepaperurl: 'http://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7B344E41EF-5105-C5FF-74D6-8FA5D7D089AC%7D.pdf'
 paperurl: /files/Jorge_Perez_Minimum_wage_informal_Colombia.pdf
-citation: 'Pérez Pérez, Jorge. 2019. The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflation Shock in Colombia. Banco de México Research Papers 2019-13. Banco de Mexico.'
 coverage1: HKUST-IEMS 
 coverage1url: https://iems.ust.hk/assets/publications/newsletters/hkust-iems-newsletter-spring-2017-web.pdf
 coverage2: La Silla Vacia

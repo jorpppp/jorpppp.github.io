@@ -32,7 +32,7 @@ Primary instructor. Course taught in Spanish.
 * Junio 27. Filix Gómez. [Bilal y Rossi-Hansberg (2018)](/files/LA.pdf)
 * Julio 3. Arístides Martínez. [Ahlfeldt y Pietrostefani (2019)](/files/ED.pdf)
 * Julio 3. Daniel Loredo. [Dauth et al. (2018)](/files/MC.pdf)
-* Julio 8. Rogelio de la Peña. [Tsivanidis (2018)](/files/PPT_RogelioDeLaPeña_1.pdf)
+* Julio 8. Rogelio de la Peña. [Tsivanidis (2018)](/files/PPT_RogelioDeLaPena_1.pdf)
 * Julio 9. Maité García. [Allen et al. (2019)](/files/BorderWalls_final.pdf)
 * Julio 15. Arturo Boisseauneau. [Owens et al. (2017)](/files/RD.pdf)
 * Julio 15. Ricardo Gómez. [Dingel et al. (2019)](/files/CLSDE.pdf)

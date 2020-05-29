@@ -82,14 +82,14 @@
     
 	{% if post.collection == 'research' %}
 		{% if post.paperurl!='' %}		
-			<p><a style='color: #6CBAD0;' href=" {{ post.paperurl }} ">Download latest version</a></p>
+			<p><a style='color: #6CBAD0;' href=" {{ post.paperurl }} ">Download</a></p>
 		{% elsif post.paperurl==''  %}
 		  <p>Download coming soon</p>	
 		{% endif %}
 	{% endif %}
 	
 	{% if post.venuepaperurl %}
-		<p><a style='color: #6CBAD0;' href=" {{ post.venuepaperurl }} ">Download <i>{{ post.venue }}</i> version</a></p>
+		<p><a style='color: #6CBAD0;' href=" {{ post.venuepaperurl }} ">Download from <i>{{ post.venue }}</i></a></p>
 	{% endif %}
 	
   </article>

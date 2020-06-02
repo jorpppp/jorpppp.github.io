@@ -73,17 +73,21 @@ layout: default
 		{% endif %}
 		
 		{% if page.paperurl!='' and page.title !='About' and page.collection !='teaching' and page.collection !='posts'  %}
-			<p><a style='color: #6CBAD0;' href=" {{ page.paperurl }} ">Download latest version</a></p>
+			<p><a style='color: #6CBAD0;' href=" {{ page.paperurl }} ">Download latest version</a>
+				
+			{% if page.venuepaperurl %}
+			--- <a style='color: #6CBAD0;' href=" {{ page.venuepaperurl }} ">Download <i>{{ page.venue }}</i> version</a>
+			{% endif %}
+			
+			{% if page.replication %}
+			--- <a style='color: #6CBAD0;' href=" {{ page.replication }} "> Replication Files</a>
+			{% endif %}
+			
+			{% if page.paperurl=='' %}
+			---	Download coming soon	
+			{% endif %}
+			</p>	
 		{% endif %}
-		
-		{% if page.venuepaperurl %}
-		<p><a style='color: #6CBAD0;' href=" {{ page.venuepaperurl }} ">Download <i>{{ page.venue }}</i> version</a></p>
-		{% endif %}
-		
-		{% if page.paperurl=='' %}
-			<p>Download coming soon</p>	
-		{% endif %}
-		
 		
         </header>
       {% endunless %}

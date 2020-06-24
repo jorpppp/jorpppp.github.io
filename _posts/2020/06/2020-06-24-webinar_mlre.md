@@ -2,7 +2,7 @@
 title: 'Webinar: Mercado Laboral y Recuperación Económica'
 date: 2019-08-26
 collection: posts
-permalink: /posts/2019/08/mwcol_es/
+permalink: /posts/2020/06/webinar_mlre/
 tags:
   - mercado laboral
   - salario mínimo

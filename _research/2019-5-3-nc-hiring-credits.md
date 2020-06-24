@@ -5,7 +5,8 @@ type: working_paper
 permalink: /research/2019-5-3-nc-hiring-credits
 excerpt: 'We analyze the efficacy of hiring tax credits, particularly in distressed labor markets. Our estimates show positive effects on employment and sizable reductions on the unemployment rate.'
 date: 2019-5-3
-venue: 
+venue: 'Banco de Mexico working papers'
+venuepaperurl: 'https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCF0A9949-2D72-6738-EF15-57CFA57249CD%7D.pdf'
 paperurl: /files/Perez_Suher_NC_Hiring_Credits.pdf
 citation: 
 ---

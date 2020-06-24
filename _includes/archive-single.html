@@ -87,13 +87,13 @@
 		{% elsif post.paperurl==''  %}
 		  Download coming soon	
 		{% endif %}
-	{% endif %}	
-	{% if post.venuepaperurl %}
+		{% if post.venuepaperurl %}
 		--- <a style='color: #6CBAD0;' href=" {{ post.venuepaperurl }} "> Download from <i>{{ post.venue }}</i></a>
+		{% endif %}	
+		{% if post.replication %}
+			--- <a style='color: #6CBAD0;' href=" {{ post.replication }} "> Replication Files</a>
+		{% endif %}
 	{% endif %}	
-	{% if post.replication %}
-		--- <a style='color: #6CBAD0;' href=" {{ post.replication }} "> Replication Files</a>
-	{% endif %}
 	</p>
   </article>
 </div>

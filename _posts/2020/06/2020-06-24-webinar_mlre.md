@@ -11,7 +11,7 @@ tags:
 excerpt: 'Intervención en el Webinar: Mercado Laboral y Recuperación Económica - Universidad de Los Andes y Universidad Eafit - Junio 17 2020'
 ---
 
-El 17 de Junio participé en el Webinar: Mercado Laboral y Recuperación Económica, de la Universidad de Los Andes y la Universidad Eafit. Junto con Giulia Lotti (BID) y CristinaFernández (Fedesarrollo), discutimos mucho sobre el salario mínimo como herramienta de política para reactivar el mercado laboral durante y después de la cisis causada por Covid-19.
+El 17 de Junio participé en el Webinar: Mercado Laboral y Recuperación Económica, de la Universidad de Los Andes y la Universidad Eafit. Junto con Giulia Lotti (BID) y Cristina Fernández (Fedesarrollo), discutimos mucho sobre el salario mínimo como herramienta de política para reactivar el mercado laboral durante y después de la cisis causada por Covid-19.
 
 Aquí están el [video del webinar](https://www.youtube.com/watch?v=qH0-sj6Vklg&feature=youtu.be) y [la presentación que usé](/files/Webinar.pdf).
 

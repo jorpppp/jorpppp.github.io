@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Jorge Pérez Pérez -Economist - Banco de México"
+excerpt: "Jorge Pérez Pérez - Research Economist - Banco de México"
 author_profile: true
 redirect_from: 
   - /about/

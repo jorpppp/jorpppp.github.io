@@ -19,7 +19,7 @@ I am currently working on:
 * [The decomposition of multidimensional poverty measures](/research/2018-03-20-unpacking-the-mpi)
 * [The impacts of household shocks on consumption in Colombia](/research/2018-9-20-consumption-shocks)
 * [The measurement of job spatial mismatch in Medellín](/research/2020-7-22-mismatch)
-
+* [The effects of urban infrastructure on mismatch and labor market power](/research/2020-10-28-infrastructure)
 
 
 

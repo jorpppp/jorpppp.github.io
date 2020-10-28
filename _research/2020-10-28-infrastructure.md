@@ -3,7 +3,7 @@ title: "Urban Transit Infrastructure: Spatial Mismatch and Labor Market Power"
 collection: research
 type: work_in_progress
 permalink: /research/2020-10-28-infrastructure
-excerpt: 
+excerpt: ''
 date: 2020-10-28
 venue: 
 paperurl: ''

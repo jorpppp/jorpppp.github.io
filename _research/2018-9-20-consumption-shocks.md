@@ -5,7 +5,8 @@ type: working_paper
 permalink: /research/2018-9-20-consumption-shocks
 excerpt: 'We analyze the effect of adverse health shocks on different expenditure shares. We find that households engage in substitution between health expenditures and food expenditures. We also find important heterogeneity in this trade-off between present health and future health mediated by access to social protection, job contract type, and location (urban-rural).'
 date: 2020-8-15
-venue: 
+venue: SocArXiv
+venuepaperurl: https://osf.io/preprints/socarxiv/vh2qa/
 paperurl: /files/CGP.pdf
 citation: 
 ---

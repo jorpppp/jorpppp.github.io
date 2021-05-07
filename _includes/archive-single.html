@@ -96,6 +96,12 @@
 		{% if post.replication %}
 			--- <a style='color: #6CBAD0;' href=" {{ post.replication }} "> Replication Files</a>
 		{% endif %}
+		{% if post.appendix %}
+			--- <a style='color: #6CBAD0;' href=" {{ post.appendix }} "> Appendix</a>
+		{% endif %}
+		{% if post.package %}
+			--- <a style='color: #6CBAD0;' href=" {{ post.package }} "> Stata Package</a>
+		{% endif %}
 	{% endif %}	
 	</p>
   </article>

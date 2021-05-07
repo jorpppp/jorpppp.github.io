@@ -85,6 +85,12 @@ layout: default
 			{% if page.replication %}
 			--- <a style='color: #6CBAD0;' href=" {{ page.replication }} "> Replication Files</a>
 			{% endif %}
+			{% if page.appendix %}
+			--- <a style='color: #6CBAD0;' href=" {{ page.appendix }} "> Appendix</a>
+			{% endif %}
+			{% if page.package %}
+			--- <a style='color: #6CBAD0;' href=" {{ page.package }} "> Stata Package</a>
+			{% endif %}
 			
 			{% if page.paperurl=='' %}
 			---	Download coming soon	

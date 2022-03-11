@@ -47,6 +47,11 @@
 			{% else %}
 				<p>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 			{% endif %}
+			{% if post.venue2 %}
+				<p>Listed in <i>{{ post.venue2 }}</i></p>
+			{% else %}
+				<p>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+			{% endif %}
 		{% elsif post.type =='publication' %}
 			<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 		{% endif %}
@@ -92,6 +97,9 @@
 		{% endif %}
 		{% if post.venuepaperurl %}
 		--- <a style='color: #6CBAD0;' href=" {{ post.venuepaperurl }} "> Download from <i>{{ post.venue }}</i></a>
+		{% endif %}
+		{% if post.venuepaperurl2 %}
+		--- <a style='color: #6CBAD0;' href=" {{ post.venuepaperurl2}} "> Download from <i>{{ post.venue2 }}</i></a>
 		{% endif %}	
 		{% if post.replication %}
 			--- <a style='color: #6CBAD0;' href=" {{ post.replication }} "> Replication Files</a>

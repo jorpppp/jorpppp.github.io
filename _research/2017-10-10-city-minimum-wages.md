@@ -7,6 +7,8 @@ excerpt: 'Local minimum wage laws are becoming common across U.S. cities, and th
 date: 2020-12-24
 venue: SocArXiv
 venuepaperurl: https://osf.io/preprints/socarxiv/fpx9e/
+venue2: 'Banco de Mexico working papers'
+venuepaperurl2: 'https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BC713BCA8-CA5C-7306-1029-40BCCF513B09%7D.pdf'
 paperurl:  /files/Jorge_Perez_JMP.pdf
 citation: 
 comment: Winner of the 2018 S4 Graduate Student Paper Prize 
@@ -14,5 +16,5 @@ commenturl: https://www.brown.edu/academics/spatial-structures-in-social-science
 coverage1: Marginal Revolution
 coverage1url: http://marginalrevolution.com/marginalrevolution/2019/05/the-minimum-wage-and-migration-decisions.html
 ---
-Abstract: Local minimum wage laws are becoming common across U.S. cities, and their effects may be different from the effects of state or national minimum wage policies. This paper studies the effect of changes in the minimum wage on spatial equilibriums in local labor markets. Using residence and workplace data for the United States, I analyze how commuting, residence, and employment locations change across city and state borders if the minimum wage changes on one side of the border. I find that areas in which the minimum wage increases receive fewer low-wage commuters. A 10 percent increase in the minimum wage reduces the inflow of low-wage commuters by about 2.5 percent. Rises in the minimum wage are also associated with employment relocation across borders toward areas that did not witness an increase in the minimum wage. I formulate a spatial equilibrium gravity model to explain the distribution of workers between low- and high-minimum wage areas. I calculate counterfactual equilibriums with a higher minimum wage for U.S. counties with cities considering an increase, highlighting the role of commuting and migration responses. About two-fifths of the counties considering increases would receive fewer low-wage commuters. Employment relocation away from high-minimum wage areas drives the commuting losses.
-
+Abstract: This paper studies the effect of minimum wage changes on spatial equilibriums in local labor markets. Using data for the U.S. and minimum wage variation across state borders, I analyze how commuting, residence, and employment locations change in response to local minimum wage changes. I find that areas where the minimum wage increases receive fewer low-wage commuters. I formulate a spatial equilibrium model and calculate counterfactuals with a higher minimum wage for U.S. cities considering an increase. For small minimum wage increases, most counties would receive higher low-wage commuting and have fewer low-wage residents. As minimum wage increases are larger, there are
+higher low-wage commuting reductions driven by employment relocation.

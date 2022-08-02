@@ -1,5 +1,5 @@
 ---
-title: "Urban Economics"
+title: "Labor Economics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-laboral

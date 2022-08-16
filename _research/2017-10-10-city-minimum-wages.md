@@ -1,5 +1,5 @@
 ---
-title: "City Minimum Wages and Spatial Equilibrium Effects (Submitted)"
+title: "City Minimum Wages and Spatial Equilibrium Effects"
 collection: research
 type: working_paper
 permalink: /research/2017-10-10-city-minimum-wages

@@ -43,9 +43,7 @@
 	{% elsif post.collection == 'research' %}
 		{% if post.type =='working_paper'%}
 			{% if post.venue %}
-				<p>Listed in <i>{{ post.venue }}</i></p>
-			{% else %}
-				<p>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+				<p>Listed in <i>{{ post.venue }}</i></p>			
 			{% endif %}
 			{% if post.venue2 %}
 				<p>Listed in <i>{{ post.venue2 }}</i></p>			

@@ -48,9 +48,7 @@
 				<p>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 			{% endif %}
 			{% if post.venue2 %}
-				<p>Listed in <i>{{ post.venue2 }}</i></p>
-			{% else %}
-				<p>{{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+				<p>Listed in <i>{{ post.venue2 }}</i></p>			
 			{% endif %}
 		{% elsif post.type =='publication' %}
 			<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>

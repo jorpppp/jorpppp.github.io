@@ -5,6 +5,8 @@ type: working_paper
 permalink: /research/2022-10-31-akm-mexico
 excerpt: "We estimate the contribution of average workplace-specific wage premia, worker-level characteristics, and assortative matching on the variance of wages in Mexico. We find that assortative matching explains between 16% and 19% of total wage variance, while worker- and workplace-specific factors contribute between 35% to 42% and 33% to 38%, correspondingly. The importance of workplace factors in determining wage inequality correlates negatively with regional economic development."
 date: 2022-10-31
+venue: 'Alianza EFI Working Papers'
+venuepaperurl: 'https://alianzaefi.com/documento/the-contribution-of-workers-workplaces-and-sorting-to-wage-inequality-in-mexico/'
 paperurl: '/files/PerezNunoAKM.pdf'
 
 ---

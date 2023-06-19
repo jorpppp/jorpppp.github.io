@@ -116,7 +116,9 @@ layout: default
 			{% if page.package %}
 			--- <a style='color: #6CBAD0;' href=" {{ page.package }} "> Stata Package</a>
 			{% endif %}
-			
+			{% if page.rpackage %}
+			--- <a style='color: #6CBAD0;' href=" {{ page.package }} "> R Library</a>
+			{% endif %}
 			{% if page.paperurl=='' %}
 			---	Download coming soon	
 			{% endif %}

@@ -16,7 +16,7 @@ I am currently working on:
 * [The effects of urban infrastructure on mismatch and labor market power](/research/2020-10-28-infrastructure)
 * [Tools to estimate linear panel event-studies](https://github.com/JMSLab/xtevent)
 * [The effectiveness of hiring credits in North Carolina](/research/2019-5-3-nc-hiring-credits)
-* [The impacts of household shocks on consumption in Colombia](/research/2018-9-20-consumption-shocks)
+* [The impacts of health shocks on expenditure in Colombia](/research/2023-6-15-consumption-shocks)
 * [The measurement of job spatial mismatch in Medellín](/research/2020-7-22-mismatch)
 * [How city minimum wages reshape commuting and migration in US cities](/research/2017-10-10-city-minimum-wages) 
 * [The decomposition of multidimensional poverty measures](/research/2018-03-20-unpacking-the-mpi)

@@ -8,6 +8,8 @@ date: 2022-10-04
 paperurl: /files/VZP.pdf
 coverage1: CAF Transport Infrastructure for the Development of Latin America 
 coverage1url: https://www.caf.com/en/currently/calls/2020/07/transport-infrastructure-for-the-development-of-latin-america/
+venue: CAF Working Papers
+venuepaperurl: https://scioteca.caf.com/handle/123456789/1992
 ---
 With [Felipe Vial Lecaros](https://sites.google.com/view/felipevial/home) and [Román David Zárate](https://www.romandavidzarate.com/)
 

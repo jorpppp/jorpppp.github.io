@@ -8,7 +8,7 @@ date: 2023-6-15
 venue: SocArXiv
 venuepaperurl: https://osf.io/preprints/socarxiv/vh2qa/
 venue2: Documentos de Trabajo Facultad de Economía Universidad del Rosario
-venue2paperurl: https://repository.urosario.edu.co/handle/10336/39850
+venuepaperurl2: https://repository.urosario.edu.co/handle/10336/39850
 paperurl: /files/CGP.pdf
 citation: 
 ---

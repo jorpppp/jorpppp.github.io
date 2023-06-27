@@ -1,5 +1,5 @@
 ---
-title: "Workers, Workplaces, Sorting, and Wage Dispersion in Mexico (Submitted)"
+title: "Workers, Workplaces, Sorting, and Wage Dispersion in Mexico (Revise and Resubmit, Economía)"
 collection: research
 type: working_paper
 permalink: /research/2022-10-31-akm-mexico

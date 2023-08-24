@@ -1,5 +1,5 @@
 ---
-title: "Matching and City Size Wage Gaps under the Shadow of Informality: Evidence from Mexico (Submitted)"
+title: "Matching and City Size Wage Gaps under the Shadow of Informality: Evidence from Mexico (Reject and Resubmit, Regional Science and Urban Economics)"
 collection: research
 type: working_paper
 permalink: /research/2023-6-15-akmcitysize

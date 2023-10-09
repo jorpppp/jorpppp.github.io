@@ -26,4 +26,14 @@ excerpt: 'Updates in diff-in-diff estimation'
 * Roth, J., Sant’Anna, P. H., Bilinski, A., & Poe, J. (2023). [What’s trending in difference-in-differences? A synthesis of the recent econometrics literature](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001318). Journal of Econometrics.
 * Olden, A., & Møen, J. (2022). [The triple difference estimator](https://academic.oup.com/ectj/article/25/3/531/6545797). The Econometrics Journal, 25(3), 531-553.
 
+### Capítulo 2. Heterogeneidad y adopción escalonada
+* [Notas de clase](/files/dd_c2.pdf)
+
+#### Referencias principales
+
+* Angrist, J. D., & Pischke, J. S. (2009). [Mostly harmless econometrics: An empiricist's companion](https://www.mostlyharmlesseconometrics.com/). Princeton university press.
+* Borusyak, K., Jaravel, X., & Spiess, J. (2021). [Revisiting event study designs: Robust and efficient estimation.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2826228) arXiv preprint arXiv:2108.12419.
+* Callaway, B., & Sant’Anna, P. H. (2021). [Difference-in-differences with multiple time periods.](https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948) Journal of econometrics, 225(2), 200-230.
+* Goodman-Bacon, A. (2021). [Difference-in-differences with variation in treatment timing](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445). Journal of Econometrics, 225(2), 254-277.
+
 

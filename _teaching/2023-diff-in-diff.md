@@ -36,4 +36,11 @@ excerpt: 'Updates in diff-in-diff estimation'
 * Callaway, B., & Sant’Anna, P. H. (2021). [Difference-in-differences with multiple time periods.](https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948) Journal of econometrics, 225(2), 200-230.
 * Goodman-Bacon, A. (2021). [Difference-in-differences with variation in treatment timing](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445). Journal of Econometrics, 225(2), 254-277.
 
+### Capítulo 3. Estudio de evento
+
+#### Referencias principales
+* Freyaldenhoven, S., Hansen, C., Pérez, J. P., & Shapiro, J. M. (2021). [Visualization, identification, and estimation in the linear panel event-study design](https://www.nber.org/papers/w29170) (No. w29170). National Bureau of Economic Research.
+* Schmidheiny, K., & Siegloch, S. (2023). [On event studies and distributed‐lags in two‐way fixed effects models: Identification, equivalence, and generalization.](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2971?casa_token=IE54Z4WFfoUAAAAA%3A8xZGuCrySsOV7Upghv8by_Y9RIg975PS2750L7qfSTWHV5gtLESDlpqCSpiW80FSu7qLkIQMNAg6KWtbtw) Journal of Applied Econometrics, 38(5), 695-713.
+
+
 

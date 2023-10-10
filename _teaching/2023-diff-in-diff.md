@@ -36,6 +36,12 @@ excerpt: 'Updates in diff-in-diff estimation'
 * Callaway, B., & Sant’Anna, P. H. (2021). [Difference-in-differences with multiple time periods.](https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948) Journal of econometrics, 225(2), 200-230.
 * Goodman-Bacon, A. (2021). [Difference-in-differences with variation in treatment timing](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445). Journal of Econometrics, 225(2), 254-277.
 
+#### Aplicación
+
+* [Base de datos](/files/code/baker.dta)
+* [Código Stata](/files/code/dd_c2.do)
+* [Código R](/files/code/dd_c2.R)
+
 ### Capítulo 3. Estudio de evento
 
 #### Referencias principales

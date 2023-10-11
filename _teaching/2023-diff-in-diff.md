@@ -52,9 +52,9 @@ excerpt: 'Updates in diff-in-diff estimation'
 ### Capítulo 3. Estudio de evento
 
 #### Referencias principales
-* Freyaldenhoven, S., Hansen, C., Pérez, J. P., & Shapiro, J. M. (2021). [Visualization, identification, and estimation in the linear panel event-study design](https://www.nber.org/papers/w29170) (No. w29170). National Bureau of Economic Research. *
-    *[Presentacion](/files/dd_eventstudytalk.pdf)
-    *[Videos](https://www.youtube.com/@linearpanelevent-studydesi780)
+* Freyaldenhoven, S., Hansen, C., Pérez, J. P., & Shapiro, J. M. (2021). [Visualization, identification, and estimation in the linear panel event-study design](https://www.nber.org/papers/w29170) (No. w29170). National Bureau of Economic Research.
+ -[Presentacion](/files/dd_eventstudytalk.pdf)
+ -[Videos](https://www.youtube.com/@linearpanelevent-studydesi780)
 * Schmidheiny, K., & Siegloch, S. (2023). [On event studies and distributed‐lags in two‐way fixed effects models: Identification, equivalence, and generalization.](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2971?casa_token=IE54Z4WFfoUAAAAA%3A8xZGuCrySsOV7Upghv8by_Y9RIg975PS2750L7qfSTWHV5gtLESDlpqCSpiW80FSu7qLkIQMNAg6KWtbtw) Journal of Applied Econometrics, 38(5), 695-713.
 
 #### Aplicación
@@ -69,6 +69,7 @@ excerpt: 'Updates in diff-in-diff estimation'
 * Abadie, A., & Vives-i-Bastida, J. (2022). [Synthetic controls in action.](https://arxiv.org/abs/2203.06279) arXiv preprint arXiv:2203.06279.
 * Cattaneo, M. D., Feng, Y., Palomba, F., & Titiunik, R. (2022). [scpi: Uncertainty Quantification for Synthetic Control Methods.](https://nppackages.github.io/references/Cattaneo-Feng-Palomba-Titiunik_2023_scpi.pdf) arXiv preprint arXiv:2202.05984.
 
-
+#### Aplicación
+* [Código](/files/dd_control_sintetico_ejemplo.zip)
 
 

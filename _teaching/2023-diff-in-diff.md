@@ -70,6 +70,7 @@ excerpt: 'Updates in diff-in-diff estimation'
 * Cattaneo, M. D., Feng, Y., Palomba, F., & Titiunik, R. (2022). [scpi: Uncertainty Quantification for Synthetic Control Methods.](https://nppackages.github.io/references/Cattaneo-Feng-Palomba-Titiunik_2023_scpi.pdf) arXiv preprint arXiv:2202.05984.
 
 #### Aplicación
+
 * [Código](/files/dd_control_sintetico_ejemplo.zip)
 
 

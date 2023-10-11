@@ -61,6 +61,12 @@ excerpt: 'Updates in diff-in-diff estimation'
 * [eventstudyr (Incluye ejemplos)](https://github.com/JMSLab/eventstudyr)
 * [Base de datos del paper](/files/dd_simulation_data_dynamic.dta)
 
+### Capítulo 4. Control sintético
+
+#### Referencias principales
+* Abadie, A., & Vives-i-Bastida, J. (2022). [Synthetic controls in action.](https://arxiv.org/abs/2203.06279) arXiv preprint arXiv:2203.06279.
+* Cattaneo, M. D., Feng, Y., Palomba, F., & Titiunik, R. (2022). [scpi: Uncertainty Quantification for Synthetic Control Methods.](https://nppackages.github.io/references/Cattaneo-Feng-Palomba-Titiunik_2023_scpi.pdf) arXiv preprint arXiv:2202.05984.
+
 
 
 

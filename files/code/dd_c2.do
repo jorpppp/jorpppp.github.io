@@ -16,15 +16,23 @@ tab group year
 
 * TWFE
 
-reghdfe y treat, absorb(id year) vce(robust)
+reg y treat i.id i.year
 
-xtset id year
+areg y treat i.year, absorb(id)
+areg y treat i.id, absorb(year)
+
+ssc install reghdfe
+
+reghdfe y treat, absorb(id year) vce(robust) 
+
+
 * xtdidregress (y) (treat), group(group) time(year)
 
 
 * ¡Pero si son positivos!
 
-* ssc install bacondecomp
+ssc install bacondecomp
+xtset id year
 
 * cap drop _b*
 bacondecomp y treat, stub(_b) ddetail
@@ -49,6 +57,7 @@ estat atetplot
 estat aggregation, overall
 estat aggregation, dynamic(-3 -2 -1 0 1 2 3) graph
 estat sci
+
 
 
 

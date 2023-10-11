@@ -53,8 +53,8 @@ excerpt: 'Updates in diff-in-diff estimation'
 
 #### Referencias principales
 * Freyaldenhoven, S., Hansen, C., Pérez, J. P., & Shapiro, J. M. (2021). [Visualization, identification, and estimation in the linear panel event-study design](https://www.nber.org/papers/w29170) (No. w29170). National Bureau of Economic Research.
- -[Presentacion](/files/dd_eventstudytalk.pdf)
- -[Videos](https://www.youtube.com/@linearpanelevent-studydesi780)
+ - [Presentacion](/files/dd_eventstudytalk.pdf)
+ - [Videos](https://www.youtube.com/@linearpanelevent-studydesi780)
 * Schmidheiny, K., & Siegloch, S. (2023). [On event studies and distributed‐lags in two‐way fixed effects models: Identification, equivalence, and generalization.](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2971?casa_token=IE54Z4WFfoUAAAAA%3A8xZGuCrySsOV7Upghv8by_Y9RIg975PS2750L7qfSTWHV5gtLESDlpqCSpiW80FSu7qLkIQMNAg6KWtbtw) Journal of Applied Econometrics, 38(5), 695-713.
 
 #### Aplicación

@@ -36,6 +36,8 @@ excerpt: 'Updates in diff-in-diff estimation'
    *[Presentación](https://github.com/Mixtape-Sessions/Causal-Inference-2/blob/main/Slides/05-Imputation.pdf)
 * Callaway, B., & Sant’Anna, P. H. (2021). [Difference-in-differences with multiple time periods.](https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948) Journal of econometrics, 225(2), 200-230.
 * Goodman-Bacon, A. (2021). [Difference-in-differences with variation in treatment timing](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445). Journal of Econometrics, 225(2), 254-277.
+* Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). [The effect of minimum wages on low-wage jobs.](https://academic.oup.com/qje/article/134/3/1405/5484905) The Quarterly Journal of Economics, 134(3), 1405-1454.
+* Dube, A., Girardi, D., Jorda, O., & Taylor, A. M. (2023). [A local projections approach to difference-in-differences event studies](https://www.nber.org/papers/w31184) (No. w31184). National Bureau of Economic Research.
 
 #### Aplicación
 

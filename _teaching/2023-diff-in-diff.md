@@ -54,6 +54,8 @@ excerpt: 'Updates in diff-in-diff estimation'
 
 * [xtevent (Incluye ejemplos)](https://github.com/JMSLab/xtevent)
 * [eventstudyr (Incluye ejemplos)](https://github.com/JMSLab/eventstudyr)
+* [Base de datos del paper](/files/dd_simulation_data_dynamic.dta)
+
 
 
 

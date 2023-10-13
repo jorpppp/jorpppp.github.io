@@ -74,3 +74,17 @@ excerpt: 'Updates in diff-in-diff estimation'
 * [Código](/files/dd_control_sintetico_ejemplo.zip)
 
 
+### Capítulo 5. Instrumentos "Shift Share"
+
+#### Referencias principales
+* Goldsmith-Pinkham, P., Sorkin, I., & Swift, H. (2020). [Bartik instruments: What, when, why, and how](https://www.aeaweb.org/articles?id=10.1257/aer.20181047). American Economic Review, 110(8), 2586-2624.
+* Borusyak, K., Hull, P., & Jaravel, X. (2022). [Quasi-experimental shift-share research designs.](https://academic.oup.com/restud/article-abstract/89/1/181/6294942?redirectedFrom=fulltext) The Review of Economic Studies, 89(1), 181-213.
+* Borusyak, K., & Hull, P. (2020). [Non-random exposure to exogenous shocks: Theory and applications (No. w27845)](https://www.nber.org/system/files/working_papers/w27845/revisions/w27845.rev0.pdf). National Bureau of Economic Research.
+
+#### Presentaciones (Mixtape Sessions)
+
+* [Mixtape Sessions - Shift Share IV](https://github.com/Mixtape-Sessions/Shift-Share/)
+
+
+
+

@@ -54,7 +54,7 @@ excerpt: 'Avances recientes en la literatura de estimación de efectos causales 
 #### Aplicación
 
 * [Base de datos](/files/code/baker.dta)
-* [Código Stata](/files/code/DDConEfectosDeTratamientoHeterogeneos.do.do)
+* [Código Stata](/files/code/DDConEfectosDeTratamientoHeterogeneos.do)
 * [Código R](/files/code/dd_c2.R)
 * [Presentación DD apilado y proyección local](/files/dd_apilado.pdf)
 * [Base de datos para stacked DID y proyección local](/files/dd_akc.dta)

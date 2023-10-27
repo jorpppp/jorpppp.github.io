@@ -113,6 +113,9 @@ excerpt: 'Avances recientes en la literatura de estimación de efectos causales 
 
 * [Mixtape Sessions - Shift Share IV](https://github.com/Mixtape-Sessions/Shift-Share/)
 
+#### Aplicación
+* [Código](/files/dd_ssiv_ejemplo.zip)
+* Autor, D. H., Dorn, D., & Hanson, G. H. (2013). [The China syndrome: Local labor market effects of import competition in the United States.](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2121) American economic review, 103(6), 2121-2168.
 
 
 

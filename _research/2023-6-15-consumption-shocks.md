@@ -1,5 +1,5 @@
 ---
-title: "Expenditure Responses to Adverse Health Shocks: Evidence from a Panel of Colombian Households (Submitted)"
+title: "Expenditure Responses to Adverse Health Shocks: Evidence from a Panel of Colombian Households"
 collection: research
 type: working_paper
 permalink: /research/2023-6-15-consumption-shocks

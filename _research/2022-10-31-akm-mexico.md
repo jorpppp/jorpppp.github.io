@@ -7,7 +7,6 @@ excerpt: "We estimate the contribution of average workplace-specific wage premia
 date: 2023-10-30
 venue: 'Alianza EFI Working Papers'
 venuepaperurl: 'https://alianzaefi.com/documento/the-contribution-of-workers-workplaces-and-sorting-to-wage-inequality-in-mexico/'
-<!-- paperurl: '/files/PerezNunoAKM.pdf' -->
 
 ---
 With [José G. Nuño Ledesma](https://jgnunol.github.io/)

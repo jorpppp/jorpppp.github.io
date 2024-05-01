@@ -97,5 +97,42 @@ Primary instructor. Course taught in Spanish.
 * Delventhal, M. J., Kwon, E., & Parkhomenko, A. (2022). "[JUE Insight: How do cities change when we work from home?](https://www.sciencedirect.com/science/article/abs/pii/S0094119021000139). Journal of Urban Economics, 127, 103331.
 * Zárate, R. D. (2022). [Spatial misallocation, informality, and transit improvements: Evidence from Mexico city.](https://openknowledge.worldbank.org/entities/publication/ae495447-9060-59d0-9c5d-37a5ef0b6239) Working paper.
 
+### Capítulo 5. Equilibrio Espacial y Sistemas de Ciudades
+
+* [Notas de Clase](/files/Urbana2021/urbana_c5.pdf)
+
+#### Referencias principales
+* Albouy, D. (2016). [What are cities worth? Land rents, local productivity, and the total value of amenities](https://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00550). *Review of Economics and Statistics*, 98(3), 477-487.
+* Diamond, Rebecca (2016). [The determinants and welfare implications of US workers' diverging location choices by skill: 1980-2000](https://www.jstor.org/stable/pdf/43821462.pdf). *American Economic Review*, 106(3), 479-524.
+* Henderson, J. V. (1974). [The sizes and types of cities](https://www.jstor.org/stable/pdf/1813316.pdf). *The American Economic Review*, 64(4), 640-656.
+* Roback, Jennifer (1982). [Wages, rents, and the quality of life](https://www.jstor.org/stable/pdf/1830947.pdf). *Journal of political Economy*, 90(6), 1257-1278.
+
+#### Referencias adicionales
+
+* Desmet, K., & Rossi-Hansberg, E. (2013). [Urban accounting and welfare](https://scholar.google.com.mx/scholar?output=instlink&q=info:H5ABdWJv01UJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=10682386906200153702&oi=lle). *American Economic Review*, 103(6), 2296-2327.
+* Michaels, G., & Rauch, F. (2018). [Resetting the urban network: 117–2012.](https://academic.oup.com/ej/article-abstract/128/608/378/5068982?redirectedFrom=fulltext) The Economic Journal, 128(608), 378-412.
+
+### Capítulo 6. Mercados inmobiliarios y precios hedónicos.
+
+* [Notas de Hillary Hoynes sobre Chay y Greenstone](https://gspp.berkeley.edu/assets/uploads/courses/notes/Lec3-PG-Externality.pdf)
+* [Notas de Nathan Schiff sobre Bayer, Ferreira y McMillan](https://www.nathanschiff.com/webdocs/grad_urban/grad_urban_2017/neighborhood_sorting_lecture_HANDOUT_2017.pdf)
+
+#### Referencias principales
+
+* Bayer, P., Ferreira, F., & McMillan, R. (2007). [A unified framework for measuring preferences for schools and neighborhoods.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/522381) *Journal of political economy*, 115(4), 588-638.
+* Chay, K. Y., & Greenstone, M. (2005). [Does air quality matter? Evidence from the housing market.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/427462) *Journal of political Economy*, 113(2), 376-424.
+
+### Capítulo 7. Transporte
+
+* [Notas de clase](/files/Urbana2021/urbana_c17.pdf)
+
+#### Referencias principales
+
+* Small, K. A., Winston, C., & Yan, J. (2005). [Uncovering the distribution of motorists' preferences for travel time and reliability.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2005.00619.x) *Econometrica*, 73(4), 1367-1382.
+
+#### Referencias adicionales
+
+* Small, K. A., Winston, C., Yan, J., Baum-Snow, N., & Gómez-Ibáñez, J. A. (2006). [Differentiated road pricing, express lanes, and carpools: Exploiting heterogeneous preferences in policy design.](https://www.jstor.org/stable/25067428) *Brookings-Wharton Papers on Urban Affairs*, 53-96.
+
 
 

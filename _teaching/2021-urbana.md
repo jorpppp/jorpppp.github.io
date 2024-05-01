@@ -54,5 +54,16 @@ Primary instructor. Course taught in Spanish.
 * Turner, M. A. (2005). "[Landscape preferences and patterns of residential development](https://www.sciencedirect.com/science/article/abs/pii/S0094119004000993)." Journal of Urban Economics, 57(1), 19-54.
 * Card, D. (1990). "[The impact of the Mariel boatlift on the Miami labor market](https://journals.sagepub.com/doi/abs/10.1177/001979399004300205)." ILR Review, 43(2), 245-257.
 
+### Capítulo 2. El modelo multicéntrico.
+
+* [Notas de clase](/files/urbana_c2.pdf)
+
+#### Referencias principales
+
+* Fujita, M., & Ogawa, H. (1982). [Multiple equilibria and structural transition of non-monocentric urban configurations](http://www.brown.edu/Departments/Economics/Faculty/Matthew_Turner/ec2410/readings/Fujita_Ogawa_RSUE_1982.pdf). *Regional science and urban economics*, 12(2), 161-196.
+
+#### Referencias adicionales
+
+* Lucas, R. E., & Rossi–Hansberg, E. (2002). [On the internal structure of cities](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-0262.00338). *Econometrica*, 70(4), 1445-1476.
 
 

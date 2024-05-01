@@ -13,6 +13,9 @@ In this course we introduce the main questions and tools of urban economics. We 
 
 Primary instructor. Course taught in Spanish.
 
+## Contenido
+
+[Syllabus](/files/Urbana2021/syllabus_urbana.pdf)
 
 
 

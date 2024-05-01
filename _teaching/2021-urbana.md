@@ -134,6 +134,10 @@ Primary instructor. Course taught in Spanish.
 
 * Small, K. A., Winston, C., Yan, J., Baum-Snow, N., & Gómez-Ibáñez, J. A. (2006). [Differentiated road pricing, express lanes, and carpools: Exploiting heterogeneous preferences in policy design.](https://www.jstor.org/stable/25067428) *Brookings-Wharton Papers on Urban Affairs*, 53-96.
 
+### Examen
+
+* [Examen Final 1](/files/Urbana2021/examen.pdf) - [Solución](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.1008)
+
 
 ### Presentaciones
 

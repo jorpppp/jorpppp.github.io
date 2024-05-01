@@ -135,4 +135,22 @@ Primary instructor. Course taught in Spanish.
 * Small, K. A., Winston, C., Yan, J., Baum-Snow, N., & Gómez-Ibáñez, J. A. (2006). [Differentiated road pricing, express lanes, and carpools: Exploiting heterogeneous preferences in policy design.](https://www.jstor.org/stable/25067428) *Brookings-Wharton Papers on Urban Affairs*, 53-96.
 
 
+### Presentaciones
+
+* Jedwab, R., Loungani, P., & Yezer, A. (2021). [Comparing cities in developed and developing countries: Population, land area, building height and crowding.](/files/Urbana2021/JedwabLonganiYezer2021.pdf) Regional Science and Urban Economics, 86, 103609.
+* Cuberes, D., Desmet, K., & Rappaport, J. (2021). [Urban growth shadows.](/files/Urbana2021/CuberesDesmetRappaport2021.pdf) Journal of Urban Economics, 123, 103334.
+* Hornbeck, R., & Moretti, E. (2022). [Estimating who benefits from productivity growth: local and distant effects of city productivity growth on wages, rents, and inequality.](/files/Urbana2021/HornbeckMoretti2021.pdf) Review of Economics and Statistics, 1-49.
+* Gaubert, C. (2018). [Firm sorting and agglomeration.](/files/Urbana2021/Gaubert2018.pdf) American Economic Review, 108(11), 3117-3153.
+* Almagro, M., & Domínguez-Iino, T. (2024). [Location sorting and endogenous amenities: Evidence from amsterdam (No. w32304).](/files/Urbana2021/AlmagroDominguezIino2024.pdf) National Bureau of Economic Research.
+* Ghose, D. (2021). [Trade, Internal Migration, and Human Capital: Who Gains from India's IT Boom?](/files/Urbana2021/Ghose2021.pdf). World Bank.
+* Alix-Garcia, J., & Sellars, E. A. (2020). [Locational fundamentals, trade, and the changing urban landscape of Mexico.](/files/Urbana2021/AlixGarciaSellars2020.pdf) Journal of Urban Economics, 116, 103213.
+* Davis, D. R., Mengus, E., & Michalski, T. K. (2020). [Labor market polarization and the great divergence: Theory and evidence (No. w26955)](/files/Urbana2021/DavisMengusMichalski2020). National Bureau of Economic Research.
+* Büchel, K., Ehrlich, M. V., Puga, D., & Viladecans-Marsal, E. (2020). [Calling from the outside: The role of networks in residential mobility.](/files/Urbana2021/Bucheletal2020.pdf) Journal of urban economics, 119, 103277.
+* Aaronson, D., Faber, J., Hartley, D., Mazumder, B., & Sharkey, P. (2021). [The long-run effects of the 1930s HOLC “redlining” maps on place-based measures of economic opportunity and socioeconomic success.](/files/Urbana2021/Aaronsonetal2021.pdf) Regional science and urban economics, 86, 103622.
+* Gaubert, Cecile, Patrick M. Kline, and Danny Yagan. [Place-based redistribution. No. w28337.](/files/Urbana2021/GaubertKlineYagan2020.pdf) National Bureau of Economic Research, 2021.
+* Ahlfeldt, G. M., Albers, T., & Behrens, K. (2020). [Prime locations.](/files/Urbana2021/AhlfeldtAlbersBerens2020.pdf)
+* Tang, C. K. (2021). [The cost of traffic: evidence from the London congestion charge.](/files/Urbana2021/Tang2021.pdf) Journal of Urban Economics, 121, 103302.
+* Tarduno, M. (2021). [The congestion costs of Uber and Lyft.](/files/Urbana2021/Tarduno2021.pdf) Journal of Urban Economics, 122, 103318.
+
+
 

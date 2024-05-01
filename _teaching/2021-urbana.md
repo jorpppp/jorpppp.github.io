@@ -33,5 +33,26 @@ Primary instructor. Course taught in Spanish.
 * Chauvin, Juan Pablo, Glaeser, Edward, Ma, Yueran y Tobio, Kristina. (2017) "[What is different about urbanization in rich and poor countries? Cities in Brazil, China, India and the United States](https://www.sciencedirect.com/science/article/pii/S0094119016300067)". *Journal of Urban Economics* 98, 17-49.
 
 
+### Capítulo 1. Motivación y el modelo monocéntrico
+
+* [Notas de clase](/files/Urbana2021/urbana_c1.pdf)
+
+#### Referencias principales
+
+* Brueckner, Jan K (1987), “[The structure of urban equilibria: A unified treatment of the muth-mills model](http://www.socsci.uci.edu/~jkbrueck/course%20readings/handbook%20chapter.pdf).” *Handbook of Regional and Urban economics*, 2, 821–845.
+* Duranton,  Gilles  y  Puga, Diego  (2015),  “[Urban  land  use](http://real.wharton.upenn.edu/~duranton/Duranton_Papers/Handbook/Urban_land_use.pdf).”  In *Handbook  of  regional  and  Urban Economics*, volume 5, 467–560, Elsevier.
+* Fujita, Masahisa (1989) *[Urban Economic Theory: Land Use and City Size.](https://www.cambridge.org/core/books/urban-economic-theory/1787328AC538E75129273E8B54A161FC)* Cambridge University Press.
+* LeRoy, S. F., & Sonstelie, J. (1983). [Paradise lost and regained: Transportation innovation, income, and residential location.](http://econ.ucsb.edu/~jon/Publications/ParadiseLost.pdf) *Journal of Urban Economics*, 13(1), 67-89.
+
+
+#### Referencias adicionales
+
+* Couture, V., & Handbury, J. (2020). "[Urban revival in America](https://www.sciencedirect.com/science/article/abs/pii/S0094119020300383)". *Journal of Urban Economics*, 119, 103267.
+* Zabek, M. (2024). "[Local ties in spatial equilibrium](https://www.aeaweb.org/articles?id=10.1257/mac.20210326)". American Economic Journal: Macroeconomics, 16(2), 287-317.
+* Coate, P., & Mangum, K. (2019). "[Fast locations and slowing labor mobility](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-49.pdf)." Working paper.
+* Gollin, D., Kirchberger, M., & Lagakos, D. (2017). "[In search of a spatial equilibrium in the developing world](https://www.nber.org/papers/w23916)" (No. w23916). National Bureau of Economic Research.
+* Turner, M. A. (2005). "[Landscape preferences and patterns of residential development](https://www.sciencedirect.com/science/article/abs/pii/S0094119004000993)." Journal of Urban Economics, 57(1), 19-54.
+* Card, D. (1990). "[The impact of the Mariel boatlift on the Miami labor market](https://journals.sagepub.com/doi/abs/10.1177/001979399004300205)." ILR Review, 43(2), 245-257.
+
 
 

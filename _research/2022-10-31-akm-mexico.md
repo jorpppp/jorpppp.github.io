@@ -2,7 +2,7 @@
 title: "Workers, Workplaces, Sorting, and Wage Dispersion in Mexico"
 collection: research
 type: publication
-permalink: /research/2024-08-01-akm-mexico
+permalink: /research/2022-10-31-akm-mexico
 excerpt: "We estimate the contribution of average workplace-specific wage premia, worker-level characteristics, and assortative matching on the variance of wages in Mexico. At the national level, we find that assortative matching and workplace factors increased its importance over time. The influence of workplace factors on wage dispersion correlates negatively with per capita GDP at the regional level.
 "
 date: 2024-08-01

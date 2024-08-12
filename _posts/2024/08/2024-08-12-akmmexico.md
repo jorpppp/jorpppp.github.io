@@ -51,13 +51,13 @@ On the right panel, we show analogous variance decomposition results for wages i
 ​
 ### Figure 1. Wage Variance Decomposition
 
-<img src="images/blog/2024/08/fig1.png" alt="Figure 1: Wage Variance Decomposition" width="700"/>
+<img src="/images/blog/2024/08/fig1.png" alt="Figure 1: Wage Variance Decomposition" width="700"/>
 
 Figure 2 shows how the worker, firm, and covariance components contribute to wage dispersion across the country's four regions. The contributions of each element to wage dispersion in the regions follow the same trend over time as the contributions at the national level.
 
 ### Figure 2. Estimated Contributions to Variance by Region and their Change over Time
 
-<img src="images/blog/2024/08/fig2.png" alt="Figure 2: Estimated Contributions to Variance by Region and their Change over Time" width="700"/>
+<img src="/images/blog/2024/08/fig2.png" alt="Figure 2: Estimated Contributions to Variance by Region and their Change over Time" width="700"/>
 
 The contribution of firm effects to wage variance correlates negatively with regional GDP per capita. Firm effects are relatively more important in determining wage variance in the South, followed by the center-north, the central region, and finally, the North region. The article shows that this pattern is also present among states.
 

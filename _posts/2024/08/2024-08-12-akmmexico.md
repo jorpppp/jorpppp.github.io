@@ -33,7 +33,7 @@ We model the wages of person $i$ in month $t$ using a linear regression with bid
 
 $$ \ln(wage_{it}) = \alpha_i + \psi_{J(it)} + X'_{it} \beta + r_{it} $$
 
-The worker fixed effects $\alpha_i$ remain constant over time and capture individual characteristics that receive the same compensation across companies, such as skills or education. The workplace effects $\psi_{J(it)} capture the wage premium for all workers employed at the same workplace $J$. The vector $X_{it}$ contains observable characteristics of the individuals, and the term $r_{it}$ represents a residual. We estimate the model using social security data from the Mexican Social Security Institute (IMSS) for 2004 to 2018 in five-year intervals.
+The worker fixed effects $\alpha_i$ remain constant over time and capture individual characteristics that receive the same compensation across companies, such as skills or education. The workplace effects $\psi_{J(it)}$ capture the wage premium for all workers employed at the same workplace $J$. The vector $X_{it}$ contains observable characteristics of the individuals, and the term $r_{it}$ represents a residual. We estimate the model using social security data from the Mexican Social Security Institute (IMSS) for 2004 to 2018 in five-year intervals.
 
 With this model, we decompose the variance of wages as follows:
 

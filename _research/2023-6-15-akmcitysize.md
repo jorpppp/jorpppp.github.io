@@ -5,7 +5,7 @@ type: working_paper
 permalink: /research/2023-6-15-akmcitysize
 excerpt: "We measure the extent of labor market matching agglomeration externalities in Mexico. The relationship between city size and matching is weak in Mexico's formal labor markets. Doubling city size enhances assortative matching by just half what would be expected from previous estimates for developed countries."
 date: 2023-6-15
-paperurl: ""
+paperurl: ''
 
 ---
 With Jorge Meléndez and [José G. Nuño Ledesma](https://jgnunol.github.io/)

@@ -1,5 +1,5 @@
 ---
-title: "Better or Worse Job Accessibility? Understanding Changes in Spatial Mismatch at the Intra-urban Level in Medellín"
+title: "Better or Worse Job Accessibility? Understanding Changes in Spatial Mismatch at the Intra-urban Level in Medellín (Submitted)"
 collection: research
 type: working_paper
 permalink: /research/2020-7-22-mismatch

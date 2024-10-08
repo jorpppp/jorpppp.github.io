@@ -21,7 +21,7 @@ excerpt: 'Avances recientes en la literatura de estimación de efectos causales 
 #### Referencias principales
 
 * Cunningham, S. (2021). [Causal inference: The mixtape](https://mixtape.scunning.com/). Yale university press.
-* de Chaisemartin, Clément and d'Haultfoeuille, Xavier, [Modern Panel Data Methods For Causal Inference](https://ssrn.com/abstract=4487202).
+* de Chaisemartin, Clément and d'Haultfoeuille, Xavier, [Credible Answers to Hard Questions: Differences-in-Differences for Natural Experiments](https://ssrn.com/abstract=4487202).
 * Roth, J., Sant’Anna, P. H., Bilinski, A., & Poe, J. (2023). [What’s trending in difference-in-differences? A synthesis of the recent econometrics literature](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001318). Journal of Econometrics.
 * Olden, A., & Møen, J. (2022). [The triple difference estimator](https://academic.oup.com/ectj/article/25/3/531/6545797). The Econometrics Journal, 25(3), 531-553.
 
@@ -48,8 +48,8 @@ excerpt: 'Avances recientes en la literatura de estimación de efectos causales 
 * De Chaisemartin, C., & d’Haultfoeuille, X. (2020). [Two-way fixed effects estimators with heterogeneous treatment effects.](https://www.aeaweb.org/articles?id=10.1257/aer.20181169) American Economic Review, 110(9), 2964-2996.
 * Sant’Anna, P. H., & Zhao, J. (2020). [Doubly robust difference-in-differences estimators.](https://www.sciencedirect.com/science/article/pii/S0304407620301901) Journal of Econometrics, 219(1), 101-122.
 * Wooldridge, J. M. (2021). [Two-way fixed effects, the two-way mundlak regression, and difference-in-differences estimators.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3906345) Available at SSRN 3906345.
-* Roth, J., & Sant'Anna, P. H. (2021). [Efficient estimation for staggered rollout designs.](https://arxiv.org/abs/2102.01291) arXiv preprint arXiv:2102.01291.
 * Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). [The effect of minimum wages on low-wage jobs.](https://academic.oup.com/qje/article/134/3/1405/5484905) The Quarterly Journal of Economics, 134(3), 1405-1454.
+* Dube, A., Girardi, D., Jorda, O., & Taylor, A. M. (2023). [A local projections approach to difference-in-differences event studies](https://www.nber.org/papers/w31184) (No. w31184). National Bureau of Economic Research.
 
 #### Aplicación
 

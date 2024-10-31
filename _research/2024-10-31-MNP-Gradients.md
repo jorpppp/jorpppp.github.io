@@ -1,7 +1,7 @@
 ---
 title: "Housing Price Gradients in Mexico City During the COVID-19 Pandemic"
 collection: research
-type: working_papers
+type: working_paper
 permalink: /research/2024-10-31-mnp-gradients
 excerpt: "We show that the housing price gradient --the negative relationship between prices and distance to the center of the city-- did not flatten in Mexico City during the COVID-19 pandemic."
 date: 2024-10-31

@@ -6,7 +6,7 @@ permalink: /research/2025-1-24-mexico-llm
 excerpt: "We build local labor market definitions for Mexico and provide datasets at the local-labor-market level for 1990 to 2020."
 date: 2025-1-24-mexico-llm.md
 venue: Banxico SIDIE Datasets
-venuepaperurl: https://www.banxico.org.mx/DataSetsWeb/dataset?ruta=LLM&idioma=en
+paperurl: https://www.banxico.org.mx/DataSetsWeb/dataset?ruta=LLM&idioma=en
 ---
 With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/), [Daniel Chiquiar](https://facultad.itam.mx/facultad/daniel-isaac-chiquiar-cikurel), [Mariana Calderón](https://www.gefieo.org/about-us/our-staff/mariana-calderon-cerbon), [Gordon Hanson](https://scholar.harvard.edu/gordonhanson/home), and Claudia Velázquez.
 

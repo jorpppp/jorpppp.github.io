@@ -12,10 +12,10 @@ I am a Research Economist in the Economics Research Division at [Banco de Méxic
 
 I am currently working on:
 
+* [Local labor markets in Mexico)[/research/2025-1-24-mexico-llm]
+* (Housing prices in Mexico City)[/research/2024-10-31-MNP-Gradients]
 * [City-size wage gaps and assortative matching in Mexican labor markets](/research/2023-6-15-akmcitysize)
-* [The contribution of firms, workers, and sorting to wage variance in Mexico](/research/2022-10-31-akm-mexico)
 * [The effects of urban infrastructure on mismatch and labor market power](/research/2020-10-28-infrastructure)
-* [Tools to estimate linear panel event-studies](https://github.com/JMSLab/xtevent)
 * [The effectiveness of hiring credits in North Carolina](/research/2019-5-3-nc-hiring-credits)
 * [The impacts of health shocks on expenditure in Colombia](/research/2023-6-15-consumption-shocks)
 * [The measurement of job spatial mismatch in Medellín](/research/2020-7-22-mismatch)

@@ -11,7 +11,7 @@ venuepaperurl: https://doi.org/10.1016/j.worlddev.2020.104999
 coverage1: HKUST-IEMS 
 coverage1url: https://iems.ust.hk/assets/publications/newsletters/hkust-iems-newsletter-spring-2017-web.pdf
 coverage2: La Silla Vacia
-coverage2url: https://lasillavacia.com/silla-academica/no-hay-certeza-de-que-subir-el-minimo-aumente-el-desempleo-63934
+coverage2url: https://www.lasillavacia.com/silla-academica/no-hay-certeza-de-que-subir-el-minimo-aumente-el-desempleo/
 replication: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/15E3RK
 ---
 **Erratum**: On page 10, section 4.2, third paragraph, the numbers should read "From these estimates, a 1 percent higher incidence implies 0.5 to 1 percent lower employment in this city-industry block. The elasticity to incidence ranges from -0.5 to -1." Thanks to Luis Munguía for pointing this out. 

@@ -6,7 +6,7 @@ permalink: /research/2020-7-22-mismatch
 excerpt: 'We analyze accessibility to jobs through different transportation modes and the extent of job spatial mismatch at the intra-urban level in a developing country city.  We use data from Medellín, Colombia, from 2012 to 2017, to measure accessibility using employment weighted by travel times. We find that despite the continuous investment in public transportation and transport infrastructure, spatial mismatch in Medellín has increased.'
 date: 2023-11-17
 venue: 
-paperurl: /files/Spatial_Mismatch.pdf
+paperurl: /files/SpatialMismatch.pdf
 citation: 
 ---
 With David Bernal and [Gustavo García](https://www.eafit.edu.co/docentes-investigadores/Paginas/gustavo-garcia.aspx)

@@ -3,7 +3,7 @@ title: "Grading Fiscal Policy in Latin America in the Last Decade"
 collection: research
 type: publication
 permalink: /research/2014-04-01-grading-fiscal-policy
-excerpt: 'This paper evaluates Latin America’s fiscal performance over the 2000's decade, highlighting both progress and persistent challenges. While countries earned solid marks for countercyclical responses to the Great Recession, many failed to normalize their fiscal positions afterward. Without corrective reforms, the decade’s “C” grade could slip further, but a clear path to fiscal sustainability remained within reach.'
+excerpt: 'This paper evaluates Latin America’s fiscal performance over the 2000s decade, highlighting both progress and persistent challenges. While countries earned solid marks for countercyclical responses to the Great Recession, many failed to normalize their fiscal positions afterward. Without corrective reforms, the decade’s “C” grade could slip further, but a clear path to fiscal sustainability remained within reach.'
 date: 2014-04-01
 venue: IDB Policy Briefs
 paperurl: 'https://publications.iadb.org/en/grading-fiscal-policy-latin-america-last-decade'

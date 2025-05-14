@@ -3,7 +3,7 @@ title: "City Minimum Wages and Spatial Equilibrium Effects"
 collection: research
 type: working_paper
 permalink: /research/2017-10-10-city-minimum-wages
-excerpt: 'Local minimum wage laws are becoming common across U.S. cities, and their effects may be different from effects of state or nation-wide minimum wage policies. I study the effect of changes in local minimum wages on spatial equilibria in local labor markets.'
+excerpt: 'This paper analyzes how local minimum wage hikes reshape spatial equilibrium in U.S. labor markets. Higher minimum wages reduce low-wage commuting into affected areas, with relocation patterns varying by the size of the increase. A spatial model shows that small hikes attract commuters, while larger ones push employment and workers elsewhere.'
 date: 2020-12-24
 venue: SocArXiv
 venuepaperurl: https://osf.io/preprints/socarxiv/fpx9e/

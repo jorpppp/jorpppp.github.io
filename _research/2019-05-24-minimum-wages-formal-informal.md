@@ -3,7 +3,7 @@ title: "The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflat
 collection: research
 type: publication
 permalink: /research/2019-04-15-minimum-wages-formal-informal
-excerpt: 'I estimate the effect of the minimum wage on formal and informal wages and employment in Colombia. I exploit an unexpected increase in the real minimum wage during the 1999 Colombian economic crisis to estimate short-term effects of the minimum wage along the wage distribution in both sectors. I find evidence of wage responses, with a stronger incidence in the formal sector.'
+excerpt: 'Using an unexpected rise in Colombia’s real minimum wage in 1999, this paper estimates its effects on wages and employment across sectors. Minimum wage increases raised earnings near the bottom of the distribution in both formal and informal sectors—more strongly in the former—suggesting partial compliance and reference-wage behavior.'
 date: 2020-05-29
 venue: World Development
 paperurl: /files/PerezPerez2020.pdf

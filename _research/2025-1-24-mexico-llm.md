@@ -3,7 +3,7 @@ title: "Local Labor Markets in Mexico: Definition, Databases, and Descriptive An
 collection: research
 type: working_paper
 permalink: /research/2025-1-24-mexico-llm
-excerpt: "We build local labor market definitions for Mexico and provide datasets at the local-labor-market level for 1990 to 2020."
+excerpt: "This paper defines local labor markets in Mexico by grouping economically integrated municipalities, following international best practices. It links these markets to INEGI census data from 1990 to 2020, creating a valuable resource for labor market research. The resulting framework enables more accurate analysis of local labor market dynamics."
 date: 2025-1-24-mexico-llm.md
 venue: Banxico SIDIE Datasets
 paperurl: https://www.banxico.org.mx/DataSetsWeb/dataset?ruta=LLM&idioma=en

@@ -3,10 +3,10 @@ title: "Grading Fiscal Policy in Latin America in the Last Decade"
 collection: research
 type: publication
 permalink: /research/2014-04-01-grading-fiscal-policy
-excerpt: 'Fiscal policy in Latin America has been historically imprudent and continues to be viewed with skepticism. At the same time, most countries have remained out of trouble for several years and were able to successfully conduct proactive countercyclical fiscal policy to fight the Great Recession, a historical first. This paper examines the last decade to assess progress, highlight weaknesses, and chart the way forward.'
+excerpt: 'This paper evaluates Latin America’s fiscal performance over the 2000's decade, highlighting both progress and persistent challenges. While countries earned solid marks for countercyclical responses to the Great Recession, many failed to normalize their fiscal positions afterward. Without corrective reforms, the decade’s “C” grade could slip further, but a clear path to fiscal sustainability remained within reach.'
 date: 2014-04-01
 venue: IDB Policy Briefs
-paperurl: 'http://www.iadb.org/en/research-and-data/publication-details,3169.html?pub_id=IDB-PB-216'
+paperurl: 'https://publications.iadb.org/en/grading-fiscal-policy-latin-america-last-decade'
 citation: 'Fernández-Arias, Eduardo and Pérez Pérez, Jorge Eduardo (2014) "Grading Fiscal Policy in Latin America in the Last Decade". IDB Policy Brief 216, Inter-American Development Bank'
 ---
 With [Eduardo Fernández-Arias](http://bidcomunidades.iadb.org/en/research-and-data/researcher,3159.html?au_id=36)

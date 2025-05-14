@@ -3,7 +3,7 @@ title: "Better or Worse Job Accessibility? Understanding Changes in Spatial Mism
 collection: research
 type: working_paper
 permalink: /research/2020-7-22-mismatch
-excerpt: 'We analyze accessibility to jobs through different transportation modes and the extent of job spatial mismatch at the intra-urban level in a developing country city.  We use data from Medellín, Colombia, from 2012 to 2017, to measure accessibility using employment weighted by travel times. We find that despite the continuous investment in public transportation and transport infrastructure, spatial mismatch in Medellín has increased.'
+excerpt: 'This paper introduces a method to measure spatial mismatch that accounts for both transportation and opportunity costs. Applied to Medellín (2012–2017), the analysis shows rising spatial mismatch overall—driven largely by declining job accessibility via private transport. Public transit investments may have helped offset this trend for lower-income commuters.'
 date: 2023-11-17
 venue: 
 paperurl: /files/SpatialMismatch.pdf

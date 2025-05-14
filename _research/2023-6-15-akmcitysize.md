@@ -3,7 +3,7 @@ title: "Matching and City Size Wage Gaps under the Shadow of Informality: Eviden
 collection: research
 type: working_paper
 permalink: /research/2023-6-15-akmcitysize
-excerpt: "We measure the extent of labor market matching agglomeration externalities in Mexico. The relationship between city size and matching is weaker in Mexico's formal labor markets. The presence of informality dampens these agglomeration externalities."
+excerpt: "This paper examines how informality shapes the relationship between city size and labor market matching in Mexico. While larger cities typically enhance assortative matching, this effect is muted in Mexico’s formal sector, where informality is widespread. We find that cities with larger informal sectors exhibit weaker matching patterns in their formal labor markets."
 date: 2023-6-15
 paperurl: ''
 

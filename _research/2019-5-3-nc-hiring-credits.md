@@ -3,7 +3,7 @@ title: "The Efficacy of Hiring Credits in Distressed Areas"
 collection: research
 type: working_paper
 permalink: /research/2019-5-3-nc-hiring-credits
-excerpt: 'We analyze the efficacy of hiring tax credits, particularly in distressed labor markets. Our estimates show positive effects on employment and sizable reductions on the unemployment rate.'
+excerpt: 'This paper evaluates a hiring tax credit program in North Carolina using a regression discontinuity design based on county-level distress rankings. We find that a $9,000 credit significantly reduces unemployment by nearly 0.5 percentage points and raises employment by about 3%. These results suggest that well-targeted hiring credits can meaningfully improve labor market outcomes in distressed areas.'
 date: 2019-5-3
 venue: 'Banco de Mexico working papers'
 venuepaperurl: 'https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCF0A9949-2D72-6738-EF15-57CFA57249CD%7D.pdf'

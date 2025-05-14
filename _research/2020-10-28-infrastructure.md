@@ -3,7 +3,7 @@ title: "Urban Transit Infrastructure: Spatial Mismatch and Labor Market Power"
 collection: research
 type: working_paper
 permalink: /research/2020-10-28-infrastructure
-excerpt: "Does transit infrastructure reduce labor market power? This paper estimates the effects of a large subway expansion on local labor market outcomes in Santiago, Chile. We find changes in work locations and wages consistent with a reduction in firms' labor market power around areas that were connected to the subway network after the expansion. We then lay out a quantitative spatial equilibrium model where firms behave as oligopsonies in the labor market to calculate the welfare gains from the transit infrastructure expansion. We find that workers benefit as firm owners see reduced profits and that accounting for labor market power responses amplifies the welfare gains."
+excerpt: "This paper studies the effects of a subway expansion in Santiago, Chile, on local labor market outcomes. The analysis shows that improved transit access led to job relocations and wage changes consistent with reduced labor market power by firms. A spatial equilibrium model finds that accounting for these monopsony effects amplifies the welfare gains of the infrastructure investment."
 date: 2022-10-04
 paperurl: /files/VZP.pdf
 coverage1: CAF Transport Infrastructure for the Development of Latin America 

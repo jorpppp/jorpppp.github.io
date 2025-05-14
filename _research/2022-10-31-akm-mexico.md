@@ -4,7 +4,6 @@ collection: research
 type: publication
 permalink: /research/2022-10-31-akm-mexico
 excerpt: "Using matched employer-employee data from 2004–2018, this paper decomposes wage dispersion in Mexico into worker, workplace, and sorting components. We find that while overall wage inequality remained stable, the role of sorting and workplace effects grew, particularly in less-developed regions. By the end of the period, workplace characteristics contributed as much to wage variance as worker characteristics."
-"
 date: 2024-08-01
 venue2: 'Banco de Mexico working papers'
 venuepaperurl2: 'https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-06&locale=es_MX'

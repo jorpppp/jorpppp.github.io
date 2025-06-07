@@ -1,5 +1,5 @@
 ---
-title: "Better or Worse Job Accessibility? Understanding Changes in Spatial Mismatch at the Intra-urban Level in Medellín (Revise and Resubmit, 2nd round, Journal of Transport Geography)"
+title: "Better or worse job accessibility? Understanding changes in spatial mismatch: Evidence from  Medellín, Colombia (Resubmitted, 2nd round, Journal of Transport Geography)"
 collection: research
 type: working_paper
 permalink: /research/2020-7-22-mismatch

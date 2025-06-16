@@ -1,11 +1,11 @@
 ---
-title: "Better or worse job accessibility? Understanding changes in spatial mismatch: Evidence from  Medellín, Colombia (Accepted, Journal of Transport Geography)"
+title: "Better or worse job accessibility? Understanding changes in spatial mismatch: Evidence from  Medellín, Colombia"
 collection: research
 type: publication
 permalink: /research/2025-6-15-mismatch
 excerpt: 'This paper introduces a method to measure spatial mismatch that accounts for both transportation and opportunity costs. Applied to Medellín (2012–2017), the analysis shows rising spatial mismatch overall—driven largely by declining job accessibility via private transport. Public transit investments may have helped offset this trend for lower-income commuters.'
 date: 2025-6-15
-venue: 
+venue: Journal of Transport Geography (Accepted)
 paperurl: /files/SpatialMismatch.pdf
 citation: 
 ---

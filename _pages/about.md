@@ -18,7 +18,6 @@ I am currently working on:
 * [The effects of urban infrastructure on mismatch and labor market power](/research/2020-10-28-infrastructure)
 * [The effectiveness of hiring credits in North Carolina](/research/2019-5-3-nc-hiring-credits)
 * [The impacts of health shocks on expenditure in Colombia](/research/2023-6-15-consumption-shocks)
-* [The measurement of job spatial mismatch in Medellín](/research/2020-7-22-mismatch)
 * [How city minimum wages reshape commuting and migration in US cities](/research/2017-10-10-city-minimum-wages) 
 
 

@@ -6,6 +6,8 @@ permalink: /research/2025-6-15-mismatch
 excerpt: 'This paper introduces a method to measure spatial mismatch that accounts for both transportation and opportunity costs. Applied to Medellín (2012–2017), the analysis shows rising spatial mismatch overall—driven largely by declining job accessibility via private transport. Public transit investments may have helped offset this trend for lower-income commuters.'
 date: 2025-6-15
 venue: Journal of Transport Geography (Accepted)
+venue2: 'Banco de Mexico working papers'
+venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B4A1C4582-7C9D-F473-E002-1C90B1BCF0A0%7D.pdf'
 paperurl: /files/SpatialMismatch.pdf
 citation: 
 ---

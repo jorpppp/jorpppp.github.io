@@ -3,7 +3,7 @@ title: "Minimum Wage, Informality, and Efficiency"
 collection: research
 type: work_in_progress
 permalink: /research/2025-09-18-minimum-wage-informality
-excerpt: "We examine the consequences of higher minimum wages in a model with labor market power and informality."
+excerpt: "This paper develops a model of monopsonistic competition where firms choose between formal and informal sectors to evade regulation. Calibrated to Mexican data, the model shows that moderate minimum wage hikes can raise efficiency and formality in the short run. However, long-run shifts toward informality erode these gains, making a non-binding minimum wage optimal."
 date: 2025-09-18
 paperurl: ''
 ---

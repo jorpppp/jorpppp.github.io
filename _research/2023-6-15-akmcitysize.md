@@ -1,5 +1,5 @@
 ---
-title: "Matching and Local Labor Market Size in Mexico (Resubmitted, Regional Science and Urban Economics)"
+title: "Matching and Local Labor Market Size in Mexico (Revise and Resubmit, Regional Science and Urban Economics)"
 collection: research
 type: working_paper
 permalink: /research/2023-6-15-akmcitysize

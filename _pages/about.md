@@ -12,6 +12,7 @@ I am a Research Economist in the Economics Research Division at [Banco de Méxic
 
 I am currently working on:
 
+* [The effects of labor inspections under labor market power](/research/2025-10-02-inspections)
 * [Local labor markets in Mexico](/research/2025-1-24-mexico-llm)
 * [Housing prices in Mexico City](/research/2024-10-31-mnp-gradients)
 * [City-size wage gaps and assortative matching in Mexican labor markets](/research/2023-6-15-akmcitysize)

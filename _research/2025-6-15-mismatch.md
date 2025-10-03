@@ -10,6 +10,7 @@ venue2: 'Banco de Mexico working papers'
 venuepaperurl: https://www.sciencedirect.com/science/article/pii/S0966692325002327
 venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B4A1C4582-7C9D-F473-E002-1C90B1BCF0A0%7D.pdf'
 paperurl: /files/SpatialMismatch.pdf
+replication: https://github.com/DavdBernal24/Spatialmismatch-Medellin
 citation: 
 ---
 With David Bernal and [Gustavo García](https://www.eafit.edu.co/docentes-investigadores/Paginas/gustavo-garcia.aspx)

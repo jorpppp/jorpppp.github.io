@@ -7,6 +7,7 @@ excerpt: "While Mexico has improved the education of its labor force, has had a 
 date: 2025-10-30
 venue: IZA World of Labor
 venuepaperurl: 'https://wol.iza.org/articles/the-labor-market-in-mexico'
+paperurl : 'https://wol.iza.org/articles/the-labor-market-in-mexico'
 ---
 With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/) and [Daniel Osuna](https://sites.google.com/view/danielosunagomez)
 

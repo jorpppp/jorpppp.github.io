@@ -1,5 +1,5 @@
 ---
-title: "The Labor Market in Mexico 2005-2025 (In preparation for IZA World of Labor)"
+title: "The Labor Market in Mexico 2005-2025"
 collection: research
 type: publication
 permalink: /research/2025-10-30-mexico-labor-market

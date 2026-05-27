@@ -13,7 +13,7 @@ author_profile: true
 
 [comment]: <> To include rs use (<u><a href="/files/rs.pdf">Research Statement</a></u>)
 
-[***Journal Publications***](#journal-publications) - [***Other Publications***](other-publications) - [***Working Papers***](#working-papers) - [***Work in Progress***](#work-in-progress) 
+[***Journal Publications***](#journal-publications) - [***Other Publications***](#other-publications) - [***Working Papers***](#working-papers) - [***Work in Progress***](#work-in-progress) 
 
 
 ***Journal Publications***

@@ -4,7 +4,7 @@ collection: research
 type: other
 permalink: /research/2025-05-27-comision-colombia
 excerpt: "Using data from DANE, the Ministry of Labor, and the Penn World Tables for 1990–2026, we examine the determinants of minimum wage increases in Colombia. Regression results show that past inflation is the primary driver of minimum wage adjustments, that productivity plays only a secondary role, and that tripartite consensus within the commission is not associated with higher or better outcomes. The paper discusses the trade-offs of replacing the current negotiation process with an automatic indexation rule."
-date: 2024-11-01
+date: 2025-05-27
 venue: Observatorio Laboral, Pontificia Universidad Javeriana
 venuepaperurl: 'https://cej.org.co/wp-content/uploads/2024/11/Salario_minimo_integrado.pdf'
 ---

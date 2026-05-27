@@ -1,7 +1,7 @@
 ---
 title: "Local Labor Markets in Mexico: Definition, Databases, and Descriptive Analysis"
 collection: research
-type: working_paper
+type: other
 permalink: /research/2025-1-24-mexico-llm
 excerpt: "This paper defines local labor markets in Mexico by grouping economically integrated municipalities, following international best practices. It links these markets to INEGI census data from 1990 to 2020, creating a valuable resource for labor market research. The resulting framework enables more accurate analysis of local labor market dynamics."
 date: 2025-1-24-mexico-llm.md

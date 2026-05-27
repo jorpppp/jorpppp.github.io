@@ -13,10 +13,10 @@ author_profile: true
 
 [comment]: <> To include rs use (<u><a href="/files/rs.pdf">Research Statement</a></u>)
 
-[***Publications***](#publications) - [***Working Papers***](#working-papers) - [***Work in Progress***](#work-in-progress)
+[***Journal Publications***](#journal-publications) - [***Other Publications***](other-publications) - [***Working Papers***](#working-papers) - [***Work in Progress***](#work-in-progress) 
 
 
-***Publications***
+***Journal Publications***
 -------
 
 {% for post in site.research reversed %}	
@@ -24,6 +24,16 @@ author_profile: true
 		{% include archive-single.html %}
 	{% endif%}
 {% endfor %}
+
+***Other Publications***
+-------
+
+{% for post in site.research reversed %}	
+	{% if post.type == 'other' %}
+		{% include archive-single.html %}
+	{% endif%}
+{% endfor %}
+
 
 ***Working Papers***
 -------

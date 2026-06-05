@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /files/cv.pdf
-    
+
+  - title: "Mundial 2026"
+    url: /mundial2026/
+
 #  - title: "Guide"
 #    url: /markdown/

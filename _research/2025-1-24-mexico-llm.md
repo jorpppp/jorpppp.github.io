@@ -7,6 +7,8 @@ excerpt: "This paper defines local labor markets in Mexico by grouping economica
 date: 2025-1-24-mexico-llm.md
 venue: Banxico SIDIE Datasets
 paperurl: https://www.banxico.org.mx/DataSetsWeb/dataset?ruta=LLM&idioma=en
+coverage1: Reimagining the Economy
+coverage1url: https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/new-developments-labor-markets
 ---
 With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/), [Daniel Chiquiar](https://facultad.itam.mx/facultad/daniel-isaac-chiquiar-cikurel), [Mariana Calderón](https://www.gefieo.org/about-us/our-staff/mariana-calderon-cerbon), [Gordon Hanson](https://scholar.harvard.edu/gordonhanson/home), and Claudia Velázquez.
 

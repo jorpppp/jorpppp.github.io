@@ -5,7 +5,6 @@ type: working_paper
 permalink: /research/2023-6-15-akmcitysize
 excerpt: "This paper examines how informality shapes the relationship between city size and labor market matching in Mexico. We find that cities with larger informal sectors exhibit weaker matching patterns in their formal labor markets."
 date: 2023-6-15
-paperurl: '/files/Matching_LLMSize_Mexico.pdf'
 
 ---
 With [Jorge Meléndez](https://economics.ubc.ca/profile/jorge-emilio-melendez-flores/) and [José G. Nuño Ledesma](https://jgnunol.github.io/)

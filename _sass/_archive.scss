@@ -278,3 +278,43 @@ $paper-link-text: #3d8fa6;
     color: $gray;
   }
 }
+
+
+/*
+   Section links at the top of the Research page
+   ========================================================================== */
+
+.section-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0.5em 0 1.5em;
+
+  a {
+    font-size: 0.8em;
+    font-weight: 600;
+    padding: 0.35em 0.9em;
+    border-radius: 999px;
+    background-color: #eef1f3;
+    color: $text-color;
+    text-decoration: none;
+    transition: $global-transition;
+
+    &:hover,
+    &:focus {
+      background-color: $paper-link-color;
+      color: #fff;
+    }
+  }
+
+  &__count {
+    display: inline-block;
+    margin-left: 0.45em;
+    padding: 0 0.45em;
+    border-radius: 999px;
+    background-color: #fff;
+    color: $gray;
+    font-size: 0.85em;
+    font-weight: 400;
+  }
+}

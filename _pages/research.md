@@ -6,15 +6,25 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if site.author.googlescholar %}
+  You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
 [comment]: <> To include rs use (<u><a href="/files/rs.pdf">Research Statement</a></u>)
 
-[***Journal Articles and Book Chapters***](#journal-articles-and-book-chapters) - [***Policy Briefs and Datasets***](#policy-briefs-and-datasets) - [***Working Papers***](#working-papers) - [***Work in Progress***](#work-in-progress) 
+{% assign n_publication = site.research | where: "type", "publication" | size %}
+{% assign n_other = site.research | where: "type", "other" | size %}
+{% assign n_working_paper = site.research | where: "type", "working_paper" | size %}
+{% assign n_work_in_progress = site.research | where: "type", "work_in_progress" | size %}
+
+<nav class="section-nav">
+  <a href="#journal-articles-and-book-chapters">Journal Articles and Book Chapters<span class="section-nav__count">{{ n_publication }}</span></a>
+  <a href="#policy-briefs-and-datasets">Policy Briefs and Datasets<span class="section-nav__count">{{ n_other }}</span></a>
+  <a href="#working-papers">Working Papers<span class="section-nav__count">{{ n_working_paper }}</span></a>
+  <a href="#work-in-progress">Work in Progress<span class="section-nav__count">{{ n_work_in_progress }}</span></a>
+</nav>
 
 
 ***Journal Articles and Book Chapters***

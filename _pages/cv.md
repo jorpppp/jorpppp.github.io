@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+description: "Curriculum vitae of Jorge Pérez Pérez, Research Economist at Banco de México."
 permalink: /cv/
 author_profile: true
 redirect_from:

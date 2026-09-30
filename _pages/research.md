@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research"
+description: "Research by Jorge Pérez Pérez"
 permalink: /research/
 author_profile: true
 ---

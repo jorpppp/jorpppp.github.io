@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
+description: "Courses taught by Jorge Pérez Pérez"
 permalink: /teaching/
 author_profile: true
 ---

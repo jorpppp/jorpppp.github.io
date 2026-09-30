@@ -70,6 +70,8 @@ social:
   links: # An array of links to social media profiles
     - "https://scholar.google.com/citations?user=XcyQ8SIAAAAJ"
     - "https://orcid.org/0000-0002-1182-7869"
+    - "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4805606"
+    - "https://ideas.repec.org/f/ppe453.html"
     - "https://www.linkedin.com/in/jorgeeduardoperezperez"
     - "https://github.com/jorpppp"
     - "https://x.com/jorpppp"
@@ -104,6 +106,8 @@ author:
   lastfm           :
   linkedin         : "jorgeeduardoperezperez"
   orcid            : "https://orcid.org/0000-0002-1182-7869"
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4805606"
+  repec            : "https://ideas.repec.org/f/ppe453.html"
   pinterest        :
   soundcloud       :
   stackoverflow    : "1184315/jorpppp"

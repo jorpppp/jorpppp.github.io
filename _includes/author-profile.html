@@ -106,6 +106,12 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.ssrn %}
+        <li><a href="{{ author.ssrn }}"><i class="ai ai-ssrn-square ai-fw"></i> SSRN</a></li>
+      {% endif %}
+      {% if author.repec %}
+        <li><a href="{{ author.repec }}"><i class="ai ai-ideas-repec-square ai-fw"></i> RePEc</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-link" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}

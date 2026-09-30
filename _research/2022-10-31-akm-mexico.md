@@ -15,6 +15,6 @@ venue: Economía LACEA
 venuepaperurl: 'https://economia.lse.ac.uk/articles/10.31389/eco.424'
 
 ---
-With [José G. Nuño Ledesma](https://jgnunol.github.io/)
+With [José G. Nuño-Ledesma](https://jgnunol.github.io/)
 
 Abstract: Between 2004 and 2018, the spread of wages in Mexico’s private labor sector remained stable. Nonetheless, the underlying factors behind salary dispersion underwent significant shifts nationally and regionally. We analyze a matched employer-employee dataset comprising the near-universe of Mexico’s formal workforce. We estimate log wage models with worker and workplace fixed effects capturing over 94% of wage variation. We then decompose national and regional earnings dispersions into worker, workplace and assortative matching components. At the national level, we find that sorting increased its importance over time, from explaining 16% of total wage variance to 19% by the end of the period. Worker- and workplace-specific factors contributed between 37% to 44% and 33% to 37% to the total spread of remunerations, respectively. Workplace factors became increasingly important during the 2014–2018 time segment, to the point that their contribution to total wage variance is equivalent to that of worker factors. The influence of workplace factors on wage dispersion correlates negatively with regional economic development: It is lowest in the North, Mexico’s most-developed region, and largest in the South, the country’s least-prosperous region.

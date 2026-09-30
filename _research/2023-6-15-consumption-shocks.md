@@ -15,7 +15,7 @@ paperurl: /files/CGP.pdf
 bibtexurl: /files/bibtex/Cortes2025expenditure.bib
 citation: 
 ---
-With [Darwin Cortés](https://research-hub.urosario.edu.co/display/darwin-cortes-cortes) and Andrés Gallegos
+With [Darwin Cortés](https://research-hub.urosario.edu.co/display/darwin-cortes-cortes) and Andrés Gallegos-Vargas
 
 Abstract: We analyze the effect of adverse health shocks on households' expenditure shares in different good categories using a fixed-effects approach and a structural approach based on microeconomic theory. We find that, on average, households substitute health and food expenditure in response to adverse health shocks. Our estimates unveil substantial heterogeneity in this trade-off mediated by access to social protection, job contract type, and urban or rural location. Households from rural areas -where household heads are more likely to hold informal jobs and lack access to safety nets- engage in more substitution of food expenditure for health expenditure than others. Our findings suggest that access to formal employment and a higher quality of local institutions can help mitigate the negative consequences of health shocks for households.
 

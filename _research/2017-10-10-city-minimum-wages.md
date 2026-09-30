@@ -8,7 +8,7 @@ date: 2020-12-24
 venue: SocArXiv
 venuepaperurl: https://osf.io/preprints/socarxiv/fpx9e/
 venue2: 'Banco de Mexico working papers'
-venuepaperurl2: 'https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BC713BCA8-CA5C-7306-1029-40BCCF513B09%7D.pdf'
+venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B2CEE1500-55EA-C597-AF7E-D450ECF66951%7D.pdf'
 paperurl:  /files/Jorge_Perez_JMP.pdf
 bibtexurl: /files/bibtex/PerezPerez2022city.bib
 citation: 

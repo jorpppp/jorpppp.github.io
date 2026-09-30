@@ -55,6 +55,9 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
 $background-color           : #fff;
+
+/* space kept free under the sticky masthead (sidebar, anchor jumps) */
+$masthead-offset            : 6rem;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;

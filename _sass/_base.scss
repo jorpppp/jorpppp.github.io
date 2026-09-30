@@ -2,6 +2,12 @@
    BASE ELEMENTS
    ========================================================================== */
 
+html {
+  /* native smooth scrolling; anchor jumps stop below the sticky masthead */
+  scroll-behavior: smooth;
+  scroll-padding-top: $masthead-offset;
+}
+
 body {
   margin: 0;
   padding: 0;

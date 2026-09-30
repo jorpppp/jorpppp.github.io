@@ -7,7 +7,16 @@ excerpt: 'This paper evaluates Latin America’s fiscal performance over the 200
 date: 2014-04-01
 venue: IDB Policy Briefs
 paperurl: 'https://publications.iadb.org/en/grading-fiscal-policy-latin-america-last-decade'
-citation: 'Fernández-Arias, Eduardo and Pérez Pérez, Jorge Eduardo (2014) "Grading Fiscal Policy in Latin America in the Last Decade". IDB Policy Brief 216, Inter-American Development Bank'
+bibtexurl: /files/bibtex/FernandezArias2014grading.bib
+scholar:
+  title: "Grading Fiscal Policy in Latin America in the Last Decade"
+  authors:
+    - "Fernández-Arias, Eduardo"
+    - "Pérez Pérez, Jorge"
+  year: "2014"
+  institution: "Inter-American Development Bank"
+  number: "216"
+  doi: "10.18235/0008441"
 ---
 With [Eduardo Fernández-Arias](http://bidcomunidades.iadb.org/en/research-and-data/researcher,3159.html?au_id=36)
 

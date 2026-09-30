@@ -19,7 +19,6 @@ scholar:
   firstpage: "7"
   lastpage: "44"
   doi: "10.13043/dys.66.1"
-citation: 'Cortés, Darwin y Pérez, Jorge (2010) "El Consumo de los Hogares Colombianos, 2006-2007: Estimación de Sistemas de Demanda". Desarrollo y Sociedad'
 ---
 
 with [Darwin Cortés](https://research-hub.urosario.edu.co/display/darwin-cortes-cortes)

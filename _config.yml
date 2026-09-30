@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jorge Pérez Pérez"
 title_separator          : "-"
-name                     : &name "Jorge Pérez Pérez "
+name                     : &name "Jorge Pérez Pérez"
 description              : &description "Jorge Pérez Pérez, Research Economist at Banco de México."
 url                      : https://jorgeperezperez.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of  your site, e.g. "/blog"
@@ -61,13 +61,19 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.jpeg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=XcyQ8SIAAAAJ"
+    - "https://orcid.org/0000-0002-1182-7869"
+    - "https://www.linkedin.com/in/jorgeeduardoperezperez"
+    - "https://github.com/jorpppp"
+    - "https://x.com/jorpppp"
+    - "https://stackoverflow.com/users/1184315/jorpppp"
 
 
 # Analytics

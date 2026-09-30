@@ -2,3 +2,5 @@ _site/
 
 files/xtevent.zip
 CLAUDE.md
+.statamcp/
+Gemfile.lock

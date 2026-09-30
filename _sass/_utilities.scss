@@ -182,12 +182,14 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
-  .fa {
+  .fa,
+  .fab,
+  .fas {
     color: #000;
   }
 
   .fa-behance,
-  .fa-behance-square {
+  .fa-square-behance {
     color: $behance-color;
   }
 
@@ -196,7 +198,7 @@ body:hover .visually-hidden button {
   }
 
   .fa-facebook,
-  .fa-facebook-square {
+  .fa-square-facebook {
     color: $facebook-color;
   }
 
@@ -210,12 +212,12 @@ body:hover .visually-hidden button {
 
   .fa-github,
   .fa-github-alt,
-  .fa-github-square {
+  .fa-square-github {
     color: $github-color;
   }
 
   .fa-google-plus,
-  .fa-google-plus-square {
+  .fa-square-google-plus {
     color: $google-plus-color;
   }
 
@@ -224,23 +226,22 @@ body:hover .visually-hidden button {
   }
 
   .fa-lastfm,
-  .fa-lastfm-square {
+  .fa-square-lastfm {
     color: $lastfm-color;
   }
 
-  .fa-linkedin,
-  .fa-linkedin-square {
+  .fa-linkedin {
     color: $linkedin-color;
   }
 
   .fa-pinterest,
   .fa-pinterest-p,
-  .fa-pinterest-square {
+  .fa-square-pinterest {
     color: $pinterest-color;
   }
 
   .fa-rss,
-  .fa-rss-square {
+  .fa-square-rss {
     color: $rss-color;
   }
 
@@ -254,17 +255,12 @@ body:hover .visually-hidden button {
   }
 
   .fa-tumblr,
-  .fa-tumblr-square {
+  .fa-square-tumblr {
     color: $tumblr-color;
   }
 
-  .fa-twitter,
-  .fa-twitter-square {
-    color: $twitter-color;
-  }
-
   .fa-vimeo,
-  .fa-vimeo-square {
+  .fa-square-vimeo {
     color: $vimeo-color;
   }
 
@@ -273,13 +269,13 @@ body:hover .visually-hidden button {
   }
 
   .fa-youtube,
-  .fa-youtube-square,
+  .fa-square-youtube,
   .fa-youtube-play {
     color: $youtube-color;
   }
 
   .fa-xing,
-  .fa-xing-square {
+  .fa-square-xing {
     color: $xing-color;
   }
 }

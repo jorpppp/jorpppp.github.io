@@ -318,3 +318,40 @@ $paper-link-text: #3d8fa6;
     font-weight: 400;
   }
 }
+
+
+/*
+   Compact lines under the paper buttons: prize/video/blog links and media
+   coverage (_includes/paper-extras.html)
+   ========================================================================== */
+
+.paper-extras {
+  font-size: 0.8em;
+  line-height: 1.7;
+  margin: 0.5em 0 0;
+  color: $gray;
+
+  a {
+    color: $paper-link-text;
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+
+  &__label {
+    margin-right: 0.6em;
+    font-size: 0.85em;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  &__sep {
+    margin: 0 0.45em;
+    color: mix(#fff, $gray, 50%);
+  }
+}

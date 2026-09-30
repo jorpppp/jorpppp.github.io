@@ -1,0 +1,31 @@
+{% comment %}
+  Compact lines under the paper link buttons, on the Research list and on paper pages.
+  Usage: {% include paper-extras.html item=post %} (or item=page)
+  - comment / commenturl (e.g. a prize or a video series) and blog (link to a blog post)
+  - coverage1 / coverage1url ... coverage30 / coverage30url (media coverage)
+{% endcomment %}
+{% assign item = include.item %}
+
+{% if item.comment or item.blog %}
+<p class="paper-extras">
+  {% if item.comment %}
+    {% if item.commenturl %}<a href="{{ item.commenturl }}">{{ item.comment | strip }}</a>{% else %}{{ item.comment | strip }}{% endif %}
+  {% endif %}
+  {% if item.comment and item.blog %}<span class="paper-extras__sep" aria-hidden="true">·</span>{% endif %}
+  {% if item.blog %}<a href="{{ item.blog }}">Blog post</a>{% endif %}
+</p>
+{% endif %}
+
+{% if item.coverage1 %}
+<p class="paper-extras paper-extras--coverage">
+  <span class="paper-extras__label">Coverage</span>
+  {% for i in (1..30) %}
+    {% assign key = 'coverage' | append: i %}
+    {% assign urlkey = key | append: 'url' %}
+    {% if item[key] %}
+      {% unless forloop.first %}<span class="paper-extras__sep" aria-hidden="true">·</span>{% endunless %}
+      <a href="{{ item[urlkey] }}">{{ item[key] | strip }}</a>
+    {% endif %}
+  {% endfor %}
+</p>
+{% endif %}

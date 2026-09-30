@@ -10,6 +10,8 @@ paperurl: https://www.banxico.org.mx/DataSetsWeb/dataset?ruta=LLM&idioma=en
 bibtexurl: /files/bibtex/Aldeco2024local.bib
 coverage1: Reimagining the Economy
 coverage1url: https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/new-developments-labor-markets
+coverage2: Segundo Mejor
+coverage2url: https://segundomejor.substack.com/p/mercados-laborales-locales-en-mexico
 ---
 With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/), [Mariana Calderón](https://www.gefieo.org/about-us/our-staff/mariana-calderon-cerbon), [Daniel Chiquiar](https://facultad.itam.mx/facultad/daniel-isaac-chiquiar-cikurel), [Gordon Hanson](https://scholar.harvard.edu/gordonhanson/home), and Claudia Velázquez.
 

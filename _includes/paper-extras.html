@@ -3,6 +3,12 @@
   Usage: {% include paper-extras.html item=post %} (or item=page)
   - comment / commenturl (e.g. a prize or a video series) and blog (link to a blog post)
   - coverage1 / coverage1url ... coverage30 / coverage30url (media coverage)
+  - a grouped item (one outlet, several documents) uses coverageNlinks instead of coverageNurl:
+      coverage12: CONASAMI
+      coverage12links:
+        - label: "2022"
+          url: https://...
+    It renders as "CONASAMI 2022, 2023, ..." with each label a separate link.
 {% endcomment %}
 {% assign item = include.item %}
 
@@ -22,9 +28,14 @@
   {% for i in (1..30) %}
     {% assign key = 'coverage' | append: i %}
     {% assign urlkey = key | append: 'url' %}
+    {% assign linkskey = key | append: 'links' %}
     {% if item[key] %}
       {% unless forloop.first %}<span class="paper-extras__sep" aria-hidden="true">·</span>{% endunless %}
-      <a href="{{ item[urlkey] }}">{{ item[key] | strip }}</a>
+      {% if item[linkskey] %}
+        <span class="paper-extras__group">{{ item[key] | strip }} {% for l in item[linkskey] %}<a href="{{ l.url }}">{{ l.label }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+      {% else %}
+        <a href="{{ item[urlkey] }}">{{ item[key] | strip }}</a>
+      {% endif %}
     {% endif %}
   {% endfor %}
 </p>

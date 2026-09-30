@@ -8,7 +8,9 @@ date: 2023-11-01
 paperurl: /files/VZP.pdf
 bibtexurl: /files/bibtex/VialLecaros2023urban.bib
 coverage1: CAF Transport Infrastructure for the Development of Latin America 
-coverage1url: https://www.caf.com/en/currently/calls/2020/07/transport-infrastructure-for-the-development-of-latin-america/
+coverage1url: 'https://www.caf.com/en/work-with-us/calls/transport-infrastructure-for-the-development-of-latin-america/'
+coverage2: IDB
+coverage2url: https://publications.iadb.org/en/putting-passenger-first-what-works-and-what-does-not-work-urban-mobility-reforms-latin-america-and
 venue: CAF Working Papers
 venueyear: 2022
 venuepaperurl: https://scioteca.caf.com/handle/123456789/1992

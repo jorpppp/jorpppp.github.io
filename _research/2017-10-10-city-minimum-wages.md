@@ -7,7 +7,7 @@ excerpt: 'This paper analyzes how local minimum wage hikes reshape spatial equil
 date: 2020-12-24
 venue: SocArXiv
 venuepaperurl: https://osf.io/preprints/socarxiv/fpx9e/
-venue2: 'Banco de Mexico working papers'
+venue2: 'Banco de México working papers'
 venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B2CEE1500-55EA-C597-AF7E-D450ECF66951%7D.pdf'
 paperurl:  /files/Jorge_Perez_JMP.pdf
 bibtexurl: /files/bibtex/PerezPerez2022city.bib

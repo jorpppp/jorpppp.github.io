@@ -7,7 +7,7 @@ excerpt: "Unlike trends seen in many developed cities, Mexico City’s housing p
 date: 2024-10-31
 paperurl: /files/MNP_Gradients.pdf
 bibtexurl: /files/bibtex/Mayorga2024housing.bib
-venue: 'Banco de Mexico working papers'
+venue: 'Banco de México working papers'
 venuepaperurl: 'https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-18&locale=en'
 ---
 With [Diego Mayorga](https://gufaculty360.georgetown.edu/s/contact/0031Q00002abPhVQAU/diego-mayorga-cordova) and Karla Neri Hernández

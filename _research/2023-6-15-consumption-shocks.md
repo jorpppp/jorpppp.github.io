@@ -5,7 +5,7 @@ type: working_paper
 permalink: /research/2023-6-15-consumption-shocks
 excerpt: 'This paper studies how Colombian households adjust spending after health shocks, finding a trade-off between food and health expenditures. The extent of this adjustment varies by social protection access, job formality, and rural or urban setting. Rural and informal households bear the greatest burden, highlighting the protective role of formal employment and strong institutions.'
 date: 2023-6-15
-venue: 'Banco de Mexico working papers'
+venue: 'Banco de México working papers'
 venuepaperurl: https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2025-03&locale=en
 venue2: SocArXiv (Older version)
 venuepaperurl2: https://osf.io/preprints/socarxiv/vh2qa/

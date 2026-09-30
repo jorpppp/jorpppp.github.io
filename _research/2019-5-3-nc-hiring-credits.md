@@ -5,7 +5,7 @@ type: working_paper
 permalink: /research/2019-5-3-nc-hiring-credits
 excerpt: 'This paper evaluates a hiring tax credit program in North Carolina using a regression discontinuity design based on county-level distress rankings. We find that a $9,000 credit raises employment by 4%, or by 1.2 percentage points in the employment-to-population ratio, and lowers the unemployment rate by around 0.3 percentage points. These results suggest that well-targeted hiring credits can meaningfully improve labor market outcomes in distressed areas.'
 date: 2019-5-3
-venue: 'Banco de Mexico working papers'
+venue: 'Banco de México working papers'
 venuepaperurl: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7BE0C300B6-73CD-D57C-036B-8A1F2BDA4DC1%7D.pdf'
 paperurl: /files/Perez_Suher_NC_Hiring_Credits.pdf
 bibtexurl: /files/bibtex/PerezPerez2020efficacy.bib

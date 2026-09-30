@@ -4,3 +4,4 @@ files/xtevent.zip
 CLAUDE.md
 .statamcp/
 Gemfile.lock
+.playwright-mcp/

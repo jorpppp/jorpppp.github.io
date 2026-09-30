@@ -24,6 +24,7 @@ scholar:
   lastpage: "332"
   doi: "10.31389/eco.424"
 blog: /posts/2024/08/akmmexico/
+blog_es: 'https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/resumenes-ejecutivos/%7B76AF8A12-2C8B-5A8B-DC4A-B5C46ED1EA4C%7D.pdf'
 venue: Economía LACEA
 venuepaperurl: 'https://economia.lse.ac.uk/articles/10.31389/eco.424'
 

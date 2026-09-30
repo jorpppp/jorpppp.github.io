@@ -19,6 +19,7 @@ scholar:
   number: "2020-05"
   doi: "10.36095/banxico/di.2020.05"
 blog: /posts/2021/1/nc/
+blog_es: /posts/2020/11/nc_es/
 citation: 
 ---
 With [Michael Suher](https://www.federalreserve.gov/econres/michael-suher.htm)

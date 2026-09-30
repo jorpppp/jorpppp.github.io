@@ -18,6 +18,7 @@ scholar:
   firstpage: "104999"
   doi: "10.1016/j.worlddev.2020.104999"
 blog: /posts/2019/08/mwcol/
+blog_es: /posts/2019/08/mwcol_es/
 venuepaperurl: https://doi.org/10.1016/j.worlddev.2020.104999
 coverage1: HKUST-IEMS 
 coverage1url: https://iems.ust.hk/assets/publications/newsletters/hkust-iems-newsletter-spring-2017-web.pdf

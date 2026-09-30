@@ -25,6 +25,7 @@ citation: 'Pérez Pérez, Jorge Eduardo; Rodriguez Castelan, Carlos; Trujillo, J
 coverage1: Vox Lacea
 coverage1url: 'https://web.archive.org/web/20231002190436/http://vox.lacea.org/?q=blog/multidimensional_poverty_headcounts'
 blog: /posts/2018/03/mpi
+blog_es: /posts/2018/03/mpi_es/
 ---
 
 with [Carlos Rodríguez Castelan](https://ideas.repec.org/f/pro873.html), José Daniel Trujillo and [Daniel Valderrama](https://ideas.repec.org/f/pva407.html)

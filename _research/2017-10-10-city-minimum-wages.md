@@ -10,6 +10,7 @@ venuepaperurl: https://osf.io/preprints/socarxiv/fpx9e/
 venue2: 'Banco de Mexico working papers'
 venuepaperurl2: 'https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BC713BCA8-CA5C-7306-1029-40BCCF513B09%7D.pdf'
 paperurl:  /files/Jorge_Perez_JMP.pdf
+bibtexurl: /files/bibtex/PerezPerez2022city.bib
 citation: 
 comment: Winner of the 2018 S4 Graduate Student Paper Prize 
 commenturl: https://www.brown.edu/academics/spatial-structures-in-social-sciences/s4-graduate-student-paper-prize

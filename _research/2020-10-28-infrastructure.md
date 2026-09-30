@@ -6,6 +6,7 @@ permalink: /research/2020-10-28-infrastructure
 excerpt: "This paper studies the effects of a subway expansion in Santiago, Chile, on local labor market outcomes. The analysis shows that improved transit access led to job relocations and wage changes consistent with reduced labor market power by firms. A spatial equilibrium model finds that accounting for these monopsony effects amplifies the welfare gains of the infrastructure investment."
 date: 2022-10-04
 paperurl: /files/VZP.pdf
+bibtexurl: /files/bibtex/VialLecaros2023urban.bib
 coverage1: CAF Transport Infrastructure for the Development of Latin America 
 coverage1url: https://www.caf.com/en/currently/calls/2020/07/transport-infrastructure-for-the-development-of-latin-america/
 venue: CAF Working Papers

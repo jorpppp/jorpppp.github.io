@@ -12,6 +12,7 @@ venuepaperurl2: https://osf.io/preprints/socarxiv/vh2qa/
 venue3: Documentos de Trabajo Facultad de Economía Universidad del Rosario (Older version)
 venuepaperurl3: https://repository.urosario.edu.co/handle/10336/39850
 paperurl: /files/CGP.pdf
+bibtexurl: /files/bibtex/Cortes2025expenditure.bib
 citation: 
 ---
 With [Darwin Cortés](https://research-hub.urosario.edu.co/display/darwin-cortes-cortes) and Andrés Gallegos

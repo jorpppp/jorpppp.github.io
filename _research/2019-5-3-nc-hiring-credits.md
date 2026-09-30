@@ -8,6 +8,7 @@ date: 2019-5-3
 venue: 'Banco de Mexico working papers'
 venuepaperurl: 'https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCF0A9949-2D72-6738-EF15-57CFA57249CD%7D.pdf'
 paperurl: /files/Perez_Suher_NC_Hiring_Credits.pdf
+bibtexurl: /files/bibtex/PerezPerez2020efficacy.bib
 citation: 
 ---
 With [Michael Suher](https://www.federalreserve.gov/econres/michael-suher.htm)

@@ -8,6 +8,7 @@ date: 2018-03-20
 venue: World Bank Policy Research Working Paper Series
 venuepaperurl: 'http://documents.worldbank.org/curated/en/748421467991999230/Unpacking-the-MPI-a-decomposition-approach-of-changes-in-multidimensional-poverty-headcounts'
 paperurl: /files/Jorge_Perez_MPI.pdf
+bibtexurl: /files/bibtex/PerezPerez2015unpacking.bib
 citation: 'Pérez Pérez, Jorge Eduardo; Rodriguez Castelan, Carlos; Trujillo, Jose Daniel; Valderrama, Daniel. 2015. Unpacking the MPI : a decomposition approach of changes in multidimensional poverty headcounts. Policy Research working paper; no. WPS 7514. Washington, D.C. : World Bank Group.'
 coverage1: Vox Lacea
 coverage1url: http://vox.lacea.org/?q=blog/multidimensional_poverty_headcounts

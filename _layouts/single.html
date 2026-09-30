@@ -128,6 +128,9 @@ layout: default
 			{% if page.rpackage %}
 			--- <a style='color: #6CBAD0;' href=" {{ page.rpackage }} "> R Library</a>
 			{% endif %}
+			{% if page.bibtexurl %}
+			--- <a style='color: #6CBAD0;' href="{{ page.bibtexurl }}" download> BibTeX</a>
+			{% endif %}
 			{% if page.paperurl=='' %}
 			---	Download coming soon	
 			{% endif %}

@@ -7,6 +7,7 @@ excerpt: 'Using an unexpected rise in Colombia’s real minimum wage in 1999, th
 date: 2020-05-29
 venue: World Development
 paperurl: /files/PerezPerez2020.pdf
+bibtexurl: /files/bibtex/PerezPerez2020minimum.bib
 venuepaperurl: https://doi.org/10.1016/j.worlddev.2020.104999
 coverage1: HKUST-IEMS 
 coverage1url: https://iems.ust.hk/assets/publications/newsletters/hkust-iems-newsletter-spring-2017-web.pdf

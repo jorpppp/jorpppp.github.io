@@ -6,6 +6,7 @@ permalink: /research/2024-10-31-mnp-gradients
 excerpt: "Unlike trends seen in many developed cities, Mexico City’s housing price gradient remained stable during the COVID-19 pandemic. Using data from 2019 to 2022, we find no significant change in the relationship between housing prices and distance to the center. Limited remote work, credit constraints, and distinct pandemic policies may explain this divergence."
 date: 2024-10-31
 paperurl: /files/MNP_Gradients.pdf
+bibtexurl: /files/bibtex/Mayorga2024housing.bib
 venue: 'Banco de Mexico working papers'
 venuepaperurl: 'https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-18&locale=en'
 ---

@@ -10,6 +10,7 @@ venuepaperurl2: 'https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=
 venue3: 'Alianza EFI Working Papers (Older Version)'
 venuepaperurl3: 'https://alianzaefi.com/documento/the-contribution-of-workers-workplaces-and-sorting-to-wage-inequality-in-mexico/'
 paperurl:  /files/PerezNunoAKMDIBM.pdf
+bibtexurl: /files/bibtex/PerezPerez2024workers.bib
 venue: Economía LACEA
 venuepaperurl: 'https://economia.lse.ac.uk/articles/10.31389/eco.424'
 

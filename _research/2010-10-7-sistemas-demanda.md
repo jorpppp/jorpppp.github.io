@@ -7,6 +7,7 @@ excerpt: 'This paper estimates demand systems for Colombian households using 200
 date: 2010-10-7
 venue: Desarrollo y Sociedad
 paperurl: 'https://economia.uniandes.edu.co/images/archivos/pdfs/Articulos_Revista_Desarrollo_y_Sociedad/Articulo66_1.pdf'
+bibtexurl: /files/bibtex/Cortes2010consumo.bib
 citation: 'Cortés, Darwin y Pérez, Jorge (2010) "El Consumo de los Hogares Colombianos, 2006-2007: Estimación de Sistemas de Demanda". Desarrollo y Sociedad'
 ---
 

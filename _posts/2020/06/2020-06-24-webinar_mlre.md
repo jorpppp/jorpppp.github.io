@@ -1,6 +1,7 @@
 ---
 title: 'Webinar: Mercado Laboral y Recuperación Económica'
 date: 2020-06-23
+lang: es
 collection: posts
 permalink: /posts/2020/06/webinar_mlre/
 tags:

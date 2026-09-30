@@ -28,6 +28,11 @@
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/academicons.css"/>
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fontawesome.css"/>
 
+{% comment %}
+  MathJax (~2 MB with its speech files) loads only on pages with math:
+  front matter "mathjax: true", or $$, \( or \[ in the page content.
+{% endcomment %}
+{% if page.mathjax or page.content contains "$$" or page.content contains "\(" or page.content contains "\[" %}
 <script>
   window.MathJax = {
     tex: {
@@ -38,5 +43,6 @@
   };
 </script>
 <script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@4.1.3/tex-mml-chtml.js" defer></script>
+{% endif %}
 
 <!-- end custom head snippets -->

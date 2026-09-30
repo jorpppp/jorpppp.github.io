@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Jorge Pérez Pérez"
-  avatar           : "profile.jpeg"
+  avatar           : "profile-avatar.jpeg"
   bio              : "Research Economist - <a style='color: black;' href='https://www.banxico.org.mx/indexen.html'>Banco de México</a> "
   location         : "Mexico City, Mexico"
   employer         :

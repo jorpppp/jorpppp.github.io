@@ -399,3 +399,14 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Embedded PDF figures (replaces the FitVids plugin): shrink with the page,
+   keep the 700 x 500 proportions used in the posts
+   ========================================================================== */
+
+.page__content object[type="application/pdf"] {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 7 / 5;
+}

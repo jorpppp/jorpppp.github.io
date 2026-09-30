@@ -23,7 +23,7 @@ coverage1url: https://www.hks.harvard.edu/centers/wiener/programs/economy/our-wo
 coverage2: Segundo Mejor
 coverage2url: https://segundomejor.substack.com/p/mercados-laborales-locales-en-mexico
 ---
-With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/), [Mariana Calderón](https://www.gefieo.org/about-us/our-staff/mariana-calderon-cerbon), [Daniel Chiquiar](https://facultad.itam.mx/facultad/daniel-isaac-chiquiar-cikurel), [Gordon Hanson](https://scholar.harvard.edu/gordonhanson/home), and Claudia Velázquez.
+With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/), [Mariana Calderón](https://www.gefieo.org/en/about-us/our-team/mariana-calderon-cerbon), [Daniel Chiquiar](https://facultad.itam.mx/facultad/daniel-isaac-chiquiar-cikurel), [Gordon Hanson](https://gordonhanson.scholars.harvard.edu/), and Claudia Velázquez.
 
 This document describes the methodology used to group all the municipalities in Mexico into 777 local labor markets. The approach used to define local labor markets follows best international practices and hinges on 
 the idea that there are groups of municipalities that are highly economically integrated and, therefore, constitute a single local labor market. After defining local labor markets, census population and housing data 

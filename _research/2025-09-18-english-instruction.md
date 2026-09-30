@@ -7,7 +7,7 @@ excerpt: "We study a 2009 policy introducing English in Mexican elementary schoo
 date: 2025-09-18
 paperurl: ''
 ---
-With [Oscar Gálvez-Soriano](https://sites.google.com/site/oscargalvezsoriano/home) and Francisco Cabrera-Hernández
+With [Oscar Gálvez-Soriano](https://sites.google.com/site/oscargalvezsoriano/home) and [Francisco Cabrera-Hernández](https://fcabrerahz.weebly.com/)
 
 We assess the impact of exposure to foreign language in school on student achievement and labor market outcomes by exploiting a 2009 policy in Mexico that introduced English instruction in elementary schools. Using a staggered Difference-in-Differences approach, we find that exposure to English instruction decreases the likelihood of formal sector employment but, after adjusting for selection bias and applying bounds to our estimates, positively influences wages. The policy prompts a shift from manufacturing to tourism-related jobs, with workers increasingly entering English-intensive roles. Finally, while we observe an initial negative effect on test scores in the early years of the intervention, this effect diminishes with extended exposure to English instruction, suggesting that the wage benefits likely stem from English skill acquisition.
 

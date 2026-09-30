@@ -25,6 +25,6 @@ scholar:
 replication: https://github.com/DavdBernal24/Spatialmismatch-Medellin
 citation: 
 ---
-With David Bernal and [Gustavo García](https://www.eafit.edu.co/docentes-investigadores/Paginas/gustavo-garcia.aspx)
+With [David Bernal](https://www.victordavidbernal.com/) and [Gustavo García](https://sites.google.com/site/gustagarcruz/)
 
 Abstract: We propose a methodology to calculate spatial mismatch, which incorporates both monetary transportation costs and opportunity costs while correcting for possible overestimation of job accessibility. This methodology also enables the analysis of spatiotemporal changes in spatial mismatch without discarding data from spatial units that change over time. We apply the methodology to measure spatial mismatch and its evolution in Medellín, Colombia, -a developing country city- for public and private transportation from 2012 to 2017. The results indicate that including transportation and opportunity costs leads to a more realistic measure of job availability to residents. Our findings reveal that, despite investments in public transportation and infrastructure, spatial mismatch in Medellín increased between 2012 and 2017. Additionally, the analysis shows that the greatest loss in job accessibility over time occurred for private transport, suggesting that the expansion of public transport in Medellín may have mitigated spatial mismatch.

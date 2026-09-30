@@ -37,16 +37,19 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'research' and page.type =='working_paper' %}
+			{% comment %} One line per venue; venueyear / venue2year override the page year {% endcomment %}
+			{% assign page_year = page.date | default: "1900-01-01" | date: "%Y" %}
 			{% if page.venue %}
-			<p>Listed in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-			{% else %}
-			<p>{{ page.date | default: "1900-01-01" | date: "%Y" }} </p>        	
+			<p>Listed in <i>{{ page.venue }}</i>, {{ page.venueyear | default: page_year }}</p>
 			{% endif %}
 			{% if page.venue2 %}
-			<p>Listed in <i>{{ page.venue2 }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-			{% else %}
-			<p>{{ page.date | default: "1900-01-01" | date: "%Y" }} </p>        	
+			<p>Listed in <i>{{ page.venue2 }}</i>, {{ page.venue2year | default: page_year }}</p>
 			{% endif %}
+			{% unless page.venue or page.venue2 %}
+			<p>{{ page_year }}</p>
+			{% endunless %}
+		{% elsif page.collection == 'research' and page.type == 'work_in_progress' %}
+			<p>Work in progress</p>
 		{% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}

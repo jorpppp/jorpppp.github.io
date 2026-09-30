@@ -10,6 +10,7 @@ bibtexurl: /files/bibtex/VialLecaros2023urban.bib
 coverage1: CAF Transport Infrastructure for the Development of Latin America 
 coverage1url: https://www.caf.com/en/currently/calls/2020/07/transport-infrastructure-for-the-development-of-latin-america/
 venue: CAF Working Papers
+venueyear: 2022
 venuepaperurl: https://scioteca.caf.com/handle/123456789/1992
 venue2: 'Banco de México working papers'
 venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B4D9B2862-DBDB-A379-3AD1-4D1709EB8C15%7D.pdf'

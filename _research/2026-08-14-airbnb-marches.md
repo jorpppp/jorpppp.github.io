@@ -4,7 +4,7 @@ collection: research
 type: work_in_progress
 permalink: /research/2026-08-14-airbnb-marches
 excerpt: "Using monthly panel data on more than 26,000 Airbnb listings in Mexico City, we examine whether the anti-gentrification marches held in July 2025 affected the short-term rental market near the main march route in the Condesa neighborhood. We find no significant effect on average prices or participation, but we do find a significant decline in participation among high-price properties."
-date: 2025-09-18
+date: 2026-08-14
 paperurl: ''
 ---
 With Amaranta Hernández and Antonio Jiménez Hernández

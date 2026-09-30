@@ -114,35 +114,35 @@
 		<p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-	<p>
 	{% if post.collection == 'research' %}
-		{% if post.paperurl!='' %}		
-			<a style='color: #6CBAD0;' href=" {{ post.paperurl }} ">Download</a>
-		{% elsif post.paperurl==''  %}
-		  Download coming soon	
+	<p class="paper-links">
+		{% if post.paperurl and post.paperurl != '' %}
+			<a href="{{ post.paperurl }}"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i>Download</a>
+		{% else %}
+			<span class="paper-links__note">Download coming soon</span>
 		{% endif %}
 		{% if post.venuepaperurl %}
-		--- <a style='color: #6CBAD0;' href=" {{ post.venuepaperurl }} "> Download from <i>{{ post.venue }}</i></a>
+			<a href="{{ post.venuepaperurl }}"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>Download from <i>{{ post.venue }}</i></a>
 		{% endif %}
 		{% if post.venuepaperurl2 %}
-		--- <a style='color: #6CBAD0;' href=" {{ post.venuepaperurl2}} "> Download from <i>{{ post.venue2 }}</i></a>
-		{% endif %}	
+			<a href="{{ post.venuepaperurl2 }}"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>Download from <i>{{ post.venue2 }}</i></a>
+		{% endif %}
 		{% if post.replication %}
-			--- <a style='color: #6CBAD0;' href=" {{ post.replication }} "> Replication Files</a>
+			<a href="{{ post.replication }}"><i class="fa-solid fa-database" aria-hidden="true"></i>Replication Files</a>
 		{% endif %}
 		{% if post.appendix %}
-			--- <a style='color: #6CBAD0;' href=" {{ post.appendix }} "> Appendix</a>
+			<a href="{{ post.appendix }}"><i class="fa-solid fa-file-lines" aria-hidden="true"></i>Appendix</a>
 		{% endif %}
 		{% if post.package %}
-			--- <a style='color: #6CBAD0;' href=" {{ post.package }} "> Stata Package</a>
+			<a href="{{ post.package }}"><i class="fa-solid fa-code" aria-hidden="true"></i>Stata Package</a>
 		{% endif %}
 		{% if post.rpackage %}
-			--- <a style='color: #6CBAD0;' href=" {{ post.rpackage }} "> R Library</a>
+			<a href="{{ post.rpackage }}"><i class="fa-brands fa-r-project" aria-hidden="true"></i>R Library</a>
 		{% endif %}
 		{% if post.bibtexurl %}
-			--- <a style='color: #6CBAD0;' href="{{ post.bibtexurl }}" download> BibTeX</a>
+			<a href="{{ post.bibtexurl }}" download><i class="fa-solid fa-quote-right" aria-hidden="true"></i>BibTeX</a>
 		{% endif %}
-	{% endif %}	
 	</p>
+	{% endif %}
   </article>
 </div>

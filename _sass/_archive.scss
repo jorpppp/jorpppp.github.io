@@ -236,3 +236,45 @@
     }
   }
 }
+
+
+/*
+   Paper link buttons (Download, BibTeX, ...) on research pages and lists
+   ========================================================================== */
+
+$paper-link-color: #6CBAD0;
+$paper-link-text: #3d8fa6;
+
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.6em;
+
+  a {
+    font-size: $type-size-6;
+    line-height: 1.6;
+    padding: 0.25em 0.7em;
+    border: 1px solid $paper-link-color;
+    border-radius: $border-radius;
+    color: $paper-link-text;
+    text-decoration: none;
+    transition: $global-transition;
+
+    &:hover,
+    &:focus {
+      background-color: $paper-link-color;
+      color: #fff;
+    }
+
+    .fa-solid,
+    .fa-brands {
+      margin-right: 0.35em;
+    }
+  }
+
+  &__note {
+    font-size: $type-size-6;
+    color: $gray;
+  }
+}

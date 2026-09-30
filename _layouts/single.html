@@ -107,34 +107,31 @@ layout: default
 			<p>Recommended citation: {{ page.citation }}</p>
 		{% endif %}
 		
-		{% if page.paperurl!='' and page.title !='About' and page.collection !='teaching' and page.collection !='posts'  %}
-			<p><a style='color: #6CBAD0;' href=" {{ page.paperurl }} ">Download latest version</a>
-				
+		{% if page.paperurl and page.paperurl != '' and page.title !='About' and page.collection !='teaching' and page.collection !='posts' %}
+			<p class="paper-links">
+				<a href="{{ page.paperurl }}"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i>Download latest version</a>
 			{% if page.venuepaperurl %}
-			--- <a style='color: #6CBAD0;' href=" {{ page.venuepaperurl }} ">Download <i>{{ page.venue }}</i> version</a>
+				<a href="{{ page.venuepaperurl }}"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>Download <i>{{ page.venue }}</i> version</a>
 			{% endif %}
 			{% if page.venuepaperurl2 %}
-			--- <a style='color: #6CBAD0;' href=" {{ page.venuepaperurl2 }} ">Download <i>{{ page.venue2 }}</i> version</a>
-			{% endif %}			
+				<a href="{{ page.venuepaperurl2 }}"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>Download <i>{{ page.venue2 }}</i> version</a>
+			{% endif %}
 			{% if page.replication %}
-			--- <a style='color: #6CBAD0;' href=" {{ page.replication }} "> Replication Files</a>
+				<a href="{{ page.replication }}"><i class="fa-solid fa-database" aria-hidden="true"></i>Replication Files</a>
 			{% endif %}
 			{% if page.appendix %}
-			--- <a style='color: #6CBAD0;' href=" {{ page.appendix }} "> Appendix</a>
+				<a href="{{ page.appendix }}"><i class="fa-solid fa-file-lines" aria-hidden="true"></i>Appendix</a>
 			{% endif %}
 			{% if page.package %}
-			--- <a style='color: #6CBAD0;' href=" {{ page.package }} "> Stata Package</a>
+				<a href="{{ page.package }}"><i class="fa-solid fa-code" aria-hidden="true"></i>Stata Package</a>
 			{% endif %}
 			{% if page.rpackage %}
-			--- <a style='color: #6CBAD0;' href=" {{ page.rpackage }} "> R Library</a>
+				<a href="{{ page.rpackage }}"><i class="fa-brands fa-r-project" aria-hidden="true"></i>R Library</a>
 			{% endif %}
 			{% if page.bibtexurl %}
-			--- <a style='color: #6CBAD0;' href="{{ page.bibtexurl }}" download> BibTeX</a>
+				<a href="{{ page.bibtexurl }}" download><i class="fa-solid fa-quote-right" aria-hidden="true"></i>BibTeX</a>
 			{% endif %}
-			{% if page.paperurl=='' %}
-			---	Download coming soon	
-			{% endif %}
-			</p>	
+			</p>
 		{% endif %}
 		
         </header>

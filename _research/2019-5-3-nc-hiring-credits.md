@@ -9,6 +9,7 @@ venue: 'Banco de México working papers'
 venuepaperurl: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7BE0C300B6-73CD-D57C-036B-8A1F2BDA4DC1%7D.pdf'
 paperurl: /files/Perez_Suher_NC_Hiring_Credits.pdf
 bibtexurl: /files/bibtex/PerezPerez2020efficacy.bib
+blog: /posts/2021/1/nc/
 citation: 
 ---
 With [Michael Suher](https://www.federalreserve.gov/econres/michael-suher.htm)

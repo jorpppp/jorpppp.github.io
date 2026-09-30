@@ -7,6 +7,16 @@ excerpt: "Unlike trends seen in many developed cities, Mexico City’s housing p
 date: 2024-10-31
 paperurl: /files/MNP_Gradients.pdf
 bibtexurl: /files/bibtex/Mayorga2024housing.bib
+scholar:
+  title: "Housing Price Gradients in Mexico City During the COVID-19 Pandemic"
+  authors:
+    - "Mayorga, Diego"
+    - "Neri Hernández, Karla"
+    - "Pérez Pérez, Jorge"
+  year: "2024"
+  institution: "Banco de México"
+  number: "2024-18"
+  doi: "10.36095/banxico/di.2024.18"
 venue: 'Banco de México working papers'
 venuepaperurl: 'https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-18&locale=en'
 ---

@@ -12,6 +12,14 @@ venue2year: 2022
 venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B2CEE1500-55EA-C597-AF7E-D450ECF66951%7D.pdf'
 paperurl:  /files/Jorge_Perez_JMP.pdf
 bibtexurl: /files/bibtex/PerezPerez2022city.bib
+scholar:
+  title: "City Minimum Wages and Spatial Equilibrium Effects"
+  authors:
+    - "Pérez Pérez, Jorge"
+  year: "2022"
+  institution: "Banco de México"
+  number: "2022-04"
+  doi: "10.36095/banxico/di.2022.04"
 citation: 
 comment: Winner of the 2018 S4 Graduate Student Paper Prize 
 commenturl: https://www.brown.edu/academics/spatial-structures-in-social-sciences/s4-graduate-student-paper-prize

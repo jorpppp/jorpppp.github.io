@@ -8,6 +8,15 @@ date: 2020-05-29
 venue: World Development
 paperurl: /files/PerezPerez2020.pdf
 bibtexurl: /files/bibtex/PerezPerez2020minimum.bib
+scholar:
+  title: "The Minimum Wage in Formal and Informal Sectors: Evidence from an Inflation Shock"
+  authors:
+    - "Pérez Pérez, Jorge"
+  year: "2020"
+  journal: "World Development"
+  volume: "133"
+  firstpage: "104999"
+  doi: "10.1016/j.worlddev.2020.104999"
 blog: /posts/2019/08/mwcol/
 venuepaperurl: https://doi.org/10.1016/j.worlddev.2020.104999
 coverage1: HKUST-IEMS 

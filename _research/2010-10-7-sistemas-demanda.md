@@ -8,6 +8,17 @@ date: 2010-10-7
 venue: Desarrollo y Sociedad
 paperurl: 'https://revistas.uniandes.edu.co/index.php/dys/article/download/6603/6785'
 bibtexurl: /files/bibtex/Cortes2010consumo.bib
+scholar:
+  title: "El consumo de los hogares colombianos, 2006-2007: estimación de sistemas de demanda"
+  authors:
+    - "Cortés, Darwin"
+    - "Pérez Pérez, Jorge"
+  year: "2010"
+  journal: "Desarrollo y Sociedad"
+  issue: "66"
+  firstpage: "7"
+  lastpage: "44"
+  doi: "10.13043/dys.66.1"
 citation: 'Cortés, Darwin y Pérez, Jorge (2010) "El Consumo de los Hogares Colombianos, 2006-2007: Estimación de Sistemas de Demanda". Desarrollo y Sociedad'
 ---
 

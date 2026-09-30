@@ -11,6 +11,17 @@ venuepaperurl: https://www.sciencedirect.com/science/article/pii/S09666923250023
 venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B4A1C4582-7C9D-F473-E002-1C90B1BCF0A0%7D.pdf'
 paperurl: /files/SpatialMismatch.pdf
 bibtexurl: /files/bibtex/Bernal2025better.bib
+scholar:
+  title: "Better or Worse Job Accessibility? Understanding Changes in Spatial Mismatch: Evidence from Medellín, Colombia"
+  authors:
+    - "Bernal, David"
+    - "García, Gustavo A."
+    - "Pérez Pérez, Jorge"
+  year: "2025"
+  journal: "Journal of Transport Geography"
+  volume: "128"
+  firstpage: "104341"
+  doi: "10.1016/j.jtrangeo.2025.104341"
 replication: https://github.com/DavdBernal24/Spatialmismatch-Medellin
 citation: 
 ---

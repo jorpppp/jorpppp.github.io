@@ -11,6 +11,18 @@ venue3: 'Alianza EFI Working Papers (Older Version)'
 venuepaperurl3: 'https://alianzaefi.com/documento/the-contribution-of-workers-workplaces-and-sorting-to-wage-inequality-in-mexico/'
 paperurl:  /files/PerezNunoAKMDIBM.pdf
 bibtexurl: /files/bibtex/PerezPerez2024workers.bib
+scholar:
+  title: "Workers, Workplaces, Sorting, and Wage Dispersion in Mexico"
+  authors:
+    - "Pérez Pérez, Jorge"
+    - "Nuño-Ledesma, José G."
+  year: "2024"
+  journal: "Economía LACEA Journal"
+  volume: "23"
+  issue: "1"
+  firstpage: "311"
+  lastpage: "332"
+  doi: "10.31389/eco.424"
 blog: /posts/2024/08/akmmexico/
 venue: Economía LACEA
 venuepaperurl: 'https://economia.lse.ac.uk/articles/10.31389/eco.424'

@@ -1,0 +1,24 @@
+{% comment %}
+  Google Scholar (Highwire Press) meta tags for paper pages.
+  Data: the "scholar:" block in a research file's front matter (built from its BibTeX entry):
+    title, authors (list), year, journal | book, volume, issue, firstpage, lastpage,
+    institution, number, doi
+  citation_pdf_url is added only for PDFs hosted on this site (paperurl starting with /files/).
+{% endcomment %}
+{% if page.scholar %}
+{% assign s = page.scholar %}
+<meta name="citation_title" content="{{ s.title | default: page.title | escape }}">
+{% for a in s.authors %}<meta name="citation_author" content="{{ a | escape }}">
+{% endfor %}<meta name="citation_publication_date" content="{% if s.year %}{{ s.year }}{% else %}{{ page.date | date: '%Y' }}{% endif %}">
+{% if s.journal %}<meta name="citation_journal_title" content="{{ s.journal | escape }}">
+{% endif %}{% if s.book %}<meta name="citation_inbook_title" content="{{ s.book | escape }}">
+{% endif %}{% if s.volume %}<meta name="citation_volume" content="{{ s.volume }}">
+{% endif %}{% if s.issue %}<meta name="citation_issue" content="{{ s.issue }}">
+{% endif %}{% if s.firstpage %}<meta name="citation_firstpage" content="{{ s.firstpage }}">
+{% endif %}{% if s.lastpage %}<meta name="citation_lastpage" content="{{ s.lastpage }}">
+{% endif %}{% if s.institution %}<meta name="citation_technical_report_institution" content="{{ s.institution | escape }}">
+{% endif %}{% if s.number %}<meta name="citation_technical_report_number" content="{{ s.number }}">
+{% endif %}{% if s.doi %}<meta name="citation_doi" content="{{ s.doi }}">
+{% endif %}{% assign pdf = page.paperurl | strip %}{% if pdf contains '/files/' and pdf contains '.pdf' %}{% unless pdf contains '://' %}<meta name="citation_pdf_url" content="{{ site.url }}{{ site.baseurl }}{{ pdf }}">
+{% endunless %}{% endif %}
+{% endif %}

@@ -7,6 +7,13 @@ excerpt: "We study how enforcing workplace regulations affects firms and workers
 date: 2025-10-02
 paperurl: 'https://lukasrodrian.github.io/assets/pdf/Viol_enf_workpl_regul_CPR.pdf'
 bibtexurl: /files/bibtex/Colonna2026violation.bib
+scholar:
+  title: "Violation and Enforcement of Workplace Regulations: Evidence from Mexican Firm Inspections"
+  authors:
+    - "Colonna, Agustina"
+    - "Pérez Pérez, Jorge"
+    - "Rodrian, Lukas"
+  year: "2026"
 venue: 'SSRN'
 venuepaperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5557740'
 ---

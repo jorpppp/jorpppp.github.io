@@ -7,6 +7,16 @@ excerpt: "This paper studies the effects of a subway expansion in Santiago, Chil
 date: 2023-11-01
 paperurl: /files/VZP.pdf
 bibtexurl: /files/bibtex/VialLecaros2023urban.bib
+scholar:
+  title: "Urban Transit Infrastructure: Spatial Mismatch and Labor Market Power"
+  authors:
+    - "Vial Lecaros, Felipe"
+    - "Zárate, Román D."
+    - "Pérez Pérez, Jorge"
+  year: "2023"
+  institution: "Banco de México"
+  number: "2023-17"
+  doi: "10.36095/banxico/di.2023.17"
 coverage1: CAF Transport Infrastructure for the Development of Latin America 
 coverage1url: 'https://www.caf.com/en/work-with-us/calls/transport-infrastructure-for-the-development-of-latin-america/'
 coverage2: IDB

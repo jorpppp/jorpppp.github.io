@@ -8,6 +8,16 @@ date: 2024-12-19
 venue: 'Banco de México Data Lab (EconLab)'
 paperurl: https://www.banxico.org.mx/DataSetsWeb/dataset?ruta=LLM&idioma=en
 bibtexurl: /files/bibtex/Aldeco2024local.bib
+scholar:
+  title: "Local Labor Markets in Mexico: Definition, Databases, and Descriptive Analysis"
+  authors:
+    - "Aldeco, Lorenzo"
+    - "Calderón, Mariana"
+    - "Chiquiar, Daniel"
+    - "Hanson, Gordon"
+    - "Pérez Pérez, Jorge"
+    - "Velázquez, Claudia"
+  year: "2024"
 coverage1: Reimagining the Economy
 coverage1url: https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/new-developments-labor-markets
 coverage2: Segundo Mejor

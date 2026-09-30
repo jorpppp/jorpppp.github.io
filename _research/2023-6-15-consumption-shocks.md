@@ -15,6 +15,16 @@ venue3: Documentos de Trabajo Facultad de Economía Universidad del Rosario (Old
 venuepaperurl3: https://repository.urosario.edu.co/handle/10336/39850
 paperurl: /files/CGP.pdf
 bibtexurl: /files/bibtex/Cortes2025expenditure.bib
+scholar:
+  title: "Expenditure Responses to Adverse Health Shocks: Evidence from a Panel of Colombian Households"
+  authors:
+    - "Cortés, Darwin"
+    - "Gallegos-Vargas, Andrés"
+    - "Pérez Pérez, Jorge"
+  year: "2025"
+  institution: "Banco de México"
+  number: "2025-03"
+  doi: "10.36095/banxico/di.2025.03"
 citation: 
 ---
 With [Darwin Cortés](https://research-hub.urosario.edu.co/display/darwin-cortes-cortes) and Andrés Gallegos-Vargas

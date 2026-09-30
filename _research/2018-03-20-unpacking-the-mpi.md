@@ -10,6 +10,17 @@ venueyear: 2015
 venuepaperurl: 'http://documents.worldbank.org/curated/en/748421467991999230/Unpacking-the-MPI-a-decomposition-approach-of-changes-in-multidimensional-poverty-headcounts'
 paperurl: /files/Jorge_Perez_MPI.pdf
 bibtexurl: /files/bibtex/PerezPerez2015unpacking.bib
+scholar:
+  title: "Unpacking the MPI: A Decomposition Approach of Changes in Multidimensional Poverty Headcounts"
+  authors:
+    - "Pérez Pérez, Jorge"
+    - "Rodríguez Castelán, Carlos"
+    - "Trujillo, Jose Daniel"
+    - "Valderrama, Daniel"
+  year: "2015"
+  institution: "World Bank"
+  number: "7514"
+  doi: "10.1596/1813-9450-7514"
 citation: 'Pérez Pérez, Jorge Eduardo; Rodriguez Castelan, Carlos; Trujillo, Jose Daniel; Valderrama, Daniel. 2015. Unpacking the MPI : a decomposition approach of changes in multidimensional poverty headcounts. Policy Research working paper; no. WPS 7514. Washington, D.C. : World Bank Group.'
 coverage1: Vox Lacea
 coverage1url: 'https://web.archive.org/web/20231002190436/http://vox.lacea.org/?q=blog/multidimensional_poverty_headcounts'

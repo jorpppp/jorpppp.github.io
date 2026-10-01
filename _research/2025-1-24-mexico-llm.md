@@ -22,6 +22,8 @@ coverage1: Reimagining the Economy
 coverage1url: https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/new-developments-labor-markets
 coverage2: Segundo Mejor
 coverage2url: https://segundomejor.substack.com/p/mercados-laborales-locales-en-mexico
+coverage3: CIDE seminar (video)
+coverage3url: https://www.youtube.com/watch?v=mRxJKR_V5wA
 ---
 With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/), [Mariana Calderón](https://www.gefieo.org/en/about-us/our-team/mariana-calderon-cerbon), [Daniel Chiquiar](https://facultad.itam.mx/facultad/daniel-isaac-chiquiar-cikurel), [Gordon Hanson](https://gordonhanson.scholars.harvard.edu/), and Claudia Velázquez.
 

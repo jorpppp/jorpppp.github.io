@@ -410,3 +410,44 @@
   height: auto;
   aspect-ratio: 7 / 5;
 }
+
+
+/*
+   Home page: latest papers and blog post, set apart from the bio
+   ========================================================================== */
+
+.home-latest {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid mix(#fff, $gray, 60%);
+  font-size: 0.85em;
+
+  /* .home-latest .home-latest__title beats the theme's .page__content h2 border */
+  & &__title {
+    margin: 1.2em 0 0.4em;
+    padding: 0;
+    border: none;
+    font-size: 0.8em;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: $gray;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  ul {
+    margin: 0 0 0.5em;
+  }
+
+  li {
+    margin-bottom: 0.25em;
+  }
+
+  &__more {
+    margin-top: 1em;
+    color: $gray;
+  }
+}

@@ -124,7 +124,7 @@ Primary instructor. Course taught in Spanish.
 
 ### Capítulo 7. Transporte
 
-* [Notas de clase](/files/Urbana2021/urbana_c17.pdf)
+* [Notas de clase](/files/Urbana2021/urbana_c7.pdf)
 
 #### Referencias principales
 
@@ -148,7 +148,7 @@ Primary instructor. Course taught in Spanish.
 * Almagro, M., & Domínguez-Iino, T. (2024). [Location sorting and endogenous amenities: Evidence from amsterdam (No. w32304).](/files/Urbana2021/AlmagroDominguezIino2024.pdf) National Bureau of Economic Research.
 * Ghose, D. (2021). [Trade, Internal Migration, and Human Capital: Who Gains from India's IT Boom?](/files/Urbana2021/Ghose2021.pdf). World Bank.
 * Alix-Garcia, J., & Sellars, E. A. (2020). [Locational fundamentals, trade, and the changing urban landscape of Mexico.](/files/Urbana2021/AlixGarciaSellars2020.pdf) Journal of Urban Economics, 116, 103213.
-* Davis, D. R., Mengus, E., & Michalski, T. K. (2020). [Labor market polarization and the great divergence: Theory and evidence (No. w26955)](/files/Urbana2021/DavisMengusMichalski2020). National Bureau of Economic Research.
+* Davis, D. R., Mengus, E., & Michalski, T. K. (2020). [Labor market polarization and the great divergence: Theory and evidence (No. w26955)](/files/Urbana2021/DavisMengusMichalski2020.pdf). National Bureau of Economic Research.
 * Büchel, K., Ehrlich, M. V., Puga, D., & Viladecans-Marsal, E. (2020). [Calling from the outside: The role of networks in residential mobility.](/files/Urbana2021/Bucheletal2020.pdf) Journal of urban economics, 119, 103277.
 * Aaronson, D., Faber, J., Hartley, D., Mazumder, B., & Sharkey, P. (2021). [The long-run effects of the 1930s HOLC “redlining” maps on place-based measures of economic opportunity and socioeconomic success.](/files/Urbana2021/Aaronsonetal2021.pdf) Regional science and urban economics, 86, 103622.
 * Gaubert, Cecile, Patrick M. Kline, and Danny Yagan. [Place-based redistribution. No. w28337.](/files/Urbana2021/GaubertKlineYagan2020.pdf) National Bureau of Economic Research, 2021.

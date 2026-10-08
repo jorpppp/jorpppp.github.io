@@ -3,9 +3,17 @@ title: "Matching and Local Labor Market Size in Mexico: The Role of Informality 
 collection: research
 type: working_paper
 permalink: /research/2023-6-15-akmcitysize
-excerpt: "This paper examines how informality shapes the relationship between city size and labor market matching in Mexico. We find that cities with larger informal sectors exhibit weaker matching patterns in their formal labor markets."
-date: 2023-6-15
-
+excerpt: "This paper examines how informality shapes the relationship between local labor market size and labor market matching in Mexico. Doubling a local labor market's size increases matching quality by four to seven percentage points. We find that markets with larger informal sectors exhibit weaker matching patterns in their formal labor markets."
+date: 2026-10-08
+paperurl: /files/PerezPerezMelendezNunoLedesma2026MatchingInformality.pdf
+bibtexurl: /files/bibtex/PerezPerez2026matching.bib
+scholar:
+  title: "Matching and Local Labor Market Size in Mexico: The Role of Informality"
+  authors:
+    - "Pérez Pérez, Jorge"
+    - "Meléndez, Jorge"
+    - "Nuño-Ledesma, José G."
+  year: "2026"
 ---
 With [Jorge Meléndez](https://economics.ubc.ca/profile/jorge-emilio-melendez-flores/) and [José G. Nuño-Ledesma](https://jgnunol.github.io/)
 

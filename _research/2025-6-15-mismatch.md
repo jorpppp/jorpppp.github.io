@@ -9,7 +9,7 @@ venue: Journal of Transport Geography
 venue2: 'Banco de México working papers'
 venuepaperurl: https://www.sciencedirect.com/science/article/pii/S0966692325002327
 venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B4A1C4582-7C9D-F473-E002-1C90B1BCF0A0%7D.pdf'
-paperurl: /files/SpatialMismatch.pdf
+paperurl: /files/BernalGarciaPerezPerez2025SpatialMismatch.pdf
 bibtexurl: /files/bibtex/Bernal2025better.bib
 scholar:
   title: "Better or Worse Job Accessibility? Understanding Changes in Spatial Mismatch: Evidence from Medellín, Colombia"

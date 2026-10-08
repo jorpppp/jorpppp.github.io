@@ -9,7 +9,7 @@ venue2: 'Banco de México working papers'
 venuepaperurl2: 'https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-06&locale=es_MX'
 venue3: 'Alianza EFI Working Papers (Older Version)'
 venuepaperurl3: 'https://alianzaefi.com/documento/the-contribution-of-workers-workplaces-and-sorting-to-wage-inequality-in-mexico/'
-paperurl:  /files/PerezNunoAKMDIBM.pdf
+paperurl:  /files/PerezPerezNunoLedesma2024WageDispersion.pdf
 bibtexurl: /files/bibtex/PerezPerez2024workers.bib
 scholar:
   title: "Workers, Workplaces, Sorting, and Wage Dispersion in Mexico"

@@ -5,7 +5,7 @@ type: working_paper
 permalink: /research/2026-9-30-local-labor-supply
 excerpt: "We estimate local labor supply elasticities in Mexico for 1990–2020 with shift-share instruments. Outside agriculture, a 1% demand-driven rise in male employment raises male wages by 0.36%. Female supply is even more elastic: local demand shocks mainly create jobs, not higher wages."
 date: 2026-09-30
-paperurl: /files/AldecoPerezPerezLocalLaborSupply.pdf
+paperurl: /files/AldecoLeoPerezPerez2026LocalLaborSupply.pdf
 bibtexurl: /files/bibtex/AldecoLeo2026local.bib
 scholar:
   title: "Local Labor Supply Elasticities in Mexico"

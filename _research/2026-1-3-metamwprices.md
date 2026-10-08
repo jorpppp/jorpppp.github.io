@@ -7,7 +7,7 @@ redirect_from:
   - /research/2025-6-6-metamwprices
 excerpt: "We review the literature on how minimum wage increases affect prices. We conduct a meta-analysis of 199 elasticity estimates, finding that a 10% minimum wage increase raises prices by 0.3% to 1.1%. Elasticities are smaller in broader categories of goods but larger in narrow, labor-intensive sectors."
 date: 2026-1-3
-paperurl: '/files/PerezMinimumWagePricesMetaanalysis.pdf'
+paperurl: '/files/PerezPerez2026MinimumWagePricesMetaanalysis.pdf'
 bibtexurl: /files/bibtex/PerezPerez2026effect.bib
 scholar:
   title: "The Effect of the Minimum Wage on Prices: A New Survey and a Meta-Analysis"

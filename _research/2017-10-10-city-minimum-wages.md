@@ -10,7 +10,7 @@ venuepaperurl: https://osf.io/preprints/socarxiv/fpx9e/
 venue2: 'Banco de México working papers'
 venue2year: 2022
 venuepaperurl2: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7B2CEE1500-55EA-C597-AF7E-D450ECF66951%7D.pdf'
-paperurl:  /files/Jorge_Perez_JMP.pdf
+paperurl:  /files/PerezPerez2022CityMinimumWages.pdf
 bibtexurl: /files/bibtex/PerezPerez2022city.bib
 scholar:
   title: "City Minimum Wages and Spatial Equilibrium Effects"

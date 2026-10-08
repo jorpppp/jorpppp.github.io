@@ -13,7 +13,7 @@ venue2year: 2021
 venuepaperurl2: https://osf.io/preprints/socarxiv/vh2qa/
 venue3: Documentos de Trabajo Facultad de Economía Universidad del Rosario (Older version)
 venuepaperurl3: https://repository.urosario.edu.co/handle/10336/39850
-paperurl: /files/CGP.pdf
+paperurl: /files/CortesGallegosVargasPerezPerez2025HealthShocks.pdf
 bibtexurl: /files/bibtex/Cortes2025expenditure.bib
 scholar:
   title: "Expenditure Responses to Adverse Health Shocks: Evidence from a Panel of Colombian Households"

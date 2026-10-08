@@ -7,7 +7,7 @@ excerpt: 'This paper evaluates a hiring tax credit program in North Carolina usi
 date: 2019-5-3
 venue: 'Banco de México working papers'
 venuepaperurl: 'https://www.banxico.org.mx/publications-and-press/banco-de-mexico-working-papers/%7BE0C300B6-73CD-D57C-036B-8A1F2BDA4DC1%7D.pdf'
-paperurl: /files/Perez_Suher_NC_Hiring_Credits.pdf
+paperurl: /files/PerezPerezSuher2020HiringCredits.pdf
 bibtexurl: /files/bibtex/PerezPerez2020efficacy.bib
 scholar:
   title: "The Efficacy of Hiring Credits in Distressed Areas"

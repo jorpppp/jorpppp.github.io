@@ -8,7 +8,7 @@ date: 2018-03-20
 venue: World Bank Policy Research Working Paper Series
 venueyear: 2015
 venuepaperurl: 'http://documents.worldbank.org/curated/en/748421467991999230/Unpacking-the-MPI-a-decomposition-approach-of-changes-in-multidimensional-poverty-headcounts'
-paperurl: /files/Jorge_Perez_MPI.pdf
+paperurl: /files/PerezPerezEtAl2015UnpackingMPI.pdf
 bibtexurl: /files/bibtex/PerezPerez2015unpacking.bib
 scholar:
   title: "Unpacking the MPI: A Decomposition Approach of Changes in Multidimensional Poverty Headcounts"

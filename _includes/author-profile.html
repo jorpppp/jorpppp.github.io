@@ -31,8 +31,8 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-square-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% if author.email_user and author.email_domain %}
+        <li><a href="#" data-u="{{ author.email_user | split: '' | reverse | join: '' }}" data-d="{{ author.email_domain | split: '' | reverse | join: '' }}"><i class="fa fa-fw fa-square-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a><script>(function(a){function r(s){return s.split('').reverse().join('')}a.href='mailto:'+r(a.getAttribute('data-u'))+'@'+r(a.getAttribute('data-d'))})(document.currentScript.previousElementSibling)</script></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>

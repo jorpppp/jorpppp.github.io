@@ -91,7 +91,8 @@ author:
   location         : "Mexico City, Mexico"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=XcyQ8SIAAAAJ&hl=en"
-  email            : "jorgepp@banxico.org.mx"
+  email_user       : "jorgepp"
+  email_domain     : "banxico.org.mx"
   uri              : 
   bitbucket        :
   codepen          :

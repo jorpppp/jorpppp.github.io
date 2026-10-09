@@ -12,14 +12,14 @@
 {% endcomment %}
 {% assign item = include.item %}
 
-{% if item.comment or item.blog %}
+{% if item.comment or item.blog or item.blog_es %}
 <p class="paper-extras">
   {% if item.comment %}
     {% if item.commenturl %}<a href="{{ item.commenturl }}">{{ item.comment | strip }}</a>{% else %}{{ item.comment | strip }}{% endif %}
   {% endif %}
   {% if item.comment and item.blog %}<span class="paper-extras__sep" aria-hidden="true">·</span>{% endif %}
   {% if item.blog %}<a href="{{ item.blog }}">Blog post</a>{% endif %}
-  {% if item.blog_es %}<span class="paper-extras__sep" aria-hidden="true">·</span><a href="{{ item.blog_es }}" hreflang="es">Blog post (Spanish)</a>{% endif %}
+  {% if item.blog_es %}{% if item.comment or item.blog %}<span class="paper-extras__sep" aria-hidden="true">·</span>{% endif %}<a href="{{ item.blog_es }}" hreflang="es">Blog post (Spanish)</a>{% endif %}
 </p>
 {% endif %}
 

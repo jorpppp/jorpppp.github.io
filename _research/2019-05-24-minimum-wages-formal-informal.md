@@ -20,6 +20,8 @@ scholar:
 blog: /posts/2019/08/mwcol/
 blog_es: /posts/2019/08/mwcol_es/
 venuepaperurl: https://doi.org/10.1016/j.worlddev.2020.104999
+venue2: 'Banco de México working papers (in Spanish)'
+venuepaperurl2: 'https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7B344E41EF-5105-C5FF-74D6-8FA5D7D089AC%7D.pdf'
 coverage1: HKUST-IEMS 
 coverage1url: https://iems.ust.hk/assets/publications/newsletters/hkust-iems-newsletter-spring-2017-web.pdf
 coverage2: La Silla Vacia

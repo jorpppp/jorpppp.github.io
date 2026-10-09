@@ -341,7 +341,9 @@ $paper-link-text: #3d8fa6;
   a {
     color: $paper-link-text;
     text-decoration: none;
-    white-space: nowrap;
+    // Keep each link in one piece when it fits; wrap it only when it is wider than the screen
+    display: inline-block;
+    max-width: 100%;
 
     &:hover,
     &:focus {
@@ -364,5 +366,6 @@ $paper-link-text: #3d8fa6;
 }
 
 .paper-extras__group {
-  white-space: nowrap;
+  display: inline-block;
+  max-width: 100%;
 }

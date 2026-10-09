@@ -1,5 +1,5 @@
 ---
-title: "Unpacking the MPI : A Decomposition Approach of Changes in Multidimensional Poverty Headcounts"
+title: "Unpacking the MPI: A Decomposition Approach of Changes in Multidimensional Poverty Headcounts"
 collection: research
 type: working_paper
 permalink: /research/2018-03-20-unpacking-the-mpi

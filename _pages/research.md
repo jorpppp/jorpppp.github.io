@@ -24,6 +24,7 @@ author_profile: true
   <a href="#policy-briefs-and-datasets">Policy Briefs and Datasets<span class="section-nav__count">{{ n_other }}</span></a>
   <a href="#working-papers">Working Papers<span class="section-nav__count">{{ n_working_paper }}</span></a>
   <a href="#work-in-progress">Work in Progress<span class="section-nav__count">{{ n_work_in_progress }}</span></a>
+  <a href="#software">Software<span class="section-nav__count">{{ site.data.software | size }}</span></a>
 </nav>
 
 
@@ -62,6 +63,13 @@ author_profile: true
 	{% if post.type == 'work_in_progress' %}
 		{% include archive-single.html %}
 	{% endif%}
+{% endfor %}
+
+***Software***
+-------
+
+{% for module in site.data.software %}
+{% include software-single.html module=module %}
 {% endfor %}
 
 

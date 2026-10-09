@@ -1,0 +1,21 @@
+# Stata modules listed in the Software section of the Research page (_pages/research.md).
+# Descriptions follow the SSC package files; ssc is the RePEc handle in the bocode series.
+
+- name: xtevent
+  title: "xtevent: Estimation and visualization of linear panel event-study models"
+  coauthors: "With [Simon Freyaldenhoven](https://simonfreyaldenhoven.github.io/), [Christian Hansen](https://voices.uchicago.edu/christianhansen/), [Jesse Shapiro](https://shapiro.scholars.harvard.edu/), and [Constantino Carreto](https://github.com/Constantino-Carreto-Romero)"
+  description: "Estimates linear panel event-study models, creates event-study plots, and runs hypothesis tests after estimation."
+  ssc: s458987
+  github: https://github.com/JMSLab/xtevent/
+  paper: /research/2023-10-31-xtevent
+  paper_label: Stata Journal article
+
+- name: ghansen
+  title: "ghansen: Gregory–Hansen test for cointegration with regime shifts"
+  description: "Tests the null of no cointegration against cointegration with a single structural break at an unknown date (Gregory and Hansen, 1996)."
+  ssc: s457327
+
+- name: couliari
+  title: "couliari: Corbae–Ouliaris frequency-domain filter"
+  description: "Ideal band-pass filter in the frequency domain (Corbae, Ouliaris and Phillips, 2002; Corbae and Ouliaris, 2006) to extract cycles from potentially nonstationary series."
+  ssc: s457218

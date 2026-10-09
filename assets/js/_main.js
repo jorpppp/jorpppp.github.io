@@ -23,4 +23,14 @@ $(document).ready(function(){
     }
   });
 
+  // Copy buttons for install commands (Software section of the Research page)
+  $(".copy-cmd").on("click", function() {
+    var button = $(this);
+    var label = button.html();
+    navigator.clipboard.writeText(button.data("cmd")).then(function() {
+      button.html('<i class="fa-solid fa-check" aria-hidden="true"></i>Copied');
+      setTimeout(function() { button.html(label); }, 1500);
+    });
+  });
+
 });

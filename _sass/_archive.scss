@@ -251,7 +251,9 @@ $paper-link-text: #3d8fa6;
   gap: 0.4em;
   margin-top: 0.6em;
 
-  a {
+  a,
+  button {
+    font-family: inherit;
     font-size: $type-size-6;
     line-height: 1.6;
     padding: 0.25em 0.7em;
@@ -271,6 +273,11 @@ $paper-link-text: #3d8fa6;
     .fa-brands {
       margin-right: 0.35em;
     }
+  }
+
+  button {
+    background: transparent;
+    cursor: pointer;
   }
 
   &__note {

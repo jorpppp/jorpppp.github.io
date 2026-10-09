@@ -1,0 +1,14 @@
+{% assign m = include.module %}
+{% assign ssc_url = "https://ideas.repec.org/c/boc/bocode/" | append: m.ssc | append: ".html" %}
+<div class="list__item">
+  <article class="archive__item">
+    <h2 class="archive__item-title"><a href="{{ ssc_url }}">{{ m.title }}</a></h2>
+    <p class="archive__item-excerpt">{{ m.description }}{% if m.coauthors %}<br>{{ m.coauthors | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif %}</p>
+    <p class="paper-links">
+      <button type="button" class="copy-cmd" data-cmd="ssc install {{ m.name }}" title="Copy to clipboard"><i class="fa-solid fa-terminal" aria-hidden="true"></i>ssc install {{ m.name }}</button>
+      <a href="{{ ssc_url }}"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>SSC / RePEc</a>
+      {% if m.github %}<a href="{{ m.github }}"><i class="fa-brands fa-github" aria-hidden="true"></i>GitHub</a>{% endif %}
+      {% if m.paper %}<a href="{{ m.paper }}"><i class="fa-solid fa-file-lines" aria-hidden="true"></i>{{ m.paper_label | default: "Paper" }}</a>{% endif %}
+    </p>
+  </article>
+</div>

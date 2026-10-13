@@ -140,12 +140,14 @@ exclude:
   - Capfile
   - CHANGELOG
   - CLAUDE.md
+  - AGENTS.md
   - config
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - log
+  - markdown_generator
   - node_modules
   - package.json
   - Rakefile

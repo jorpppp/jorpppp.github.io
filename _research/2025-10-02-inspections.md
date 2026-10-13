@@ -3,6 +3,8 @@ title: "Violation and Enforcement of Workplace Regulations: Evidence from Mexica
 collection: research
 type: working_paper
 permalink: /research/2025-10-02-inspections
+redirect_from:
+  - /research/2025-5-14-inspections
 excerpt: "We study how enforcing workplace regulations affects firms and workers in Mexico’s manufacturing sector. Firms with lower productivity, a smaller share of women, and a higher labor market share are more likely to violate regulations, and inspections raise compliance through more worker training and fewer workplace accidents. A staggered difference-in-differences design shows that inspections raise firm employment by approximately 4% within one year, highlighting enforcement as an effective tool to improve working conditions and mitigate labor market power."
 date: 2025-10-02
 paperurl: 'https://lukasrodrian.github.io/assets/pdf/Viol_enf_workpl_regul_CPR.pdf'

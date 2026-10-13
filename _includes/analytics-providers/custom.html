@@ -6,6 +6,9 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-6GENF5FTBP');
+  // Mark automated browsers; the GA4 data filter on traffic_type excludes them.
+  var gaBot = navigator.webdriver || /HeadlessChrome/.test(navigator.userAgent) ||
+    ['1280x1200', '1024x1024', '1800x1125'].indexOf(screen.width + 'x' + screen.height) > -1;
+  gtag('config', 'G-6GENF5FTBP', gaBot ? { traffic_type: 'bot' } : {});
 </script>
 <!-- end custom analytics snippet -->

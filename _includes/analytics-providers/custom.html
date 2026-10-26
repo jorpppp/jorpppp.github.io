@@ -6,7 +6,8 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  // Mark automated browsers; the GA4 data filter on traffic_type excludes them.
+  /* Mark automated browsers; the GA4 data filter on traffic_type excludes them.
+     Use only block comments here: the site's HTML is compressed into one line. */
   var gaBot = navigator.webdriver || /HeadlessChrome/.test(navigator.userAgent) ||
     ['1280x1200', '1024x1024', '1800x1125'].indexOf(screen.width + 'x' + screen.height) > -1;
   gtag('config', 'G-6GENF5FTBP', gaBot ? { traffic_type: 'bot' } : {});

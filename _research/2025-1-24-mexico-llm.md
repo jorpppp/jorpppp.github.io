@@ -12,8 +12,8 @@ scholar:
   title: "Local Labor Markets in Mexico: Definition, Databases, and Descriptive Analysis"
   authors:
     - "Aldeco, Lorenzo"
-    - "Calderón, Mariana"
     - "Chiquiar, Daniel"
+    - "Calderón, Mariana"
     - "Hanson, Gordon"
     - "Pérez Pérez, Jorge"
     - "Velázquez, Claudia"
@@ -25,7 +25,7 @@ coverage2url: https://segundomejor.substack.com/p/mercados-laborales-locales-en-
 coverage3: CIDE seminar (video)
 coverage3url: https://www.youtube.com/watch?v=mRxJKR_V5wA
 ---
-With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/), [Mariana Calderón](https://www.gefieo.org/en/about-us/our-team/mariana-calderon-cerbon), [Daniel Chiquiar](https://facultad.itam.mx/facultad/daniel-isaac-chiquiar-cikurel), [Gordon Hanson](https://gordonhanson.scholars.harvard.edu/), and Claudia Velázquez.
+With [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/), [Daniel Chiquiar](https://facultad.itam.mx/facultad/daniel-isaac-chiquiar-cikurel), [Mariana Calderón](https://www.gefieo.org/en/about-us/our-team/mariana-calderon-cerbon), [Gordon Hanson](https://gordonhanson.scholars.harvard.edu/), and Claudia Velázquez.
 
 This document describes the methodology used to group all the municipalities in Mexico into 777 local labor markets. The approach used to define local labor markets follows best international practices and hinges on 
 the idea that there are groups of municipalities that are highly economically integrated and, therefore, constitute a single local labor market. After defining local labor markets, census population and housing data 

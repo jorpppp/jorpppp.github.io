@@ -1,5 +1,5 @@
 ---
-title: "Do Anti-Gentrification Protests Affect the Short-Term Rental Market: Evidence from Mexico City"
+title: "Do Anti-Gentrification Protests Affect the Short-Term Rental Market? Evidence from Mexico City"
 collection: research
 type: work_in_progress
 permalink: /research/2026-08-14-airbnb-marches

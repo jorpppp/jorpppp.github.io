@@ -1,5 +1,5 @@
 ---
-title: "Housing Price Gradients in Mexico City During the COVID-19 Pandemic"
+title: "Housing Price Gradients in Mexico City During the COVID-19 Pandemic (Submitted)"
 collection: research
 type: working_paper
 permalink: /research/2024-10-31-mnp-gradients
